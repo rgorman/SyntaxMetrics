@@ -5,6 +5,8 @@
         <options/>
     </meta>
     <projectTree name="SyntaxMetrics.xpr">
-        <folder path="."/>
+        <folder path="base_files/"/>
+        <folder path="R_files/"/>
+        <folder path="xsl%20files/"/>
     </projectTree>
 </project>
