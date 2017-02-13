@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<projectivity_document>
+    <sentence id="1" document_id="" subdoc="" span="" status="blop"
+        combined="2,1 2,4 2,4,9,5 2,4,9,5,7,6 2,4,9,5,7 2,4,9,8 2,4,9">
+        <word id="1" form="Iustitia" lemma="justitia" postag="n-s---fn-" relation="SBJ" head="2">
+            <geodesic>2,1</geodesic>
+        </word>
+        <word id="2" form="restat" lemma="resto" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2">
+            <geodesic>2,4</geodesic>
+        </word>
+        <word id="5" form="de" lemma="de" postag="r--------" relation="AuxP" head="9">
+            <geodesic>2,4,9,5</geodesic>
+        </word>
+        <word id="6" form="omni" lemma="omnis" postag="a-s---fb-" relation="ATR" head="7">
+            <geodesic>2,4,9,5,7,6</geodesic>
+        </word>
+        <word id="7" form="virtute" lemma="virtus" postag="n-s---fb-" relation="ADV" head="5">
+            <geodesic>2,4,9,5,7</geodesic>
+        </word>
+        <word id="8" form="sit" lemma="sum1" postag="v3spsa---" relation="AuxV" head="9">
+            <geodesic>2,4,9,8</geodesic>
+        </word>
+        <word id="9" form="dictum" lemma="dico2" postag="v-srppnn-" relation="AuxY" head="4">
+            <geodesic>2,4,9</geodesic>
+        </word>
+        <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="" subdoc="" span="" status="blop"
+        combined="1,5,2 1,5,2,3 1,5,4 1,5">
+        <word id="1" form="sed" lemma="sed" postag="c--------" relation="COORD" head="0"/>
+        <word id="2" form="similia" lemma="similis" postag="a-p---nn-" relation="SBJ" head="5">
+            <geodesic>1,5,2</geodesic>
+        </word>
+        <word id="3" form="fere" lemma="fere" postag="d--------" relation="ADV" head="2">
+            <geodesic>1,5,2,3</geodesic>
+        </word>
+        <word id="4" form="dici" lemma="dico2" postag="v--pnp---" relation="OBJ" head="5">
+            <geodesic>1,5,4</geodesic>
+        </word>
+        <word id="5" form="possunt" lemma="possum" postag="v3ppia---" relation="PRED_CO" head="1">
+            <geodesic>1,5</geodesic>
+        </word>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="3" document_id="" subdoc="" span="" status="blop"
+        combined="30,27,1 30,2 30,27,1,10,8,6,3 30,27,1,10,8,6,5 30,27,1,10,8,6 30,27,1,10,8,6,7 30,27,1,10,8 30,27,1,10,8,9 30,27,1,10 30,27,1,10,8,11 30,27,1,10,8,11,12 30,27,1,10,8,14 30,27,1,10,8,14,25,23,15 30,27,1,10,8,14,25,23,15,16 30,27,1,10,8,14,25,23,18,17 30,27,1,10,8,14,25,23,18 30,27,1,10,8,14,25,23,21,19 30,27,1,10,8,14,25,23,20 30,27,1,10,8,14,25,23,21 30,27,1,10,8,14,25,23,24,22 30,27,1,10,8,14,25,23 30,27,1,10,8,14,25,23,24 30,27,1,10,8,14,25 30,27 30,28 30,28,29 30,31 30,28,29,40,33 30,28,29,40,37,35,34 30,28,29,40,37,35 30,28,29,40,37,36 30,28,29,40,37 30,28,29,40,37,38 30,28,29,40 30,28,29,40,43,41 30,28,29,40,43,42 30,28,29,40,43 30,28,29,40,43,54,44 30,28,29,40,43,54,47,45 30,28,29,40,43,54,47,46 30,28,29,40,43,54,47 30,28,29,40,43,54,47,48 30,28,29,40,43,50 30,28,29,40,43,50,51 30,28,29,40,43,50,51,52 30,28,29,40,43,54 30,28,29,40,43,54,55 30,28,29,40,43,54,55,59,56 30,28,29,40,43,54,55,59,56,58,57 30,28,29,40,43,54,55,59,56,58 30,28,29,40,43,54,55,59 30,28,29,40,43,54,55,59,56,58,65,61 30,28,29,40,43,54,55,59,56,58,65,62 30,28,29,40,43,54,55,59,56,58,65,64,63 30,28,29,40,43,54,55,59,56,58,65,64 30,28,29,40,43,54,55,59,56,58,65">
+        <word id="1" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="27">
+            <geodesic>30,27,1</geodesic>
+        </word>
+        <word id="2" form="enim" lemma="enim" postag="d-------_" relation="AuxY" head="30">
+            <geodesic>30,2</geodesic>
+        </word>
+        <word id="3" form="sapientiam" lemma="sapientia" postag="n-s---fa-" relation="SBJ_CO"
+            head="6">
+            <geodesic>30,27,1,10,8,6,3</geodesic>
+        </word>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="temperantiam" lemma="temperantia" postag="n-s---fa-" relation="SBJ_CO"
+            head="6">
+            <geodesic>30,27,1,10,8,6,5</geodesic>
+        </word>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="COORD" head="8">
+            <geodesic>30,27,1,10,8,6</geodesic>
+        </word>
+        <word id="7" form="fortitudinem" lemma="fortitudo" postag="n-s---fa-" relation="SBJ_CO"
+            head="6">
+            <geodesic>30,27,1,10,8,6,7</geodesic>
+        </word>
+        <word id="8" form="copulatas" lemma="copulo" postag="v-prppfa-" relation="OBJ" head="10">
+            <geodesic>30,27,1,10,8</geodesic>
+        </word>
+        <word id="9" form="esse" lemma="sum1" postag="v--pna---" relation="AuxV" head="8">
+            <geodesic>30,27,1,10,8,9</geodesic>
+        </word>
+        <word id="10" form="docui" lemma="doceo" postag="v1sria---" relation="ADV" head="1">
+            <geodesic>30,27,1,10</geodesic>
+        </word>
+        <word id="11" form="cum" lemma="cum" postag="r--------" relation="AuxP" head="8">
+            <geodesic>30,27,1,10,8,11</geodesic>
+        </word>
+        <word id="12" form="voluptate" lemma="voluptas" postag="n-s---fb-" relation="OBJ" head="11">
+            <geodesic>30,27,1,10,8,11,12</geodesic>
+        </word>
+        <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="14" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="8">
+            <geodesic>30,27,1,10,8,14</geodesic>
+        </word>
+        <word id="15" form="ab" lemma="ab" postag="r--------" relation="AuxP" head="23">
+            <geodesic>30,27,1,10,8,14,25,23,15</geodesic>
+        </word>
+        <word id="16" form="ea" lemma="is" postag="p-s---fb-" relation="OBJ" head="15">
+            <geodesic>30,27,1,10,8,14,25,23,15,16</geodesic>
+        </word>
+        <word id="17" form="nullo" lemma="nullus" postag="a-s---mb-" relation="ATR" head="18">
+            <geodesic>30,27,1,10,8,14,25,23,18,17</geodesic>
+        </word>
+        <word id="18" form="modo" lemma="modus" postag="n-s---mb-" relation="ADV" head="23">
+            <geodesic>30,27,1,10,8,14,25,23,18</geodesic>
+        </word>
+        <word id="19" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="21">
+            <geodesic>30,27,1,10,8,14,25,23,21,19</geodesic>
+        </word>
+        <word id="20" form="-c" lemma="-c" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>30,27,1,10,8,14,25,23,20</geodesic>
+        </word>
+        <word id="21" form="divelli" lemma="divello" postag="v--pnp---" relation="OBJ_CO" head="23">
+            <geodesic>30,27,1,10,8,14,25,23,21</geodesic>
+        </word>
+        <word id="22" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="24">
+            <geodesic>30,27,1,10,8,14,25,23,24,22</geodesic>
+        </word>
+        <word id="23" form="-c" lemma="-c" postag="c--------" relation="COORD" head="25">
+            <geodesic>30,27,1,10,8,14,25,23</geodesic>
+        </word>
+        <word id="24" form="distrahi" lemma="distraho" postag="v--pnp---" relation="OBJ_CO"
+            head="23">
+            <geodesic>30,27,1,10,8,14,25,23,24</geodesic>
+        </word>
+        <word id="25" form="possint" lemma="possum" postag="v3ppsa---" relation="ADV" head="14">
+            <geodesic>30,27,1,10,8,14,25</geodesic>
+        </word>
+        <word id="26" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="27" form="sic" lemma="sic" postag="d--------" relation="ADV" head="30">
+            <geodesic>30,27</geodesic>
+        </word>
+        <word id="28" form="de" lemma="de" postag="r--------" relation="AuxP" head="30">
+            <geodesic>30,28</geodesic>
+        </word>
+        <word id="29" form="iustitia" lemma="justitia" postag="n-s---fb-" relation="ADV" head="28">
+            <geodesic>30,28,29</geodesic>
+        </word>
+        <word id="30" form="iudicandum" lemma="judico" postag="v-s-g-nn-" relation="PRED" head="0"/>
+        <word id="31" form="est" lemma="sum1" postag="v3spia---" relation="AuxV" head="30">
+            <geodesic>30,31</geodesic>
+        </word>
+        <word id="32" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="33" form="quae" lemma="qui2" postag="p-s---fn-" relation="SBJ" head="40">
+            <geodesic>30,28,29,40,33</geodesic>
+        </word>
+        <word id="34" form="non" lemma="non" postag="d--------" relation="AuxZ" head="35">
+            <geodesic>30,28,29,40,37,35,34</geodesic>
+        </word>
+        <word id="35" form="modo" lemma="modo" postag="d--------" relation="AuxZ" head="37">
+            <geodesic>30,28,29,40,37,35</geodesic>
+        </word>
+        <word id="36" form="numquam" lemma="numquam" postag="d--------" relation="ADV" head="37">
+            <geodesic>30,28,29,40,37,36</geodesic>
+        </word>
+        <word id="37" form="nocet" lemma="noceo" postag="v3spia---" relation="ATR_CO" head="40">
+            <geodesic>30,28,29,40,37</geodesic>
+        </word>
+        <word id="38" form="cuiquam" lemma="quisquam" postag="p-s---md-" relation="OBJ" head="37">
+            <geodesic>30,28,29,40,37,38</geodesic>
+        </word>
+        <word id="39" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="40" form="sed" lemma="sed" postag="c--------" relation="COORD" head="29">
+            <geodesic>30,28,29,40</geodesic>
+        </word>
+        <word id="41" form="contra" lemma="contra" postag="d--------" relation="AuxZ" head="43">
+            <geodesic>30,28,29,40,43,41</geodesic>
+        </word>
+        <word id="42" form="semper" lemma="semper" postag="d--------" relation="ADV" head="43">
+            <geodesic>30,28,29,40,43,42</geodesic>
+        </word>
+        <word id="43" form="afficit" lemma="afficio" postag="v3spia---" relation="ATR_CO" head="40">
+            <geodesic>30,28,29,40,43</geodesic>
+        </word>
+        <word id="44" form="cum" lemma="cum" postag="d-------_" relation="AuxY" head="54">
+            <geodesic>30,28,29,40,43,54,44</geodesic>
+        </word>
+        <word id="45" form="vi" lemma="vis" postag="n-s---fd-" relation="OBJ_CO" head="47">
+            <geodesic>30,28,29,40,43,54,47,45</geodesic>
+        </word>
+        <word id="46" form="sua" lemma="suus" postag="a-s---fb-" relation="ATR" head="47">
+            <geodesic>30,28,29,40,43,54,47,46</geodesic>
+        </word>
+        <word id="47" form="atque" lemma="atque" postag="c--------" relation="COORD" head="54">
+            <geodesic>30,28,29,40,43,54,47</geodesic>
+        </word>
+        <word id="48" form="natura" lemma="natura" postag="n-s---fb-" relation="OBJ_CO" head="47">
+            <geodesic>30,28,29,40,43,54,47,48</geodesic>
+        </word>
+        <word id="49" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="50" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="43">
+            <geodesic>30,28,29,40,43,50</geodesic>
+        </word>
+        <word id="51" form="tranquillat" lemma="tranquillo2" postag="v3spia---" relation="OBJ"
+            head="50">
+            <geodesic>30,28,29,40,43,50,51</geodesic>
+        </word>
+        <word id="52" form="animos" lemma="animus" postag="n-p---ma-" relation="OBJ" head="51">
+            <geodesic>30,28,29,40,43,50,51,52</geodesic>
+        </word>
+        <word id="53" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="54" form="tum" lemma="tum" postag="c--------" relation="COORD" head="43">
+            <geodesic>30,28,29,40,43,54</geodesic>
+        </word>
+        <word id="55" form="spe" lemma="spes" postag="n-s---fb-" relation="OBJ_CO" head="54">
+            <geodesic>30,28,29,40,43,54,55</geodesic>
+        </word>
+        <word id="56" form="nihil" lemma="nihil" postag="n-s---na-" relation="SBJ" head="59">
+            <geodesic>30,28,29,40,43,54,55,59,56</geodesic>
+        </word>
+        <word id="57" form="earum" lemma="is" postag="a-p---fg_" relation="ATR" head="58">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,57</geodesic>
+        </word>
+        <word id="58" form="rerum" lemma="res" postag="n-p---fg-" relation="ATR" head="56">
+            <geodesic>30,28,29,40,43,54,55,59,56,58</geodesic>
+        </word>
+        <word id="59" form="defuturum" lemma="desum" postag="v-sfpana-" relation="ATR" head="55">
+            <geodesic>30,28,29,40,43,54,55,59</geodesic>
+        </word>
+        <word id="60" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="61" form="quas" lemma="qui2" postag="p-p---fa-" relation="OBJ" head="65">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,65,61</geodesic>
+        </word>
+        <word id="62" form="natura" lemma="natura" postag="n-s---fn-" relation="SBJ" head="65">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,65,62</geodesic>
+        </word>
+        <word id="63" form="non" lemma="non" postag="d--------" relation="AuxZ" head="64">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,65,64,63</geodesic>
+        </word>
+        <word id="64" form="depravata" lemma="depravo" postag="v-srppfn-" relation="ADV" head="65">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,65,64</geodesic>
+        </word>
+        <word id="65" form="desiderat" lemma="desidero" postag="v3spia---" relation="ATR" head="58">
+            <geodesic>30,28,29,40,43,54,55,59,56,58,65</geodesic>
+        </word>
+        <word id="66" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="4" document_id="" subdoc="" span="" status="blop"
+        combined="1,35,20,13,3,4,2 1,35,20,13,3 1,35,20,13,3,4 1,35,20,13,8,5 1,35,20,13,8,6 1,35,20,13,8,7 1,35,20,13,8 1,35,20,13,8,9 1,35,20,13,12,10 1,35,20,13,12,11 1,35,20,13,12 1,35,20,13 1,35,20,13,17,15,14 1,35,20,13,17,15 1,35,20,13,17,18,16 1,35,20,13,17 1,35,20,13,17,18 1,35,20 1,35,21 1,35,22 1,35,22,26,24,25,23 1,35,22,26,24 1,35,22,26,24,25 1,35,22,26 1,35,28 1,35,28,29 1,35,28,31 1,35,28,31,32 1,35,34 1,35">
+        <word id="1" form="Et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+        <word id="2" form="quem" lemma="qui2" postag="a-s---ma_" relation="ATR" head="4">
+            <geodesic>1,35,20,13,3,4,2</geodesic>
+        </word>
+        <word id="3" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="13">
+            <geodesic>1,35,20,13,3</geodesic>
+        </word>
+        <word id="4" form="modum" lemma="modus" postag="n-s---ma-" relation="ADV" head="3">
+            <geodesic>1,35,20,13,3,4</geodesic>
+        </word>
+        <word id="5" form="temeritas" lemma="temeritas" postag="n-s---fn-" relation="SBJ_CO"
+            head="8">
+            <geodesic>1,35,20,13,8,5</geodesic>
+        </word>
+        <word id="6" form="et" lemma="et" postag="d-------_" relation="AuxY" head="8">
+            <geodesic>1,35,20,13,8,6</geodesic>
+        </word>
+        <word id="7" form="libido" lemma="libido" postag="n-s---fn-" relation="SBJ_CO" head="8">
+            <geodesic>1,35,20,13,8,7</geodesic>
+        </word>
+        <word id="8" form="et" lemma="et" postag="c--------" relation="COORD" head="13">
+            <geodesic>1,35,20,13,8</geodesic>
+        </word>
+        <word id="9" form="ignavia" lemma="ignavia" postag="n-s---fn-" relation="SBJ_CO" head="8">
+            <geodesic>1,35,20,13,8,9</geodesic>
+        </word>
+        <word id="10" form="semper" lemma="semper" postag="d--------" relation="ADV" head="12">
+            <geodesic>1,35,20,13,12,10</geodesic>
+        </word>
+        <word id="11" form="animum" lemma="animus" postag="n-s---ma-" relation="OBJ" head="12">
+            <geodesic>1,35,20,13,12,11</geodesic>
+        </word>
+        <word id="12" form="excruciant" lemma="excrucio" postag="v3ppia---" relation="ADV_CO"
+            head="13">
+            <geodesic>1,35,20,13,12</geodesic>
+        </word>
+        <word id="13" form="et" lemma="et" postag="c--------" relation="COORD" head="20">
+            <geodesic>1,35,20,13</geodesic>
+        </word>
+        <word id="14" form="semper" lemma="semper" postag="d--------" relation="ADV" head="15">
+            <geodesic>1,35,20,13,17,15,14</geodesic>
+        </word>
+        <word id="15" form="sollicitant" lemma="sollicito" postag="v3ppia---" relation="ADV_CO"
+            head="17">
+            <geodesic>1,35,20,13,17,15</geodesic>
+        </word>
+        <word id="16" form="turbulentae" lemma="turbulentus" postag="a-p---fn-" relation="PNOM"
+            head="18">
+            <geodesic>1,35,20,13,17,18,16</geodesic>
+        </word>
+        <word id="17" form="-que" lemma="-que" postag="c--------" relation="COORD" head="13">
+            <geodesic>1,35,20,13,17</geodesic>
+        </word>
+        <word id="18" form="sunt" lemma="sum1" postag="v3ppia---" relation="ADV_CO" head="17">
+            <geodesic>1,35,20,13,17,18</geodesic>
+        </word>
+        <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="20" form="sic" lemma="sic" postag="d--------" relation="ADV" head="35">
+            <geodesic>1,35,20</geodesic>
+        </word>
+        <word id="21" form="inprobitas" lemma="improbitas" postag="n-s---fn-" relation="SBJ"
+            head="35">
+            <geodesic>1,35,21</geodesic>
+        </word>
+        <word id="22" form="si" lemma="si" postag="c--------" relation="AuxC" head="35">
+            <geodesic>1,35,22</geodesic>
+        </word>
+        <word id="23" form="cuius" lemma="aliquis" postag="p-s---mg-" relation="ATR" head="25">
+            <geodesic>1,35,22,26,24,25,23</geodesic>
+        </word>
+        <word id="24" form="in" lemma="in" postag="r--------" relation="AuxP" head="26">
+            <geodesic>1,35,22,26,24</geodesic>
+        </word>
+        <word id="25" form="mente" lemma="mens" postag="n-s---fb-" relation="OBJ" head="24">
+            <geodesic>1,35,22,26,24,25</geodesic>
+        </word>
+        <word id="26" form="consedit" lemma="consido" postag="v3sria---" relation="ADV" head="22">
+            <geodesic>1,35,22,26</geodesic>
+        </word>
+        <word id="27" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="28" form="hoc" lemma="hic" postag="p-s---nb-" relation="ADV" head="35">
+            <geodesic>1,35,28</geodesic>
+        </word>
+        <word id="29" form="ipso" lemma="ipse" postag="a-s---nb_" relation="ATV" head="28">
+            <geodesic>1,35,28,29</geodesic>
+        </word>
+        <word id="30" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="31" form="quod" lemma="quod" postag="c--------" relation="AuxC" head="28">
+            <geodesic>1,35,28,31</geodesic>
+        </word>
+        <word id="32" form="adest" lemma="adsum" postag="v3spia---" relation="ATR" head="31">
+            <geodesic>1,35,28,31,32</geodesic>
+        </word>
+        <word id="33" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="34" form="turbulenta" lemma="turbulentus" postag="a-s---fn-" relation="PNOM"
+            head="35">
+            <geodesic>1,35,34</geodesic>
+        </word>
+        <word id="35" form="est" lemma="sum1" postag="v3spia---" relation="PRED_CO" head="1">
+            <geodesic>1,35</geodesic>
+        </word>
+        <word id="36" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="5" document_id="" subdoc="" span="" status="blop"
+        combined="14,1 14,2 14,1,3 14,1,3,4 14,1,3,5 14,7 14,7,9,8 14,7,9 14,11 14,12 14,15,13 14,15 14,15,16 14,15,17">
+        <word id="1" form="si" lemma="si" postag="c--------" relation="AuxC" head="14">
+            <geodesic>14,1</geodesic>
+        </word>
+        <word id="2" form="vero" lemma="verus" postag="a-s---nb-" relation="AuxY" head="14">
+            <geodesic>14,2</geodesic>
+        </word>
+        <word id="3" form="molita" lemma="molior" postag="v-srppfn-" relation="ADV" head="1">
+            <geodesic>14,1,3</geodesic>
+        </word>
+        <word id="4" form="quippiam" lemma="quispiam" postag="p-s---na-" relation="OBJ" head="3">
+            <geodesic>14,1,3,4</geodesic>
+        </word>
+        <word id="5" form="est" lemma="sum1" postag="v3spia---" relation="AuxV" head="3">
+            <geodesic>14,1,3,5</geodesic>
+        </word>
+        <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="7" form="quamvis" lemma="quamvis" postag="c--------" relation="AuxC" head="14">
+            <geodesic>14,7</geodesic>
+        </word>
+        <word id="8" form="occulte" lemma="occulo" postag="d-------_" relation="ADV" head="9">
+            <geodesic>14,7,9,8</geodesic>
+        </word>
+        <word id="9" form="fecerit" lemma="facio" postag="v3stia---" relation="ADV" head="7">
+            <geodesic>14,7,9</geodesic>
+        </word>
+        <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="11" form="numquam" lemma="numquam" postag="d--------" relation="ADV" head="14">
+            <geodesic>14,11</geodesic>
+        </word>
+        <word id="12" form="tamen" lemma="tamen" postag="d--------" relation="AuxY" head="14">
+            <geodesic>14,12</geodesic>
+        </word>
+        <word id="13" form="id" lemma="is" postag="p-s---na-" relation="SBJ" head="15">
+            <geodesic>14,15,13</geodesic>
+        </word>
+        <word id="14" form="confidet" lemma="confido" postag="v3sfia---" relation="PRED" head="0"/>
+        <word id="15" form="fore" lemma="sum1" postag="v--fna---" relation="OBJ" head="14">
+            <geodesic>14,15</geodesic>
+        </word>
+        <word id="16" form="semper" lemma="semper" postag="d--------" relation="ADV" head="15">
+            <geodesic>14,15,16</geodesic>
+        </word>
+        <word id="17" form="occultum" lemma="occulo" postag="v-srppnn-" relation="PNOM" head="15">
+            <geodesic>14,15,17</geodesic>
+        </word>
+        <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="6" document_id="" subdoc="" span="" status="blop"
+        combined="15,1 15,6,3,2 15,6,3 15,6,4 15,6,5 15,6 15,19,8 15,19,10,9 15,19,10 15,19,10,11 15,20,13 15,20,14 15,21,16 15,21,17 15,19 15,20 15,21">
+        <word id="1" form="plerumque" lemma="pleraque" postag="d--------" relation="AuxY" head="15">
+            <geodesic>15,1</geodesic>
+        </word>
+        <word id="2" form="improborum" lemma="improbus" postag="a-p---mg-" relation="ATR" head="3">
+            <geodesic>15,6,3,2</geodesic>
+        </word>
+        <word id="3" form="facta" lemma="factum" postag="n-p---na-" relation="OBJ" head="6">
+            <geodesic>15,6,3</geodesic>
+        </word>
+        <word id="4" form="primo" lemma="primo" postag="d--------" relation="ADV" head="6">
+            <geodesic>15,6,4</geodesic>
+        </word>
+        <word id="5" form="suspicio" lemma="suspicio2" postag="n-s---fn-" relation="SBJ" head="6">
+            <geodesic>15,6,5</geodesic>
+        </word>
+        <word id="6" form="insequitur" lemma="insequor" postag="v3spip---" relation="PRED_CO"
+            head="15">
+            <geodesic>15,6</geodesic>
+        </word>
+        <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="8" form="dein" lemma="deinde" postag="d--------" relation="ADV" head="19">
+            <geodesic>15,19,8</geodesic>
+        </word>
+        <word id="9" form="sermo" lemma="sermo" postag="n-s---mn-" relation="SBJ_CO" head="10">
+            <geodesic>15,19,10,9</geodesic>
+        </word>
+        <word id="10" form="atque" lemma="atque" postag="c--------" relation="COORD" head="19">
+            <geodesic>15,19,10</geodesic>
+        </word>
+        <word id="11" form="fama" lemma="fama" postag="n-s---fn-" relation="SBJ_CO" head="10">
+            <geodesic>15,19,10,11</geodesic>
+        </word>
+        <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="13" form="tum" lemma="tum" postag="d--------" relation="ADV" head="20">
+            <geodesic>15,20,13</geodesic>
+        </word>
+        <word id="14" form="accusator" lemma="accusator" postag="n-s---mn-" relation="SBJ" head="20">
+            <geodesic>15,20,14</geodesic>
+        </word>
+        <word id="15" form="," lemma="punc1" postag="u--------" relation="COORD" head="0"/>
+        <word id="16" form="tum" lemma="tum" postag="d--------" relation="ADV" head="21">
+            <geodesic>15,21,16</geodesic>
+        </word>
+        <word id="17" form="iudex" lemma="judex" postag="n-s---mn-" relation="SBJ" head="21">
+            <geodesic>15,21,17</geodesic>
+        </word>
+        <word id="18" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="19" insertion_id="0018e" artificial="elliptic" relation="PRED_CO" lemma="sequor"
+            postag="v3ppip---" form="sequuntur" head="15">
+            <geodesic>15,19</geodesic>
+        </word>
+        <word id="20" insertion_id="0018f" artificial="elliptic" relation="PRED_CO" lemma="sequor"
+            postag="v3spip---" form="sequitur" head="15">
+            <geodesic>15,20</geodesic>
+        </word>
+        <word id="21" insertion_id="0018g" artificial="elliptic" relation="PRED_CO" lemma="sequor"
+            postag="v3spip---" form="sequitur" head="15">
+            <geodesic>15,21</geodesic>
+        </word>
+    </sentence>
+    <sentence id="7" document_id="" subdoc="" span="" status="blop"
+        combined="10,1 10,2 10,4 10,4,12,5 10,4,12,5,6 10,1,8 10,9 10,4,12">
+        <word id="1" form="multi" lemma="multus" postag="a-p---mn-" relation="ATR" head="10">
+            <geodesic>10,1</geodesic>
+        </word>
+        <word id="2" form="etiam" lemma="etiam" postag="d-------_" relation="AuxY" head="10">
+            <geodesic>10,2</geodesic>
+        </word>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="10">
+            <geodesic>10,4</geodesic>
+        </word>
+        <word id="5" form="te" lemma="tu" postag="p-s---mb-" relation="ADV" head="12">
+            <geodesic>10,4,12,5</geodesic>
+        </word>
+        <word id="6" form="consule" lemma="consul" postag="n-s---mb-" relation="ATV" head="5">
+            <geodesic>10,4,12,5,6</geodesic>
+        </word>
+        <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="8" form="ipsi" lemma="ipse" postag="p-p---mn-" relation="ATV" head="1">
+            <geodesic>10,1,8</geodesic>
+        </word>
+        <word id="9" form="se" lemma="sui" postag="p-p---ma-" relation="OBJ" head="10">
+            <geodesic>10,9</geodesic>
+        </word>
+        <word id="10" form="indicaverunt" lemma="indico1" postag="v3pria---" relation="PRED"
+            head="0"/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="12" insertion_id="0011e" artificial="elliptic" relation="ADV" form="[0]" head="4">
+            <geodesic>10,4,12</geodesic>
+        </word>
+    </sentence>
+    <sentence id="8" document_id="" subdoc="" span="" status="blop"
+        combined="18,1 18,12,2 18,12,3 18,12,4 18,12,9,10,5 18,12,9,10,5,7,6 18,12,9,10,5,7 18,12,9,10,8 18,12,9 18,12,9,10 18,12,9,10,11 18,12 18,16,39,14 18,15 18,16 18,37,36,20,17 18,37,36,20,19 18,37,36,20 18,37,36,20,29,22 18,37,36,20,29,24,23 18,37,36,20,29,24 18,37,36,20,29,28,25 18,37,36,20,29,28,26 18,37,36,20,29,28,27 18,37,36,20,29,28 18,37,36,20,29 18,37,36,31 18,37,36,31,32 18,37,36,31,32,33 18,37,36,35,34 18,37,36,35 18,37,36 18,37 18,16,39">
+        <word id="1" form="quodsi" lemma="quodsi" postag="d-------_" relation="AuxY" head="18">
+            <geodesic>18,1</geodesic>
+        </word>
+        <word id="2" form="qui" lemma="qui2" postag="p-p---mn-" relation="SBJ" head="12">
+            <geodesic>18,12,2</geodesic>
+        </word>
+        <word id="3" form="satis" lemma="satis" postag="d--------" relation="ADV" head="12">
+            <geodesic>18,12,3</geodesic>
+        </word>
+        <word id="4" form="sibi" lemma="sui" postag="p-p---md-" relation="OBJ" head="12">
+            <geodesic>18,12,4</geodesic>
+        </word>
+        <word id="5" form="contra" lemma="contra" postag="r--------" relation="AuxP" head="10">
+            <geodesic>18,12,9,10,5</geodesic>
+        </word>
+        <word id="6" form="hominum" lemma="homo" postag="n-p---mg-" relation="ATR" head="7">
+            <geodesic>18,12,9,10,5,7,6</geodesic>
+        </word>
+        <word id="7" form="conscientiam" lemma="conscientia" postag="n-s---fa-" relation="OBJ"
+            head="5">
+            <geodesic>18,12,9,10,5,7</geodesic>
+        </word>
+        <word id="8" form="saepti" lemma="saepio" postag="v-prppmn-" relation="PNOM_CO" head="10">
+            <geodesic>18,12,9,10,8</geodesic>
+        </word>
+        <word id="9" form="esse" lemma="sum1" postag="v--pna---" relation="OBJ" head="12">
+            <geodesic>18,12,9</geodesic>
+        </word>
+        <word id="10" form="et" lemma="et" postag="c--------" relation="COORD" head="9">
+            <geodesic>18,12,9,10</geodesic>
+        </word>
+        <word id="11" form="muniti" lemma="munio" postag="v-prppmn-" relation="PNOM_CO" head="10">
+            <geodesic>18,12,9,10,11</geodesic>
+        </word>
+        <word id="12" form="videntur" lemma="video" postag="v3ppip---" relation="SBJ" head="18">
+            <geodesic>18,12</geodesic>
+        </word>
+        <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="14" form="deorum" lemma="deus" postag="n-p---mg-" relation="ATR" head="39">
+            <geodesic>18,16,39,14</geodesic>
+        </word>
+        <word id="15" form="tamen" lemma="tamen" postag="d--------" relation="AuxY" head="18">
+            <geodesic>18,15</geodesic>
+        </word>
+        <word id="16" form="horrent" lemma="horreo" postag="v3ppia---" relation="PRED_CO" head="18">
+            <geodesic>18,16</geodesic>
+        </word>
+        <word id="17" form="eas" lemma="is" postag="a-p---fa_" relation="ATR" head="20">
+            <geodesic>18,37,36,20,17</geodesic>
+        </word>
+        <word id="18" form="-que" lemma="-que" postag="c--------" relation="COORD" head="0"/>
+        <word id="19" form="ipsas" lemma="ipse" postag="a-p---fa_" relation="ATR" head="20">
+            <geodesic>18,37,36,20,19</geodesic>
+        </word>
+        <word id="20" form="sollicitudines" lemma="sollicitudo" postag="n-p---fa-" relation="SBJ"
+            head="36">
+            <geodesic>18,37,36,20</geodesic>
+        </word>
+        <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="22" form="quibus" lemma="qui2" postag="p-p---fb-" relation="ADV" head="29">
+            <geodesic>18,37,36,20,29,22</geodesic>
+        </word>
+        <word id="23" form="eorum" lemma="is" postag="p-p---mg-" relation="ATR" head="24">
+            <geodesic>18,37,36,20,29,24,23</geodesic>
+        </word>
+        <word id="24" form="animi" lemma="animus" postag="n-p---mn-" relation="SBJ" head="29">
+            <geodesic>18,37,36,20,29,24</geodesic>
+        </word>
+        <word id="25" form="noctes" lemma="nox" postag="n-p---fa-" relation="ADV_CO" head="28">
+            <geodesic>18,37,36,20,29,28,25</geodesic>
+        </word>
+        <word id="26" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="28">
+            <geodesic>18,37,36,20,29,28,26</geodesic>
+        </word>
+        <word id="27" form="dies" lemma="dies" postag="n-p---ma-" relation="ADV_CO" head="28">
+            <geodesic>18,37,36,20,29,28,27</geodesic>
+        </word>
+        <word id="28" form="-que" lemma="-que" postag="c--------" relation="COORD" head="29">
+            <geodesic>18,37,36,20,29,28</geodesic>
+        </word>
+        <word id="29" form="exeduntur" lemma="exedo" postag="v3ppip---" relation="ATR" head="20">
+            <geodesic>18,37,36,20,29</geodesic>
+        </word>
+        <word id="30" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="31" form="a" lemma="ab" postag="r--------" relation="AuxP" head="36">
+            <geodesic>18,37,36,31</geodesic>
+        </word>
+        <word id="32" form="diis" lemma="deus" postag="n-p---mb-" relation="OBJ" head="31">
+            <geodesic>18,37,36,31,32</geodesic>
+        </word>
+        <word id="33" form="inmortalibus" lemma="immortalis" postag="a-p---mb-" relation="ATR"
+            head="32">
+            <geodesic>18,37,36,31,32,33</geodesic>
+        </word>
+        <word id="34" form="supplicii" lemma="supplicium" postag="n-s---ng-" relation="ATR"
+            head="35">
+            <geodesic>18,37,36,35,34</geodesic>
+        </word>
+        <word id="35" form="causa" lemma="causa" postag="n-s---fb-" relation="ADV" head="36">
+            <geodesic>18,37,36,35</geodesic>
+        </word>
+        <word id="36" form="importari" lemma="importo" postag="v--pnp---" relation="OBJ" head="37">
+            <geodesic>18,37,36</geodesic>
+        </word>
+        <word id="37" form="putant" lemma="puto" postag="v3ppia---" relation="PRED_CO" head="18">
+            <geodesic>18,37</geodesic>
+        </word>
+        <word id="38" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="39" insertion_id="0038e" artificial="elliptic" relation="OBJ" lemma="conscientia"
+            postag="n-s---fa-" form="conscientiam" head="16">
+            <geodesic>18,16,39</geodesic>
+        </word>
+    </sentence>
+    <sentence id="9" document_id="" subdoc="" span="" status="blop"
+        combined="12,11,1 12,2 12,11,3 12,13,4 12,13,4,6,5 12,13,4,6 12,11,7 12,11,7,8 12,11,7,8,10,9 12,11,7,8,10 12,11 12,13 12,11,3,30,32,15 12,11,3,30,32,16 12,11,3,30,32,16,17 12,11,3,30,31,23,19 12,11,3,30,31,23,20 12,11,3,30,31,23,20,21 12,11,3,30,31,23 12,11,3,30,31,23,27,24 12,11,3,30,31,23,27,24,25 12,11,3,30,31,23,27,26 12,11,3,30,31,23,27 12,11,3,30,31,23,27,26,28 12,11,3,30 12,11,3,30,31 12,11,3,30,32">
+        <word id="1" form="quae" lemma="qui2" postag="a-s---fn_" relation="ATR" head="11">
+            <geodesic>12,11,1</geodesic>
+        </word>
+        <word id="2" form="autem" lemma="autem" postag="d-------_" relation="AuxY" head="12">
+            <geodesic>12,2</geodesic>
+        </word>
+        <word id="3" form="tanta" lemma="tantus" postag="a-s---fn-" relation="ATV" head="11">
+            <geodesic>12,11,3</geodesic>
+        </word>
+        <word id="4" form="ex" lemma="ex" postag="r--------" relation="AuxP" head="13">
+            <geodesic>12,13,4</geodesic>
+        </word>
+        <word id="5" form="improbis" lemma="improbus" postag="a-p---nb-" relation="ATR" head="6">
+            <geodesic>12,13,4,6,5</geodesic>
+        </word>
+        <word id="6" form="factis" lemma="factum" postag="n-p---nb-" relation="ADV" head="4">
+            <geodesic>12,13,4,6</geodesic>
+        </word>
+        <word id="7" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="11">
+            <geodesic>12,11,7</geodesic>
+        </word>
+        <word id="8" form="minuendas" lemma="minuo" postag="v-p-g-fa-" relation="ATR" head="7">
+            <geodesic>12,11,7,8</geodesic>
+        </word>
+        <word id="9" form="vitae" lemma="vita" postag="n-s---fg-" relation="ATR" head="10">
+            <geodesic>12,11,7,8,10,9</geodesic>
+        </word>
+        <word id="10" form="molestias" lemma="molestia" postag="n-p---fa-" relation="SBJ" head="8">
+            <geodesic>12,11,7,8,10</geodesic>
+        </word>
+        <word id="11" form="accessio" lemma="accessio" postag="n-s---fn-" relation="SBJ" head="12">
+            <geodesic>12,11</geodesic>
+        </word>
+        <word id="12" form="potest" lemma="possum" postag="v3spia---" relation="PRED" head="0"/>
+        <word id="13" form="fieri" lemma="fio" postag="v--pnp---" relation="OBJ" head="12">
+            <geodesic>12,13</geodesic>
+        </word>
+        <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="15" form="quanta" lemma="quantus" postag="a-s---fn-" relation="ATV" head="32">
+            <geodesic>12,11,3,30,32,15</geodesic>
+        </word>
+        <word id="16" form="ad" lemma="ad" postag="r--------" relation="AuxP" head="32">
+            <geodesic>12,11,3,30,32,16</geodesic>
+        </word>
+        <word id="17" form="augendas" lemma="augeo" postag="v-p-g-fa-" relation="ATR" head="16">
+            <geodesic>12,11,3,30,32,16,17</geodesic>
+        </word>
+        <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="19" form="cum" lemma="cum" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>12,11,3,30,31,23,19</geodesic>
+        </word>
+        <word id="20" form="conscientia" lemma="conscientia" postag="n-s---fb-" relation="ADV_CO"
+            head="23">
+            <geodesic>12,11,3,30,31,23,20</geodesic>
+        </word>
+        <word id="21" form="factorum" lemma="factum" postag="n-p---ng-" relation="ATR" head="20">
+            <geodesic>12,11,3,30,31,23,20,21</geodesic>
+        </word>
+        <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="23" form="tum" lemma="tum" postag="c--------" relation="COORD" head="31">
+            <geodesic>12,11,3,30,31,23</geodesic>
+        </word>
+        <word id="24" form="poena" lemma="poena" postag="n-s---fb-" relation="ADV_CO" head="27">
+            <geodesic>12,11,3,30,31,23,27,24</geodesic>
+        </word>
+        <word id="25" form="legum" lemma="lex" postag="n-p---fg-" relation="ATR" head="24">
+            <geodesic>12,11,3,30,31,23,27,24,25</geodesic>
+        </word>
+        <word id="26" form="odio" lemma="odium1" postag="n-s---nb-" relation="ADV_CO" head="27">
+            <geodesic>12,11,3,30,31,23,27,26</geodesic>
+        </word>
+        <word id="27" form="-que" lemma="-que" postag="c--------" relation="COORD" head="23">
+            <geodesic>12,11,3,30,31,23,27</geodesic>
+        </word>
+        <word id="28" form="civium" lemma="civis" postag="n-p---mg-" relation="ATR" head="26">
+            <geodesic>12,11,3,30,31,23,27,26,28</geodesic>
+        </word>
+        <word id="29" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="30" insertion_id="0029e" artificial="elliptic" relation="ADV" lemma="possum"
+            postag="v3spia---" form="potest" head="3">
+            <geodesic>12,11,3,30</geodesic>
+        </word>
+        <word id="31" insertion_id="0029f" artificial="elliptic" relation="OBJ" lemma="fio"
+            postag="v--pnp---" form="fieri" head="30">
+            <geodesic>12,11,3,30,31</geodesic>
+        </word>
+        <word id="32" insertion_id="0029g" artificial="elliptic" relation="SBJ" lemma="accessio"
+            postag="n-s---fn-" form="accessio" head="30">
+            <geodesic>12,11,3,30,32</geodesic>
+        </word>
+    </sentence>
+    <sentence id="10" document_id="" subdoc="" span="" status="blop"
+        combined="1,9,2 1,9,3 1,9,3,4 1,9,8,23,7,5 1,9,8,23,6 1,9,8,23,7 1,9,8 1,9 1,9,8,23,12,10 1,9,8,23,11 1,9,8,23,12 1,9,8,23,15,13 1,9,8,23,14 1,9,8,23,15 1,9,8,23,18,16 1,9,8,23,17 1,9,8,23,18 1,9,8,23,21,19 1,9,8,23,20 1,9,8,23,21 1,9,8,23,25,22 1,9,8,23 1,9,8,23,25,24 1,9,8,23,25 1,9,8,23,25,35,27 1,9,8,23,25,35,29,28 1,9,8,23,25,35,29 1,9,8,23,25,35,33,30 1,9,8,23,25,35,29,32,31 1,9,8,23,25,35,29,32 1,9,8,23,25,35,33 1,9,8,23,25,35 1,9,8,23,25,35,37,36 1,9,8,23,25,35,37 1,9,8,23,25,35,37,39 1,9,8,23,25,35,37,39,45,40 1,9,8,23,25,35,37,39,45,40,41 1,9,8,23,25,35,37,39,45,40,41,42 1,9,8,23,25,35,37,39,45,40,41,42,47,43 1,9,8,23,25,35,37,39,45,40,41,42,47,43,44 1,9,8,23,25,35,37,39,45 1,9,8,23,25,35,37,39,45,40,41,42,47">
+        <word id="1" form="et" lemma="et" postag="c--------" relation="COORD" head="0"/>
+        <word id="2" form="tamen" lemma="tamen" postag="d--------" relation="AuxY" head="9">
+            <geodesic>1,9,2</geodesic>
+        </word>
+        <word id="3" form="in" lemma="in" postag="r--------" relation="AuxP" head="9">
+            <geodesic>1,9,3</geodesic>
+        </word>
+        <word id="4" form="quibusdam" lemma="quidam" postag="p-p---mb-" relation="PNOM" head="3">
+            <geodesic>1,9,3,4</geodesic>
+        </word>
+        <word id="5" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="7">
+            <geodesic>1,9,8,23,7,5</geodesic>
+        </word>
+        <word id="6" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>1,9,8,23,6</geodesic>
+        </word>
+        <word id="7" form="pecuniae" lemma="pecunia" postag="n-s---fg-" relation="ATR_CO" head="23">
+            <geodesic>1,9,8,23,7</geodesic>
+        </word>
+        <word id="8" form="modus" lemma="modus" postag="n-s---mn-" relation="SBJ" head="9">
+            <geodesic>1,9,8</geodesic>
+        </word>
+        <word id="9" form="est" lemma="sum1" postag="v3spia---" relation="PRED_CO" head="1">
+            <geodesic>1,9</geodesic>
+        </word>
+        <word id="10" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="12">
+            <geodesic>1,9,8,23,12,10</geodesic>
+        </word>
+        <word id="11" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>1,9,8,23,11</geodesic>
+        </word>
+        <word id="12" form="honoris" lemma="honor" postag="n-s---mg-" relation="ATR_CO" head="23">
+            <geodesic>1,9,8,23,12</geodesic>
+        </word>
+        <word id="13" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="15">
+            <geodesic>1,9,8,23,15,13</geodesic>
+        </word>
+        <word id="14" form="-que" lemma="-que" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>1,9,8,23,14</geodesic>
+        </word>
+        <word id="15" form="imperii" lemma="imperium" postag="n-s---ng-" relation="ATR_CO" head="23">
+            <geodesic>1,9,8,23,15</geodesic>
+        </word>
+        <word id="16" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="18">
+            <geodesic>1,9,8,23,18,16</geodesic>
+        </word>
+        <word id="17" form="-c" lemma="-c" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>1,9,8,23,17</geodesic>
+        </word>
+        <word id="18" form="libidinum" lemma="libido" postag="n-p---fg-" relation="ATR_CO" head="23">
+            <geodesic>1,9,8,23,18</geodesic>
+        </word>
+        <word id="19" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="21">
+            <geodesic>1,9,8,23,21,19</geodesic>
+        </word>
+        <word id="20" form="-c" lemma="-c" postag="d-------_" relation="AuxY" head="23">
+            <geodesic>1,9,8,23,20</geodesic>
+        </word>
+        <word id="21" form="epularum" lemma="epulae" postag="n-p---fg-" relation="ATR_CO" head="23">
+            <geodesic>1,9,8,23,21</geodesic>
+        </word>
+        <word id="22" form="ne" lemma="ne1" postag="d--------" relation="AuxZ" head="25">
+            <geodesic>1,9,8,23,25,22</geodesic>
+        </word>
+        <word id="23" form="-c" lemma="-c" postag="c--------" relation="COORD" head="8">
+            <geodesic>1,9,8,23</geodesic>
+        </word>
+        <word id="24" form="reliquarum" lemma="reliquus" postag="a-p---fg-" relation="ATR" head="25">
+            <geodesic>1,9,8,23,25,24</geodesic>
+        </word>
+        <word id="25" form="cupiditatum" lemma="cupiditas" postag="n-p---fg-" relation="ATR_CO"
+            head="23">
+            <geodesic>1,9,8,23,25</geodesic>
+        </word>
+        <word id="26" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="27" form="quas" lemma="qui2" postag="p-p---fa-" relation="OBJ" head="35">
+            <geodesic>1,9,8,23,25,35,27</geodesic>
+        </word>
+        <word id="28" form="nulla" lemma="nullus" postag="a-s---fn-" relation="ATR" head="29">
+            <geodesic>1,9,8,23,25,35,29,28</geodesic>
+        </word>
+        <word id="29" form="praeda" lemma="praeda" postag="n-s---fn-" relation="SBJ" head="35">
+            <geodesic>1,9,8,23,25,35,29</geodesic>
+        </word>
+        <word id="30" form="umquam" lemma="umquam" postag="d--------" relation="ADV" head="33">
+            <geodesic>1,9,8,23,25,35,33,30</geodesic>
+        </word>
+        <word id="31" form="improbe" lemma="improbe" postag="d--------" relation="ADV" head="32">
+            <geodesic>1,9,8,23,25,35,29,32,31</geodesic>
+        </word>
+        <word id="32" form="parta" lemma="pario2" postag="v-srppfn-" relation="ATR" head="29">
+            <geodesic>1,9,8,23,25,35,29,32</geodesic>
+        </word>
+        <word id="33" form="minuit" lemma="minuo" postag="v3spia---" relation="ATR_CO" head="35">
+            <geodesic>1,9,8,23,25,35,33</geodesic>
+        </word>
+        <word id="34" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="35" form="sed" lemma="sed" postag="c--------" relation="COORD" head="25">
+            <geodesic>1,9,8,23,25,35</geodesic>
+        </word>
+        <word id="36" form="potius" lemma="potis" postag="a-s---nac" relation="ADV" head="37">
+            <geodesic>1,9,8,23,25,35,37,36</geodesic>
+        </word>
+        <word id="37" form="inflammat" lemma="inflammo" postag="v3spia---" relation="ATR_CO"
+            head="35">
+            <geodesic>1,9,8,23,25,35,37</geodesic>
+        </word>
+        <word id="38" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="39" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="37">
+            <geodesic>1,9,8,23,25,35,37,39</geodesic>
+        </word>
+        <word id="40" form="coe+rcendi" lemma="coerceo" postag="v-p-g-mn-" relation="PNOM" head="45">
+            <geodesic>1,9,8,23,25,35,37,39,45,40</geodesic>
+        </word>
+        <word id="41" form="magis" lemma="magis" postag="d--------" relation="ADV" head="40">
+            <geodesic>1,9,8,23,25,35,37,39,45,40,41</geodesic>
+        </word>
+        <word id="42" form="quam" lemma="quam" postag="c--------" relation="AuxC" head="41">
+            <geodesic>1,9,8,23,25,35,37,39,45,40,41,42</geodesic>
+        </word>
+        <word id="43" form="dedocendi" lemma="dedoceo" postag="v-p-g-mn-" relation="PNOM" head="47">
+            <geodesic>1,9,8,23,25,35,37,39,45,40,41,42,47,43</geodesic>
+        </word>
+        <word id="44" form="esse" lemma="sum1" postag="v--pna---" relation="AuxV" head="43">
+            <geodesic>1,9,8,23,25,35,37,39,45,40,41,42,47,43,44</geodesic>
+        </word>
+        <word id="45" form="videantur" lemma="video" postag="v3ppsp---" relation="ADV" head="39">
+            <geodesic>1,9,8,23,25,35,37,39,45</geodesic>
+        </word>
+        <word id="46" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+        <word id="47" insertion_id="0046e" artificial="elliptic" relation="ADV" lemma="video"
+            postag="v3ppip---" form="videntur" head="42">
+            <geodesic>1,9,8,23,25,35,37,39,45,40,41,42,47</geodesic>
+        </word>
+    </sentence>
+</projectivity_document>

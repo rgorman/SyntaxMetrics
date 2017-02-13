@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="grc" format="aldt" version="1.5">
+      <comment>Lysias Orat. 1</comment>
+      <annotator>
+            <short/>
+            <name/>
+            <address/>
+            <uri>http://services.perseids.org/llt/segtok</uri>
+      </annotator>
+      <annotator>
+            <short/>
+            <name/>
+            <address/>
+            <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+      </annotator>
+      <annotator>
+            <short>Vanessa Gorman</short>
+            <name>Vanessa Gorman</name>
+            <address>vbgorman@gmail.com</address>
+            <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+      </annotator>
+      <sentence id="1"
+            document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
+            subdoc="1-50" span="Lysias Orat. 1: s-1">
+            <word id="1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="4"
+                  cite=" Lysias Orat. 1: s-1 w-1"/>
+            <word id="2" form="πολλοῦ" lemma="πολύς" postag="a-s---mg-" relation="ADV" head="1"
+                  cite=" Lysias Orat. 1: s-1 w-2"/>
+            <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="4"
+                  cite=" Lysias Orat. 1: s-1 w-3"/>
+            <word id="4" form="ποιησαίμην" lemma="ποιέω" postag="v1saom---" relation="PRED" head="0"
+                  cite=" Lysias Orat. 1: s-1 w-4"/>
+            <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-1 w-5"/>
+            <word id="6" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="7"
+                  cite=" Lysias Orat. 1: s-1 w-6"/>
+            <word id="7" form="ἄνδρες" lemma="ἀνήρ" postag="n-p---mv-" relation="ExD" head="4"
+                  cite=" Lysias Orat. 1: s-1 w-7"/>
+            <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-1 w-8"/>
+            <word id="9" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="18"
+                  cite=" Lysias Orat. 1: s-1 w-9"/>
+            <word id="10" form="τοιούτους" lemma="τοιοῦτος" postag="a-p---ma_" relation="ATR"
+                  head="11" cite=" Lysias Orat. 1: s-1 w-10"/>
+            <word id="11" form="ὑμᾶς" lemma="σύ" postag="p2p---ma-" relation="SBJ" head="18"
+                  cite=" Lysias Orat. 1: s-1 w-11"/>
+            <word id="12" form="ἐμοὶ" lemma="ἐγώ" postag="p1s---md-" relation="ATR" head="13"
+                  cite=" Lysias Orat. 1: s-1 w-12"/>
+            <word id="13" form="δικαστὰς" lemma="δικαστής" postag="n-p---ma-" relation="PNOM"
+                  head="18" cite=" Lysias Orat. 1: s-1 w-13"/>
+            <word id="14" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="13"
+                  cite=" Lysias Orat. 1: s-1 w-14"/>
+            <word id="15" form="τούτου" lemma="οὗτος" postag="a-s---ng_" relation="ATR" head="17"
+                  cite=" Lysias Orat. 1: s-1 w-15"/>
+            <word id="16" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="17"
+                  cite=" Lysias Orat. 1: s-1 w-16"/>
+            <word id="17" form="πράγματος" lemma="πρᾶγμα" postag="n-s---ng-" relation="ATR"
+                  head="14" cite=" Lysias Orat. 1: s-1 w-17"/>
+            <word id="18" form="γενέσθαι" lemma="γίγνομαι" postag="v--anm---" relation="OBJ"
+                  head="4" cite=" Lysias Orat. 1: s-1 w-18"/>
+            <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-1 w-19"/>
+            <word id="20" form="οἷοίπερ" lemma="οἷος" postag="a-p---mn-" relation="PNOM" head="24"
+                  cite=" Lysias Orat. 1: s-1 w-20"/>
+            <word id="21" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="24"
+                  cite=" Lysias Orat. 1: s-1 w-21"/>
+            <word id="22" form="ὑμῖν" lemma="σύ" postag="p2p---md-" relation="ATR" head="20"
+                  cite=" Lysias Orat. 1: s-1 w-22"/>
+            <word id="23" form="αὐτοῖς" lemma="αὐτός" postag="a-p---md_" relation="ATR" head="22"
+                  cite=" Lysias Orat. 1: s-1 w-23"/>
+            <word id="24" form="εἴητε" lemma="εἰμί" postag="v2ppoa---" relation="ATR" head="10"
+                  cite=" Lysias Orat. 1: s-1 w-24"/>
+            <word id="25" form="τοιαῦτα" lemma="τοιοῦτος" postag="p-p---na-" relation="OBJ"
+                  head="26" cite=" Lysias Orat. 1: s-1 w-25"/>
+            <word id="26" form="πεπονθότες" lemma="πάσχω" postag="v-prpamn-" relation="ADV"
+                  head="24" cite=" Lysias Orat. 1: s-1 w-26"/>
+            <word id="27" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
+                  cite=" Lysias Orat. 1: s-1 w-27"/>
+      </sentence>
+      <sentence id="2"
+            document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
+            subdoc="1-50" span="Lysias Orat. 1: s-2">
+            <word id="1" form="εὖ" lemma="εὖ" postag="d--------" relation="ADV" head="3"
+                  cite=" Lysias Orat. 1: s-2 w-1"/>
+            <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"
+                  cite=" Lysias Orat. 1: s-2 w-2"/>
+            <word id="3" form="οἶδʼ" lemma="οἶδα" postag="v3sria---" relation="PRED" head="0"
+                  cite=" Lysias Orat. 1: s-2 w-3"/>
+            <word id="4" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="3"
+                  cite=" Lysias Orat. 1: s-2 w-4"/>
+            <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-2 w-5"/>
+            <word id="6" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="22"
+                  cite=" Lysias Orat. 1: s-2 w-6"/>
+            <word id="7" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9"
+                  cite=" Lysias Orat. 1: s-2 w-7"/>
+            <word id="8" form="αὐτὴν" lemma="αὐτός" postag="a-s---fa_" relation="ATR" head="9"
+                  cite=" Lysias Orat. 1: s-2 w-8"/>
+            <word id="9" form="γνώμην" lemma="γνώμη" postag="n-s---fa-" relation="OBJ" head="13"
+                  cite=" Lysias Orat. 1: s-2 w-9"/>
+            <word id="10" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="13"
+                  cite=" Lysias Orat. 1: s-2 w-10"/>
+            <word id="11" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="12"
+                  cite=" Lysias Orat. 1: s-2 w-11"/>
+            <word id="12" form="ἄλλων" lemma="ἄλλος" postag="p-p---mg-" relation="ADV" head="10"
+                  cite=" Lysias Orat. 1: s-2 w-12"/>
+            <word id="13" form="ἔχοιτε" lemma="ἔχω" postag="v2ppoa---" relation="ADV" head="6"
+                  cite=" Lysias Orat. 1: s-2 w-13"/>
+            <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-2 w-14"/>
+            <word id="15" form="ἥνπερ" lemma="ὅς" postag="p-s---fa-" relation="OBJ" head="24"
+                  cite=" Lysias Orat. 1: s-2 w-15"/>
+            <word id="16" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="24"
+                  cite=" Lysias Orat. 1: s-2 w-16"/>
+            <word id="17" form="ὑμῶν" lemma="σύ" postag="p2p---mg-" relation="ADV" head="16"
+                  cite=" Lysias Orat. 1: s-2 w-17"/>
+            <word id="18" form="αὐτῶν" lemma="αὐτός" postag="a-p---mg_" relation="ATR" head="17"
+                  cite=" Lysias Orat. 1: s-2 w-18"/>
+            <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
+                  cite=" Lysias Orat. 1: s-2 w-19"/>
+            <word id="20" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="22"
+                  cite=" Lysias Orat. 1: s-2 w-20"/>
+            <word id="21" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="22"
+                  cite=" Lysias Orat. 1: s-2 w-21"/>
+            <word id="22" form="εἴη" lemma="εἰμί" postag="v3spoa---" relation="OBJ" head="4"
+                  cite=" Lysias Orat. 1: s-2 w-22"/>
+            <word id="23" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
+                  cite=" Lysias Orat. 1: s-2 w-23"/>
+            <word id="24" form="[0]" insertion_id="" artificial="elliptic" lemma="undefined"
+                  postag="undefined" relation="ATR" head="9" cite="Lysias Orat. 1: s-2 w-24"/>
+      </sentence>
+     
+      
+</treebank>

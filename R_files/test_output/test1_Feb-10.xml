@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<subTree_document>
+ <sentence id="1" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.1" span="Xenophon Hellenica Book 1: s-1">
+  <word id="1" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="8" cite="Xenophon Hellenica Book 1: s-1 w-1" Subtree="1 3" Projectivity="NonProjective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8" cite="Xenophon Hellenica Book 1: s-1 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="ADV" head="1" cite="Xenophon Hellenica Book 1: s-1 w-3" Subtree="3" Projectivity="Projective"/>
+  <word id="4" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5" cite="Xenophon Hellenica Book 1: s-1 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="πολλαῖς" lemma="πολύς" postag="a-p---fd-" relation="ATR" head="6" cite="Xenophon Hellenica Book 1: s-1 w-5" Subtree="5 4" Projectivity="Projective"/>
+  <word id="6" form="ἡμέραις" lemma="ἡμέρα" postag="n-p---fd-" relation="ADV" head="7" cite="Xenophon Hellenica Book 1: s-1 w-6" Subtree="6 5 4" Projectivity="Projective"/>
+  <word id="7" form="ὕστερον" lemma="ὕστερον" postag="n-s---na-" relation="ADV" head="8" cite="Xenophon Hellenica Book 1: s-1 w-7" Subtree="7 6 5 4" Projectivity="Projective"/>
+  <word id="8" form="ἦλθεν" lemma="ἔρχομαι" postag="v3saia---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-1 w-8" Subtree="8 1 2 7 9 11 12 3 6 10 13 5 14 4" Projectivity="Projective"/>
+  <word id="9" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="8" cite="Xenophon Hellenica Book 1: s-1 w-9" Subtree="9 10" Projectivity="Projective"/>
+  <word id="10" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="ADV" head="9" cite="Xenophon Hellenica Book 1: s-1 w-10" Subtree="10" Projectivity="Projective"/>
+  <word id="11" form="Θυμοχάρης" lemma="Θυμοχάρης" postag="n-s---mn-" relation="SBJ" head="8" cite="Xenophon Hellenica Book 1: s-1 w-11" Subtree="11" Projectivity="Projective"/>
+  <word id="12" form="ἔχων" lemma="ἔχω" postag="v-sppamn-" relation="ADV" head="8" cite="Xenophon Hellenica Book 1: s-1 w-12" Subtree="12 13 14" Projectivity="Projective"/>
+  <word id="13" form="ναῦς" lemma="ναῦς" postag="n-p---fa-" relation="OBJ" head="12" cite="Xenophon Hellenica Book 1: s-1 w-13" Subtree="13 14" Projectivity="Projective"/>
+  <word id="14" form="ὀλίγας" lemma="ὀλίγος" postag="a-p---fa-" relation="ATR" head="13" cite="Xenophon Hellenica Book 1: s-1 w-14" Subtree="14" Projectivity="Projective"/>
+  <word id="15" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-1 w-15" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="2" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.1" span="Xenophon Hellenica Book 1: s-2">
+  <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="10" cite="Xenophon Hellenica Book 1: s-2 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="εὐθὺς" lemma="εὐθύς2" postag="d--------" relation="ADV" head="3" cite="Xenophon Hellenica Book 1: s-2 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="ἐναυμάχησαν" lemma="ναυμαχέω" postag="v3paia---" relation="PRED_CO" head="10" cite="Xenophon Hellenica Book 1: s-2 w-3" Subtree="3 2 4 6 5 7" Projectivity="Projective"/>
+  <word id="4" form="αὖθις" lemma="αὖθις" postag="d--------" relation="ADV" head="3" cite="Xenophon Hellenica Book 1: s-2 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="Λακεδαιμόνιοι" lemma="Λακεδαιμόνιος" postag="n-p---mn-" relation="SBJ_CO" head="6" cite="Xenophon Hellenica Book 1: s-2 w-5" Subtree="5" Projectivity="Projective"/>
+  <word id="6" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="3" cite="Xenophon Hellenica Book 1: s-2 w-6" Subtree="6 5 7" Projectivity="Projective"/>
+  <word id="7" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ_CO" head="6" cite="Xenophon Hellenica Book 1: s-2 w-7" Subtree="7" Projectivity="Projective"/>
+  <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-2 w-8" Subtree="8" Projectivity="Projective"/>
+  <word id="9" form="ἐνίκησαν" lemma="νικάω" postag="v3paia---" relation="PRED_CO" head="10" cite="Xenophon Hellenica Book 1: s-2 w-9" Subtree="9 11 12 13" Projectivity="NonProjective"/>
+  <word id="10" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="0" cite="Xenophon Hellenica Book 1: s-2 w-10" Subtree="10 1 3 9 2 4 6 11 12 5 7 13" Projectivity="NonProjective"/>
+  <word id="11" form="Λακεδαιμόνιοι" lemma="Λακεδαιμόνιος" postag="n-p---mn-" relation="SBJ" head="9" cite="Xenophon Hellenica Book 1: s-2 w-11" Subtree="11" Projectivity="Projective"/>
+  <word id="12" form="ἡγουμένου" lemma="ἡγέομαι" postag="v-sppmmg-" relation="ADV" head="9" cite="Xenophon Hellenica Book 1: s-2 w-12" Subtree="12 13" Projectivity="Projective"/>
+  <word id="13" form="Ἀγησανδρίδου" lemma="Ἀγησανδρίδας" postag="n-s---mg-" relation="SBJ" head="12" cite="Xenophon Hellenica Book 1: s-2 w-13" Subtree="13" Projectivity="Projective"/>
+  <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-2 w-14" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="3" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.2" span="Xenophon Hellenica Book 1: s-3">
+  <word id="1" form="μετʼ" lemma="μετά" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-3 w-1" Subtree="1 2 4" Projectivity="NonProjective"/>
+  <word id="2" form="ὀλίγον" lemma="ὀλίγος" postag="a-s---na-" relation="ADV" head="1" cite="Xenophon Hellenica Book 1: s-3 w-2" Subtree="2 4" Projectivity="NonProjective"/>
+  <word id="3" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12" cite="Xenophon Hellenica Book 1: s-3 w-3" Subtree="3" Projectivity="Projective"/>
+  <word id="4" form="τούτων" lemma="οὗτος" postag="p-p---ng-" relation="ATR" head="2" cite="Xenophon Hellenica Book 1: s-3 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="Δωριεὺς" lemma="Δωριεύς" postag="n-s---mn-" relation="SBJ" head="12" cite="Xenophon Hellenica Book 1: s-3 w-5" Subtree="5 6 7" Projectivity="Projective"/>
+  <word id="6" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-3 w-6" Subtree="6" Projectivity="Projective"/>
+  <word id="7" form="Διαγόρου" lemma="Διαγόρας" postag="n-s---mg-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-3 w-7" Subtree="7" Projectivity="Projective"/>
+  <word id="8" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-3 w-8" Subtree="8 9" Projectivity="Projective"/>
+  <word id="9" form="Ῥόδου" lemma="Ῥόδος" postag="n-s---fg-" relation="ADV" head="8" cite="Xenophon Hellenica Book 1: s-3 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-3 w-10" Subtree="10 11" Projectivity="Projective"/>
+  <word id="11" form="Ἑλλήσποντον" lemma="Ἑλλήσποντος" postag="n-s---ma-" relation="OBJ" head="10" cite="Xenophon Hellenica Book 1: s-3 w-11" Subtree="11" Projectivity="Projective"/>
+  <word id="12" form="εἰσέπλει" lemma="εἰσπλέω" postag="v3siia---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-3 w-12" Subtree="12 1 3 5 8 10 13 18 19 2 6 7 9 11 14 16 20 4 15 17" Projectivity="Projective"/>
+  <word id="13" form="ἀρχομένου" lemma="ἄρχω" postag="v-sppemg-" relation="ADV" head="12" cite="Xenophon Hellenica Book 1: s-3 w-13" Subtree="13 14" Projectivity="Projective"/>
+  <word id="14" form="χειμῶνος" lemma="χειμών" postag="n-s---mg-" relation="SBJ" head="13" cite="Xenophon Hellenica Book 1: s-3 w-14" Subtree="14" Projectivity="Projective"/>
+  <word id="15" form="τέτταρσι" lemma="τέσσαρες" postag="n-p---md-" relation="ATR_CO" head="16" cite="Xenophon Hellenica Book 1: s-3 w-15" Subtree="15" Projectivity="Projective"/>
+  <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="18" cite="Xenophon Hellenica Book 1: s-3 w-16" Subtree="16 15 17" Projectivity="Projective"/>
+  <word id="17" form="δέκα" lemma="δέκα" postag="a-_---___" relation="ATR_CO" head="16" cite="Xenophon Hellenica Book 1: s-3 w-17" Subtree="17" Projectivity="Projective"/>
+  <word id="18" form="ναυσὶν" lemma="ναῦς" postag="n-p---fd-" relation="ADV" head="12" cite="Xenophon Hellenica Book 1: s-3 w-18" Subtree="18 16 15 17" Projectivity="Projective"/>
+  <word id="19" form="ἅμα" lemma="ἅμα" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-3 w-19" Subtree="19 20" Projectivity="Projective"/>
+  <word id="20" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="ADV" head="19" cite="Xenophon Hellenica Book 1: s-3 w-20" Subtree="20" Projectivity="Projective"/>
+  <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-3 w-21" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="4" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.2" span="Xenophon Hellenica Book 1: s-4">
+  <word id="1" form="κατιδὼν" lemma="κατεῖδον" postag="v-sapamn-" relation="ADV" head="7" cite="Xenophon Hellenica Book 1: s-4 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7" cite="Xenophon Hellenica Book 1: s-4 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="6" cite="Xenophon Hellenica Book 1: s-4 w-3" Subtree="3" Projectivity="Projective"/>
+  <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-4 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="ATR" head="6" cite="Xenophon Hellenica Book 1: s-4 w-5" Subtree="5 4" Projectivity="Projective"/>
+  <word id="6" form="ἡμεροσκόπος" lemma="ἡμεροσκόπος" postag="n-s---mn-" relation="SBJ" head="7" cite="Xenophon Hellenica Book 1: s-4 w-6" Subtree="6 3 5 4" Projectivity="Projective"/>
+  <word id="7" form="ἐσήμηνε" lemma="σημαίνω" postag="v3saia---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-4 w-7" Subtree="7 1 2 6 9 3 5 8 4" Projectivity="Projective"/>
+  <word id="8" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="9" cite="Xenophon Hellenica Book 1: s-4 w-8" Subtree="8" Projectivity="Projective"/>
+  <word id="9" form="στρατηγοῖς" lemma="στρατηγός" postag="n-p---md-" relation="OBJ" head="7" cite="Xenophon Hellenica Book 1: s-4 w-9" Subtree="9 8" Projectivity="Projective"/>
+  <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-4 w-10" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="5" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.2" span="Xenophon Hellenica Book 1: s-5">
+  <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="3" cite="Xenophon Hellenica Book 1: s-5 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3" cite="Xenophon Hellenica Book 1: s-5 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="ἀνηγάγοντο" lemma="ἀνάγω" postag="v3paim---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-5 w-3" Subtree="3 1 2 4 7 5 6 16 11 12 19 21 24 10 9 13 17 18 22 26 15 25 14" Projectivity="NonProjective"/>
+  <word id="4" form="ἐπʼ" lemma="ἐπί" postag="r--------" relation="AuxP" head="3" cite="Xenophon Hellenica Book 1: s-5 w-4" Subtree="4 5" Projectivity="Projective"/>
+  <word id="5" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="ADV" head="4" cite="Xenophon Hellenica Book 1: s-5 w-5" Subtree="5" Projectivity="Projective"/>
+  <word id="6" form="εἴκοσι" lemma="εἴκοσι" postag="a-_---___" relation="ATR" head="7" cite="Xenophon Hellenica Book 1: s-5 w-6" Subtree="6" Projectivity="Projective"/>
+  <word id="7" form="ναυσίν" lemma="ναῦς" postag="n-p---fd-" relation="ADV" head="3" cite="Xenophon Hellenica Book 1: s-5 w-7" Subtree="7 6 16 11 12 19 21 24 10 9 13 17 18 22 26 15 25 14" Projectivity="NonProjective"/>
+  <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-5 w-8" Subtree="8" Projectivity="Projective"/>
+  <word id="9" form="ἃς" lemma="ὅς" postag="p-p---fa-" relation="OBJ" head="12" cite="Xenophon Hellenica Book 1: s-5 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="11" cite="Xenophon Hellenica Book 1: s-5 w-10" Subtree="10" Projectivity="Projective"/>
+  <word id="11" form="Δωριεὺς" lemma="Δωριεύς" postag="n-s---mn-" relation="SBJ" head="16" cite="Xenophon Hellenica Book 1: s-5 w-11" Subtree="11 10" Projectivity="Projective"/>
+  <word id="12" form="φυγὼν" lemma="φεύγω" postag="v-sapamn-" relation="ADV" head="16" cite="Xenophon Hellenica Book 1: s-5 w-12" Subtree="12 9 13 15 14" Projectivity="NonProjective"/>
+  <word id="13" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-5 w-13" Subtree="13 15 14" Projectivity="Projective"/>
+  <word id="14" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="15" cite="Xenophon Hellenica Book 1: s-5 w-14" Subtree="14" Projectivity="Projective"/>
+  <word id="15" form="γῆν" lemma="γῆ" postag="n-s---fa-" relation="ADV" head="13" cite="Xenophon Hellenica Book 1: s-5 w-15" Subtree="15 14" Projectivity="Projective"/>
+  <word id="16" form="ἀνεβίβαζε" lemma="ἀναβιβάζω" postag="v3siia---" relation="ATR" head="7" cite="Xenophon Hellenica Book 1: s-5 w-16" Subtree="16 11 12 19 21 24 10 9 13 17 18 22 26 15 25 14" Projectivity="NonProjective"/>
+  <word id="17" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="19" cite="Xenophon Hellenica Book 1: s-5 w-17" Subtree="17" Projectivity="Projective"/>
+  <word id="18" form="αὑτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="ATR" head="19" cite="Xenophon Hellenica Book 1: s-5 w-18" Subtree="18" Projectivity="Projective"/>
+  <word id="19" form="τριήρεις" lemma="τριήρης" postag="n-p---fa-" relation="OBJ" head="16" cite="Xenophon Hellenica Book 1: s-5 w-19" Subtree="19 17 18" Projectivity="Projective"/>
+  <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-5 w-20" Subtree="20" Projectivity="Projective"/>
+  <word id="21" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="16" cite="Xenophon Hellenica Book 1: s-5 w-21" Subtree="21 22" Projectivity="Projective"/>
+  <word id="22" form="ἤνοιγε" lemma="ἀνοίγνυμι" postag="v3siia---" relation="ADV" head="21" cite="Xenophon Hellenica Book 1: s-5 w-22" Subtree="22" Projectivity="Projective"/>
+  <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-5 w-23" Subtree="23" Projectivity="Projective"/>
+  <word id="24" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="16" cite="Xenophon Hellenica Book 1: s-5 w-24" Subtree="24 26 25" Projectivity="Projective"/>
+  <word id="25" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="26" cite="Xenophon Hellenica Book 1: s-5 w-25" Subtree="25" Projectivity="Projective"/>
+  <word id="26" form="Ῥοίτειον" lemma="Ῥοίτειον" postag="n-s---na-" relation="ADV" head="24" cite="Xenophon Hellenica Book 1: s-5 w-26" Subtree="26 25" Projectivity="Projective"/>
+  <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-5 w-27" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="6" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.3" span="Xenophon Hellenica Book 1: s-6">
+  <word id="1" form="ἐγγὺς" lemma="ἐγγύς" postag="d--------" relation="ADV" head="3" cite="Xenophon Hellenica Book 1: s-6 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="6" cite="Xenophon Hellenica Book 1: s-6 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="γενομένων" lemma="γίγνομαι" postag="v-papmmg-" relation="ADV" head="6" cite="Xenophon Hellenica Book 1: s-6 w-3" Subtree="3 1 5 4" Projectivity="NonProjective"/>
+  <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-6 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="Ἀθηναίων" lemma="Ἀθήναιος" postag="n-p---mg-" relation="SBJ" head="3" cite="Xenophon Hellenica Book 1: s-6 w-5" Subtree="5 4" Projectivity="Projective"/>
+  <word id="6" form="ἐμάχοντο" lemma="μάχομαι" postag="v3piie---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-6 w-6" Subtree="6 2 3 7 14 1 5 11 17 4 8 10 13 16 18 20 25 9 12 15 19 23 24 21 22" Projectivity="Projective"/>
+  <word id="7" form="ἀπό" lemma="ἀπό" postag="r--------" relation="AuxP" head="6" cite="Xenophon Hellenica Book 1: s-6 w-7" Subtree="7 11 8 10 13 9 12" Projectivity="Projective"/>
+  <word id="8" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="11" cite="Xenophon Hellenica Book 1: s-6 w-8" Subtree="8" Projectivity="Projective"/>
+  <word id="9" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="10" cite="Xenophon Hellenica Book 1: s-6 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="νεῶν" lemma="ναῦς" postag="n-p---fg-" relation="ADV_CO" head="11" cite="Xenophon Hellenica Book 1: s-6 w-10" Subtree="10 9" Projectivity="Projective"/>
+  <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="7" cite="Xenophon Hellenica Book 1: s-6 w-11" Subtree="11 8 10 13 9 12" Projectivity="Projective"/>
+  <word id="12" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="13" cite="Xenophon Hellenica Book 1: s-6 w-12" Subtree="12" Projectivity="Projective"/>
+  <word id="13" form="γῆς" lemma="γῆ" postag="n-s---fg-" relation="ADV_CO" head="11" cite="Xenophon Hellenica Book 1: s-6 w-13" Subtree="13 12" Projectivity="Projective"/>
+  <word id="14" form="μέχρι" lemma="μέχρι" postag="c--------" relation="AuxC" head="6" cite="Xenophon Hellenica Book 1: s-6 w-14" Subtree="14 17 16 18 20 25 15 19 23 24 21 22" Projectivity="Projective"/>
+  <word id="15" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="16" cite="Xenophon Hellenica Book 1: s-6 w-15" Subtree="15" Projectivity="Projective"/>
+  <word id="16" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ" head="17" cite="Xenophon Hellenica Book 1: s-6 w-16" Subtree="16 15" Projectivity="Projective"/>
+  <word id="17" form="ἀπέπλευσαν" lemma="ἀποπλέω" postag="v3paia---" relation="ADV" head="14" cite="Xenophon Hellenica Book 1: s-6 w-17" Subtree="17 16 18 20 25 15 19 23 24 21 22" Projectivity="Projective"/>
+  <word id="18" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="17" cite="Xenophon Hellenica Book 1: s-6 w-18" Subtree="18 19" Projectivity="Projective"/>
+  <word id="19" form="Μάδυτον" lemma="Μάδυτος" postag="n-s---ma-" relation="ADV" head="18" cite="Xenophon Hellenica Book 1: s-6 w-19" Subtree="19" Projectivity="Projective"/>
+  <word id="20" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="17" cite="Xenophon Hellenica Book 1: s-6 w-20" Subtree="20 23 21 22" Projectivity="Projective"/>
+  <word id="21" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="23" cite="Xenophon Hellenica Book 1: s-6 w-21" Subtree="21" Projectivity="Projective"/>
+  <word id="22" form="ἄλλο" lemma="ἄλλος" postag="a-s---na_" relation="ATR" head="23" cite="Xenophon Hellenica Book 1: s-6 w-22" Subtree="22" Projectivity="Projective"/>
+  <word id="23" form="στρατόπεδον" lemma="στρατόπεδον" postag="n-s---na-" relation="ADV" head="20" cite="Xenophon Hellenica Book 1: s-6 w-23" Subtree="23 21 22" Projectivity="Projective"/>
+  <word id="24" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="OBJ" head="25" cite="Xenophon Hellenica Book 1: s-6 w-24" Subtree="24" Projectivity="Projective"/>
+  <word id="25" form="πράξαντες" lemma="πράσσω" postag="v-papamn-" relation="ADV" head="17" cite="Xenophon Hellenica Book 1: s-6 w-25" Subtree="25 24" Projectivity="Projective"/>
+  <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-6 w-26" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="7" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.4" span="Xenophon Hellenica Book 1: s-7">
+  <word id="1" form="Μίνδαρος" lemma="Μίνδαρος" postag="n-s---mn-" relation="SBJ" head="17" cite="Xenophon Hellenica Book 1: s-7 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="17" cite="Xenophon Hellenica Book 1: s-7 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="κατιδὼν" lemma="κατεῖδον" postag="v-sapamn-" relation="ADV" head="12" cite="Xenophon Hellenica Book 1: s-7 w-3" Subtree="3 5 4" Projectivity="Projective"/>
+  <word id="4" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-7 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="μάχην" lemma="μάχη" postag="n-s---fa-" relation="OBJ" head="3" cite="Xenophon Hellenica Book 1: s-7 w-5" Subtree="5 4" Projectivity="Projective"/>
+  <word id="6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="8" cite="Xenophon Hellenica Book 1: s-7 w-6" Subtree="6 7" Projectivity="Projective"/>
+  <word id="7" form="Ἰλίῳ" lemma="Ἴλιον" postag="n-s---nd-" relation="ADV" head="6" cite="Xenophon Hellenica Book 1: s-7 w-7" Subtree="7" Projectivity="Projective"/>
+  <word id="8" form="θύων" lemma="θύω1" postag="v-sppamn-" relation="ADV" head="12" cite="Xenophon Hellenica Book 1: s-7 w-8" Subtree="8 6 10 7 9" Projectivity="Projective"/>
+  <word id="9" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="10" cite="Xenophon Hellenica Book 1: s-7 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="Ἀθηνᾷ" lemma="Ἀθήνη" postag="n-s---fd-" relation="OBJ" head="8" cite="Xenophon Hellenica Book 1: s-7 w-10" Subtree="10 9" Projectivity="Projective"/>
+  <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-7 w-11" Subtree="11" Projectivity="Projective"/>
+  <word id="12" form="ἐβοήθει" lemma="βοηθέω" postag="v3siia---" relation="PRED_CO" head="17" cite="Xenophon Hellenica Book 1: s-7 w-12" Subtree="12 3 8 13 5 6 10 15 4 7 9 14" Projectivity="NonProjective"/>
+  <word id="13" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="12" cite="Xenophon Hellenica Book 1: s-7 w-13" Subtree="13 15 14" Projectivity="Projective"/>
+  <word id="14" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="15" cite="Xenophon Hellenica Book 1: s-7 w-14" Subtree="14" Projectivity="Projective"/>
+  <word id="15" form="θάλατταν" lemma="θάλασσα" postag="n-s---fa-" relation="ADV" head="13" cite="Xenophon Hellenica Book 1: s-7 w-15" Subtree="15 14" Projectivity="Projective"/>
+  <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-7 w-16" Subtree="16" Projectivity="Projective"/>
+  <word id="17" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0" cite="Xenophon Hellenica Book 1: s-7 w-17" Subtree="17 1 2 12 22 3 8 13 18 24 5 6 10 15 21 25 4 7 9 14 19 20 26 27 28" Projectivity="NonProjective"/>
+  <word id="18" form="καθελκύσας" lemma="καθέλκω" postag="v-sapamn-" relation="ADV" head="22" cite="Xenophon Hellenica Book 1: s-7 w-18" Subtree="18 21 19 20" Projectivity="Projective"/>
+  <word id="19" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="21" cite="Xenophon Hellenica Book 1: s-7 w-19" Subtree="19" Projectivity="Projective"/>
+  <word id="20" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="ATR" head="21" cite="Xenophon Hellenica Book 1: s-7 w-20" Subtree="20" Projectivity="Projective"/>
+  <word id="21" form="τριήρεις" lemma="τριήρης" postag="n-p---fa-" relation="OBJ" head="18" cite="Xenophon Hellenica Book 1: s-7 w-21" Subtree="21 19 20" Projectivity="Projective"/>
+  <word id="22" form="ἀπέπλει" lemma="ἀποπλέω" postag="v3siia---" relation="PRED_CO" head="17" cite="Xenophon Hellenica Book 1: s-7 w-22" Subtree="22 18 24 21 25 19 20 26 27 28" Projectivity="NonProjective"/>
+  <word id="23" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-7 w-23" Subtree="23" Projectivity="Projective"/>
+  <word id="24" form="ὅπως" lemma="ὅπως" postag="c--------" relation="AuxC" head="22" cite="Xenophon Hellenica Book 1: s-7 w-24" Subtree="24 25 26 27 28" Projectivity="Projective"/>
+  <word id="25" form="ἀναλάβοι" lemma="ἀναλαμβάνω" postag="v3saoa---" relation="ADV" head="24" cite="Xenophon Hellenica Book 1: s-7 w-25" Subtree="25 26 27 28" Projectivity="Projective"/>
+  <word id="26" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="OBJ" head="25" cite="Xenophon Hellenica Book 1: s-7 w-26" Subtree="26 27 28" Projectivity="Projective"/>
+  <word id="27" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="26" cite="Xenophon Hellenica Book 1: s-7 w-27" Subtree="27 28" Projectivity="Projective"/>
+  <word id="28" form="Δωριέως" lemma="Δωριεύς" postag="n-s---mg-" relation="ATR" head="27" cite="Xenophon Hellenica Book 1: s-7 w-28" Subtree="28" Projectivity="Projective"/>
+  <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-7 w-29" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="8" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.5" span="Xenophon Hellenica Book 1: s-8">
+  <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3" cite="Xenophon Hellenica Book 1: s-8 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-8 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="n-p---mn-" relation="SBJ" head="5" cite="Xenophon Hellenica Book 1: s-8 w-3" Subtree="3 1" Projectivity="NonProjective"/>
+  <word id="4" form="ἀνταναγαγόμενοι" lemma="ἀντανάγω" postag="v-papmmn-" relation="ADV" head="5" cite="Xenophon Hellenica Book 1: s-8 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="ἐναυμάχησαν" lemma="ναυμαχέω" postag="v3paia---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-8 w-5" Subtree="5 2 3 4 6 8 12 14 1 7 10 13 15 9" Projectivity="NonProjective"/>
+  <word id="6" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="5" cite="Xenophon Hellenica Book 1: s-8 w-6" Subtree="6 7" Projectivity="Projective"/>
+  <word id="7" form="Ἄβυδον" lemma="Ἄβυδος" postag="n-s---fa-" relation="ADV" head="6" cite="Xenophon Hellenica Book 1: s-8 w-7" Subtree="7" Projectivity="Projective"/>
+  <word id="8" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="5" cite="Xenophon Hellenica Book 1: s-8 w-8" Subtree="8 10 9" Projectivity="Projective"/>
+  <word id="9" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="10" cite="Xenophon Hellenica Book 1: s-8 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="ᾐόνα" lemma="ἠιών" postag="n-s---fa-" relation="ADV" head="8" cite="Xenophon Hellenica Book 1: s-8 w-10" Subtree="10 9" Projectivity="Projective"/>
+  <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-8 w-11" Subtree="11" Projectivity="Projective"/>
+  <word id="12" form="μέχρι" lemma="μέχρι" postag="r--------" relation="AuxP" head="5" cite="Xenophon Hellenica Book 1: s-8 w-12" Subtree="12 13" Projectivity="Projective"/>
+  <word id="13" form="δείλης" lemma="δείλη" postag="n-s---fg-" relation="ADV" head="12" cite="Xenophon Hellenica Book 1: s-8 w-13" Subtree="13" Projectivity="Projective"/>
+  <word id="14" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="5" cite="Xenophon Hellenica Book 1: s-8 w-14" Subtree="14 15" Projectivity="Projective"/>
+  <word id="15" form="ἑωθινοῦ" lemma="ἑωθινός" postag="a-s---mg-" relation="ADV" head="14" cite="Xenophon Hellenica Book 1: s-8 w-15" Subtree="15" Projectivity="Projective"/>
+  <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-8 w-16" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="9" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.5" span="Xenophon Hellenica Book 1: s-9">
+  <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="11" cite="Xenophon Hellenica Book 1: s-9 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ADV" head="4" cite="Xenophon Hellenica Book 1: s-9 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="7" cite="Xenophon Hellenica Book 1: s-9 w-3" Subtree="3" Projectivity="Projective"/>
+  <word id="4" form="νικώντων" lemma="νικάω" postag="v-pppamg-" relation="ADV_CO" head="7" cite="Xenophon Hellenica Book 1: s-9 w-4" Subtree="4 2" Projectivity="NonProjective"/>
+  <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-9 w-5" Subtree="5" Projectivity="Projective"/>
+  <word id="6" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ADV" head="8" cite="Xenophon Hellenica Book 1: s-9 w-6" Subtree="6" Projectivity="Projective"/>
+  <word id="7" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="11" cite="Xenophon Hellenica Book 1: s-9 w-7" Subtree="7 3 4 8 2 6" Projectivity="NonProjective"/>
+  <word id="8" form="νικωμένων" lemma="νικάω" postag="v-pppemg-" relation="ADV_CO" head="7" cite="Xenophon Hellenica Book 1: s-9 w-8" Subtree="8 6" Projectivity="NonProjective"/>
+  <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Xenophon Hellenica Book 1: s-9 w-9" Subtree="9" Projectivity="Projective"/>
+  <word id="10" form="Ἀλκιβιάδης" lemma="Ἀλκιβιάδης" postag="n-s---mn-" relation="SBJ" head="11" cite="Xenophon Hellenica Book 1: s-9 w-10" Subtree="10" Projectivity="Projective"/>
+  <word id="11" form="ἐπεισπλεῖ" lemma="ἐπεισπλέω" postag="v3spia---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-9 w-11" Subtree="11 1 7 10 15 3 4 8 14 2 6 13 12" Projectivity="NonProjective"/>
+  <word id="12" form="δυοῖν" lemma="δύο" postag="a-d---fd_" relation="OBJ" head="13" cite="Xenophon Hellenica Book 1: s-9 w-12" Subtree="12" Projectivity="Projective"/>
+  <word id="13" form="δεούσαις" lemma="δέω2" postag="v-pppafd-" relation="ATR" head="14" cite="Xenophon Hellenica Book 1: s-9 w-13" Subtree="13 12" Projectivity="Projective"/>
+  <word id="14" form="εἴκοσι" lemma="εἴκοσι" postag="a-_---___" relation="ATR" head="15" cite="Xenophon Hellenica Book 1: s-9 w-14" Subtree="14 13 12" Projectivity="Projective"/>
+  <word id="15" form="ναυσίν" lemma="ναῦς" postag="n-p---fd-" relation="ADV" head="11" cite="Xenophon Hellenica Book 1: s-9 w-15" Subtree="15 14 13 12" Projectivity="Projective"/>
+  <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-9 w-16" Subtree="" Projectivity="Projective"/>
+ </sentence>
+ <sentence id="10" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.6" span="Xenophon Hellenica Book 1: s-10">
+  <word id="1" form="ἐντεῦθεν" lemma="ἐντεῦθεν" postag="d--------" relation="ADV" head="6" cite="Xenophon Hellenica Book 1: s-10 w-1" Subtree="1" Projectivity="Projective"/>
+  <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="6" cite="Xenophon Hellenica Book 1: s-10 w-2" Subtree="2" Projectivity="Projective"/>
+  <word id="3" form="φυγὴ" lemma="φυγή" postag="n-s---fn-" relation="SBJ" head="6" cite="Xenophon Hellenica Book 1: s-10 w-3" Subtree="3 5 4" Projectivity="Projective"/>
+  <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="5" cite="Xenophon Hellenica Book 1: s-10 w-4" Subtree="4" Projectivity="Projective"/>
+  <word id="5" form="Πελοποννησίων" lemma="Πελοποννήσιοι" postag="n-p---mg-" relation="ATR" head="3" cite="Xenophon Hellenica Book 1: s-10 w-5" Subtree="5 4" Projectivity="Projective"/>
+  <word id="6" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0" cite="Xenophon Hellenica Book 1: s-10 w-6" Subtree="6 1 2 3 7 5 9 4 8" Projectivity="Projective"/>
+  <word id="7" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6" cite="Xenophon Hellenica Book 1: s-10 w-7" Subtree="7 9 8" Projectivity="Projective"/>
+  <word id="8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9" cite="Xenophon Hellenica Book 1: s-10 w-8" Subtree="8" Projectivity="Projective"/>
+  <word id="9" form="Ἄβυδον" lemma="Ἄβυδος" postag="n-s---fa-" relation="PNOM" head="7" cite="Xenophon Hellenica Book 1: s-10 w-9" Subtree="9 8" Projectivity="Projective"/>
+  <word id="10" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Xenophon Hellenica Book 1: s-10 w-10" Subtree="" Projectivity="Projective"/>
+ </sentence>
+</subTree_document>
