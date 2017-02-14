@@ -1,5 +1,5 @@
 ####### 
-# This script takes account of ellipsis vertices which are leaves.
+# This script adds a 2Sentence_Projectivity attribute to each sentence.
 
 # if necessary, empty memory.
 rm(list = ls())
@@ -38,6 +38,7 @@ for (i in 1: length(files.v))  {
   
   for (j in 1:length(sentence.list)) {
     
+    sentence.projectivity.v <- 0 # A counter to track existence of non-projective vertices in sentence.
     
     # for each sentence in sentence.list, create a node including all attributes
     a <- unlist(sentence.list[[j]][length(sentence.list[[j]])]) # make vector of sentence attributes.
@@ -237,6 +238,9 @@ for (i in 1: length(files.v))  {
           
           projectivity.attr <- "NonProjective"  # A gap in the subtree means the vertex is not projective.
           
+          sentence.projectivity.v <- sentence.projectivity.v + 1 # Add to sentence projectivity counter to indicate
+                                                # non-projective sentence.
+          
         } else # A value equal to 0 indicates no gap.
           
           projectivity.attr <- "Projective"  # No gap in the subtree indicates that the vertex is projective.
@@ -281,7 +285,16 @@ for (i in 1: length(files.v))  {
     }
     k <- 1 # reset iterator for each token.
     
+    if (sentence.projectivity.v > 0)  {
+      sent.projectivity.attr <- "NonProjective"
+     
+    } else {
+      
+      sent.projectivity.attr <- "Projective"
+      
+    }
     
+    sent.xml <- addAttributes(sent.xml, Sentence_Projectivity = sent.projectivity.attr)
     subtree.xml <- append.xmlNode(subtree.xml, sent.xml) # Insert sentence into document xml.
     
   } # end of loop j

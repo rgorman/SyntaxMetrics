@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <subTree_document>
- <sentence id="1" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-1">
+ <sentence id="1" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-1" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="40" cite="Demosthenes Philippic 1: s-1 w-1" Subtree="1 7 13 3 6 4 5" Projectivity="NonProjective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="40" cite="Demosthenes Philippic 1: s-1 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="13" cite="Demosthenes Philippic 1: s-1 w-3" Subtree="3 6 4 5" Projectivity="Projective"/>
@@ -54,7 +54,7 @@
   <word id="51" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-1 w-51" Subtree="51" Projectivity="Projective"/>
   <word id="52" form="ἤρεσκέ" lemma="ἀρέσκω" postag="v3siia---" relation="ADV" head="39" cite="Demosthenes Philippic 1: s-1 w-52" insertion_id="0051e" artificial="elliptic" Subtree="52 41" Projectivity="Projective"/>
  </sentence>
- <sentence id="2" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-2">
+ <sentence id="2" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-2" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐπειδὴ" lemma="ἐπεί" postag="c--------" relation="AuxC" head="14" cite="Demosthenes Philippic 1: s-2 w-1" Subtree="1 9 12 6 11 3 5 7 8 10 4" Projectivity="NonProjective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="14" cite="Demosthenes Philippic 1: s-2 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑπὲρ" lemma="ὑπέρ" postag="r--------" relation="AuxP" head="6" cite="Demosthenes Philippic 1: s-2 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -78,7 +78,7 @@
   <word id="21" form="τυγχάνειν" lemma="τυγχάνω" postag="v--pna---" relation="OBJ" head="14" cite="Demosthenes Philippic 1: s-2 w-21" Subtree="21 18 19 20" Projectivity="Projective"/>
   <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-2 w-22" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="3" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-3">
+ <sentence id="3" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="1" span="Demosthenes Philippic 1: s-3" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="16" cite="Demosthenes Philippic 1: s-3 w-1" Subtree="1 10 3 8 9 6 7 4 5" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="16" cite="Demosthenes Philippic 1: s-3 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="10" cite="Demosthenes Philippic 1: s-3 w-3" Subtree="3 6 4 5" Projectivity="Projective"/>
@@ -98,7 +98,7 @@
   <word id="17" form="βουλεύεσθαι" lemma="βουλεύω" postag="v--pne---" relation="SBJ" head="16" cite="Demosthenes Philippic 1: s-3 w-17" Subtree="17 14 15" Projectivity="NonProjective"/>
   <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-3 w-18" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="4" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-4">
+ <sentence id="4" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-4" Sentence_Projectivity="NonProjective">
   <word id="1" form="πρῶτον" lemma="πρῶτος" postag="a-s---na-" relation="ADV" head="5" cite="Demosthenes Philippic 1: s-4 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-4 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-4 w-3" Subtree="3" Projectivity="Projective"/>
@@ -121,7 +121,7 @@
   <word id="20" form="δοκεῖ" lemma="δοκέω" postag="v3spia---" relation="ADV" head="16" cite="Demosthenes Philippic 1: s-4 w-20" Subtree="20 15 19 18 17" Projectivity="NonProjective"/>
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-4 w-21" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="5" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-5">
+ <sentence id="5" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-5" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὃ" lemma="ὅς" postag="p-s---nn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-5 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="16" cite="Demosthenes Philippic 1: s-5 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐστι" lemma="εἰμί" postag="v3spia---" relation="ATR" head="11" cite="Demosthenes Philippic 1: s-5 w-3" Subtree="3 1 4 5 6 9 7 8" Projectivity="NonProjective"/>
@@ -140,14 +140,14 @@
   <word id="16" form="ὑπάρχει" lemma="ὑπάρχω" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-5 w-16" Subtree="16 2 11 15 3 12 1 4 14 5 13 6 9 7 8" Projectivity="Projective"/>
   <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-5 w-17" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="6" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-6">
+ <sentence id="6" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-6" Sentence_Projectivity="Projective">
   <word id="1" form="τί" lemma="τις" postag="p-s---nn-" relation="PNOM" head="3" cite="Demosthenes Philippic 1: s-6 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-6 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐστι" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-6 w-3" Subtree="3 1 2 4" Projectivity="Projective"/>
   <word id="4" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-6 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-6 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="7" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-7">
+ <sentence id="7" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-7" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="17" cite="Demosthenes Philippic 1: s-7 w-1" Subtree="1 15 10 12 14 2 11 13 9 8" Projectivity="NonProjective"/>
   <word id="2" form="οὐδέν" lemma="οὐδείς" postag="p-s---na-" relation="OBJ" head="10" cite="Demosthenes Philippic 1: s-7 w-2" Subtree="2 9 8" Projectivity="NonProjective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-7 w-3" Subtree="3" Projectivity="Projective"/>
@@ -166,7 +166,7 @@
   <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-7 w-16" Subtree="16" Projectivity="Projective"/>
   <word id="17" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-7 w-17" insertion_id="0016e" artificial="elliptic" Subtree="17 1 5 15 4 6 10 12 14 2 11 13 9 8" Projectivity="Projective"/>
  </sentence>
- <sentence id="8" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-8">
+ <sentence id="8" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="2" span="Demosthenes Philippic 1: s-8" Sentence_Projectivity="Projective">
   <word id="1" form="ἐπεί" lemma="ἐπεί" postag="c--------" relation="AuxC" head="20" cite="Demosthenes Philippic 1: s-8 w-1" Subtree="1 15 2 4 12 13 14 18 10 16 17 8 9 5 7 6" Projectivity="Projective"/>
   <word id="2" form="τοι" lemma="τοι" postag="d--------" relation="AuxZ" head="15" cite="Demosthenes Philippic 1: s-8 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-8 w-3" Subtree="3" Projectivity="Projective"/>
@@ -188,7 +188,7 @@
   <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-8 w-19" Subtree="19" Projectivity="Projective"/>
   <word id="20" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-8 w-20" insertion_id="0019e" artificial="elliptic" Subtree="20 1 15 2 4 12 13 14 18 10 16 17 8 9 5 7 6" Projectivity="Projective"/>
  </sentence>
- <sentence id="9" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-9">
+ <sentence id="9" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-9" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἔπειτʼ" lemma="ἔπειτα" postag="d-------_" relation="AuxY" head="2" cite="Demosthenes Philippic 1: s-9 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐνθυμητέον" lemma="ἐνθυμητέον" postag="a-s---nn-" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-9 w-2" Subtree="2 1 7 25 3 6 9 36 4 12 8 10 15 31 32 37 5 11 14 16 17 46 27 29 38 44 13 19 21 23 26 28 30 40 41 42 20 22 34 39 43 33" Projectivity="Projective"/>
   <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7" cite="Demosthenes Philippic 1: s-9 w-3" Subtree="3" Projectivity="Projective"/>
@@ -236,7 +236,7 @@
   <word id="45" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-9 w-45" Subtree="45" Projectivity="Projective"/>
   <word id="46" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="ADV" head="15" cite="Demosthenes Philippic 1: s-9 w-46" insertion_id="0045e" artificial="elliptic" Subtree="46 19 21 23 20 22" Projectivity="Projective"/>
  </sentence>
- <sentence id="10" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-10">
+ <sentence id="10" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-10" Sentence_Projectivity="NonProjective">
   <word id="1" form="τίνος" lemma="τις" postag="p-s----g-" relation="ADV" head="3" cite="Demosthenes Philippic 1: s-10 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-10 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="εἵνεκα" lemma="ἕνεκα" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-10 w-3" Subtree="3 1" Projectivity="NonProjective"/>
@@ -244,7 +244,7 @@
   <word id="5" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-10 w-5" Subtree="5 2 3 4 1" Projectivity="Projective"/>
   <word id="6" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-10 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="11" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-11">
+ <sentence id="11" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="3" span="Demosthenes Philippic 1: s-11" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἵνʼ" lemma="ἵνα" postag="c--------" relation="AuxC" head="67" cite="Demosthenes Philippic 1: s-11 w-1" Subtree="1 8 2 5 9 4 6 11 21 14 17 66 12 13 18 20 23 26 27 28 16 24 30 15 29 33 32 50 36 53 34 35 38 41 51 52 54 58 37 40 42 56 59 44 57 62 43 46 48 60 61 45 47 64 63" Projectivity="Projective"/>
   <word id="2" form="ἴδητʼ" lemma="εἶδον" postag="v2pasa---" relation="ADV_CO" head="8" cite="Demosthenes Philippic 1: s-11 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-11 w-3" Subtree="3" Projectivity="Projective"/>
@@ -313,7 +313,7 @@
   <word id="66" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ_CO" head="21" cite="Demosthenes Philippic 1: s-11 w-66" insertion_id="0065e" artificial="elliptic" Subtree="66 20 23 26 27 28 24 30 29 33 32 50 36 53 34 35 38 41 51 52 54 58 37 40 42 56 59 44 57 62 43 46 48 60 61 45 47 64 63" Projectivity="NonProjective"/>
   <word id="67" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-11 w-67" insertion_id="0065f" artificial="elliptic" Subtree="67 1 8 2 5 9 4 6 11 21 14 17 66 12 13 18 20 23 26 27 28 16 24 30 15 29 33 32 50 36 53 34 35 38 41 51 52 54 58 37 40 42 56 59 44 57 62 43 46 48 60 61 45 47 64 63" Projectivity="Projective"/>
  </sentence>
- <sentence id="12" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="4" span="Demosthenes Philippic 1: s-12">
+ <sentence id="12" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="4" span="Demosthenes Philippic 1: s-12" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="35" cite="Demosthenes Philippic 1: s-12 w-1" Subtree="1 11 3 14 4 10 13 12" Projectivity="NonProjective"/>
   <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="35" cite="Demosthenes Philippic 1: s-12 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="11" cite="Demosthenes Philippic 1: s-12 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -401,7 +401,7 @@
   <word id="85" form="ἐβούλετʼ" lemma="βούλομαι" postag="v3siia---" relation="ADV" head="82" cite="Demosthenes Philippic 1: s-12 w-85" insertion_id="0084e" artificial="elliptic" Subtree="85 86 83" Projectivity="Projective"/>
   <word id="86" form="ἔχειν" lemma="ἔχω" postag="v--pna---" relation="OBJ" head="85" cite="Demosthenes Philippic 1: s-12 w-86" insertion_id="0084f" artificial="elliptic" Subtree="86 83" Projectivity="Projective"/>
  </sentence>
- <sentence id="13" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="5" span="Demosthenes Philippic 1: s-13">
+ <sentence id="13" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="5" span="Demosthenes Philippic 1: s-13" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="33" cite="Demosthenes Philippic 1: s-13 w-1" Subtree="1 7 4 5 10 3 9 11 6 8 14 12 13 15 23 16 22 18 24 17 21 19 20" Projectivity="NonProjective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="33" cite="Demosthenes Philippic 1: s-13 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-13 w-3" Subtree="3" Projectivity="Projective"/>
@@ -441,7 +441,7 @@
   <word id="37" form="δύναμιν" lemma="δύναμις" postag="n-s---fa-" relation="OBJ" head="35" cite="Demosthenes Philippic 1: s-13 w-37" Subtree="37 34" Projectivity="NonProjective"/>
   <word id="38" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-13 w-38" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="14" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="5" span="Demosthenes Philippic 1: s-14">
+ <sentence id="14" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="5" span="Demosthenes Philippic 1: s-14" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀλλʼ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="2" cite="Demosthenes Philippic 1: s-14 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="εἶδεν" lemma="εἶδον" postag="v3saia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-14 w-2" Subtree="2 1 5 9 10 11 4 6 8 12 27 14 15 35 18 19 28 45 13 16 17 22 21 26 30 31 37 41 23 20 29 33 36 39 43 24 32 38 40 42" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-14 w-3" Subtree="3" Projectivity="Projective"/>
@@ -488,7 +488,7 @@
   <word id="44" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-14 w-44" Subtree="44" Projectivity="Projective"/>
   <word id="45" form="ὑπάρχει" lemma="ὑπάρχω" postag="v3spia---" relation="OBJ_AP_CO" head="35" cite="Demosthenes Philippic 1: s-14 w-45" insertion_id="0044e" artificial="elliptic" Subtree="45 37 41 36 39 43 38 40 42" Projectivity="Projective"/>
  </sentence>
- <sentence id="15" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="6" span="Demosthenes Philippic 1: s-15">
+ <sentence id="15" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="6" span="Demosthenes Philippic 1: s-15" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-15 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-15 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοι" lemma="τοι" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-15 w-3" Subtree="3" Projectivity="Projective"/>
@@ -518,7 +518,7 @@
   <word id="27" form="ποιησάμενος" lemma="ποιέω" postag="v-sapmmn-" relation="ADV_CO" head="23" cite="Demosthenes Philippic 1: s-15 w-27" Subtree="27 22 25 24 26" Projectivity="NonProjective"/>
   <word id="28" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-15 w-28" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="16" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="6" span="Demosthenes Philippic 1: s-16">
+ <sentence id="16" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="6" span="Demosthenes Philippic 1: s-16" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-16 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-16 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="συμμαχεῖν" lemma="συμμαχέω" postag="v--pna---" relation="OBJ_CO" head="4" cite="Demosthenes Philippic 1: s-16 w-3" Subtree="3" Projectivity="Projective"/>
@@ -542,7 +542,7 @@
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-16 w-21" Subtree="21" Projectivity="Projective"/>
   <word id="22" form="πράττειν" lemma="πράσσω" postag="v--pna---" relation="SBJ" head="20" cite="Demosthenes Philippic 1: s-16 w-22" insertion_id="0021e" artificial="elliptic" Subtree="22 19" Projectivity="Projective"/>
  </sentence>
- <sentence id="17" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="7" span="Demosthenes Philippic 1: s-17">
+ <sentence id="17" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="7" span="Demosthenes Philippic 1: s-17" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="59" cite="Demosthenes Philippic 1: s-17 w-1" Subtree="1 22 8 13 44 9 14 43 52 10 16 18 23 28 38 41 46 105 106 15 104 24 26 27 29 31 40 42 48 107 51 108 11 12 20 30 32 37 39 45 47 49 53 55 19 33 54 35 34" Projectivity="NonProjective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="100" cite="Demosthenes Philippic 1: s-17 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-17 w-3" Subtree="3" Projectivity="Projective"/>
@@ -652,7 +652,7 @@
   <word id="107" form="ἕτοιμος" lemma="ἑτοῖμος" postag="a-s---mn-" relation="PNOM" head="105" cite="Demosthenes Philippic 1: s-17 w-107" insertion_id="0103j" artificial="elliptic" Subtree="107 49" Projectivity="Projective"/>
   <word id="108" form="ἕτοιμος" lemma="ἑτοῖμος" postag="a-s---mn-" relation="PNOM" head="106" cite="Demosthenes Philippic 1: s-17 w-108" insertion_id="0103k" artificial="elliptic" Subtree="108 55" Projectivity="Projective"/>
  </sentence>
- <sentence id="18" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-18">
+ <sentence id="18" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-18" Sentence_Projectivity="NonProjective">
   <word id="1" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="5" cite="Demosthenes Philippic 1: s-18 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="13" cite="Demosthenes Philippic 1: s-18 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="9" cite="Demosthenes Philippic 1: s-18 w-3" Subtree="3 36 37 4" Projectivity="NonProjective"/>
@@ -691,7 +691,7 @@
   <word id="36" form="πεπηγέναι" lemma="πήγνυμι" postag="v--rna---" relation="ADV" head="3" cite="Demosthenes Philippic 1: s-18 w-36" insertion_id="0035e" artificial="elliptic" Subtree="36 37 4" Projectivity="NonProjective"/>
   <word id="37" form="παρόντα" lemma="πάρειμι1" postag="v-pppana-" relation="SBJ" head="36" cite="Demosthenes Philippic 1: s-18 w-37" insertion_id="0035f" artificial="elliptic" Subtree="37 4" Projectivity="Projective"/>
  </sentence>
- <sentence id="19" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-19">
+ <sentence id="19" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-19" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-19 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἅπανθʼ" lemma="ἅπας" postag="a-p---na_" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-19 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὅσα" lemma="ὅσος" postag="a-p---na-" relation="SBJ" head="10" cite="Demosthenes Philippic 1: s-19 w-3" Subtree="3 2 4" Projectivity="Projective"/>
@@ -714,7 +714,7 @@
   <word id="20" form="ἐνεῖναι" lemma="ἐνίημι" postag="v--ana---" relation="OBJ" head="19" cite="Demosthenes Philippic 1: s-19 w-20" Subtree="20 12 14 10 15 3 6 13 16 2 4 9 17 7 8 5" Projectivity="NonProjective"/>
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-19 w-21" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="20" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-20">
+ <sentence id="20" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-20" Sentence_Projectivity="Projective">
   <word id="1" form="κατέπτηχε" lemma="καταπτήσσω" postag="v3sria---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-20 w-1" Subtree="1 2 4 5 8 3 7 9 10 14 11 12 13 15" Projectivity="Projective"/>
   <word id="2" form="μέντοι" lemma="μέντοι" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-20 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="πάντα" lemma="πᾶς" postag="a-p---nn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-20 w-3" Subtree="3" Projectivity="Projective"/>
@@ -732,7 +732,7 @@
   <word id="15" form="ῥᾳθυμίαν" lemma="ῥᾳθυμία" postag="n-s---fa-" relation="ADV_CO" head="14" cite="Demosthenes Philippic 1: s-20 w-15" Subtree="15" Projectivity="Projective"/>
   <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-20 w-16" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="21" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-21">
+ <sentence id="21" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="8" span="Demosthenes Philippic 1: s-21" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἣν" lemma="ὅς" postag="p-s---fa-" relation="OBJ" head="2" cite="Demosthenes Philippic 1: s-21 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἀποθέσθαι" lemma="ἀποτίθημι" postag="v--ane---" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-21 w-2" Subtree="2 1 5" Projectivity="NonProjective"/>
   <word id="3" form="φημὶ" lemma="φημί" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-21 w-3" Subtree="3 4 2 1 5" Projectivity="Projective"/>
@@ -740,7 +740,7 @@
   <word id="5" form="ἤδη" lemma="ἤδη" postag="d--------" relation="ADV" head="2" cite="Demosthenes Philippic 1: s-21 w-5" Subtree="5" Projectivity="Projective"/>
   <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-21 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="22" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="9" span="Demosthenes Philippic 1: s-22">
+ <sentence id="22" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="9" span="Demosthenes Philippic 1: s-22" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὁρᾶτε" lemma="ὁράω" postag="v2ppma---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-22 w-1" Subtree="1 2 5 10 4 6 9 12 8 11 14 13 27 16 20 38 17 18 19 28 29 36 49 23 30 33 41 53 21 22 24 31 34 40 42 52 57 60 25 39 45 44 50 51 58 46 43 56 59 47 54 55" Projectivity="Projective"/>
   <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-22 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-22 w-3" Subtree="3" Projectivity="Projective"/>
@@ -803,7 +803,7 @@
   <word id="60" form="περιστοιχίζεται" lemma="περιστοιχίζομαι" postag="v3spie---" relation="ATR_CO" head="53" cite="Demosthenes Philippic 1: s-22 w-60" Subtree="60" Projectivity="Projective"/>
   <word id="61" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-22 w-61" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="23" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-23">
+ <sentence id="23" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-23" Sentence_Projectivity="NonProjective">
   <word id="1" form="πότʼ" lemma="πότε" postag="a-_---___" relation="ADV" head="11" cite="Demosthenes Philippic 1: s-23 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-23 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-23 w-3" Subtree="3" Projectivity="Projective"/>
@@ -818,14 +818,14 @@
   <word id="12" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-23 w-12" Subtree="12" Projectivity="Projective"/>
   <word id="13" form="πράσσειν" lemma="πράσσω" postag="v--pna---" relation="SBJ" head="10" cite="Demosthenes Philippic 1: s-23 w-13" insertion_id="0012e" artificial="elliptic" Subtree="13 9" Projectivity="Projective"/>
  </sentence>
- <sentence id="24" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-24">
+ <sentence id="24" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-24" Sentence_Projectivity="Projective">
   <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="5" cite="Demosthenes Philippic 1: s-24 w-1" Subtree="1 3 2" Projectivity="Projective"/>
   <word id="2" form="τί" lemma="τις" postag="p-s---nn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-24 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γένηται" lemma="γίγνομαι" postag="v3sasm---" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-24 w-3" Subtree="3 2" Projectivity="Projective"/>
   <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-24 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-24 w-5" insertion_id="0004e" artificial="elliptic" Subtree="5 1 3 2" Projectivity="Projective"/>
  </sentence>
- <sentence id="25" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-25">
+ <sentence id="25" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-25" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="8" cite="Demosthenes Philippic 1: s-25 w-1" Subtree="1 6 4 5" Projectivity="NonProjective"/>
   <word id="2" form="νὴ" lemma="νή" postag="r--------" relation="AuxP" head="8" cite="Demosthenes Philippic 1: s-25 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="Δίʼ" lemma="Ζεύς" postag="n-s---ma-" relation="ExD" head="2" cite="Demosthenes Philippic 1: s-25 w-3" Subtree="3" Projectivity="Projective"/>
@@ -835,7 +835,7 @@
   <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-25 w-7" Subtree="7" Projectivity="Projective"/>
   <word id="8" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-25 w-8" insertion_id="0007e" artificial="elliptic" Subtree="8 1 2 6 3 4 5" Projectivity="Projective"/>
  </sentence>
- <sentence id="26" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-26">
+ <sentence id="26" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-26" Sentence_Projectivity="NonProjective">
   <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="4" cite="Demosthenes Philippic 1: s-26 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxZ" head="4" cite="Demosthenes Philippic 1: s-26 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τί" lemma="τις" postag="p-s---na-" relation="OCOMP" head="7" cite="Demosthenes Philippic 1: s-26 w-3" Subtree="3" Projectivity="Projective"/>
@@ -845,7 +845,7 @@
   <word id="7" form="ἡγεῖσθαι" lemma="ἡγέομαι" postag="v--pnm---" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-26 w-7" Subtree="7 3 6 5" Projectivity="NonProjective"/>
   <word id="8" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-26 w-8" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="27" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-27">
+ <sentence id="27" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-27" Sentence_Projectivity="Projective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-27 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-27 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-27 w-3" Subtree="3" Projectivity="Projective"/>
@@ -862,7 +862,7 @@
   <word id="14" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-27 w-14" Subtree="14 8 13 6 7 9 10 5 12 11" Projectivity="Projective"/>
   <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-27 w-15" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="28" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-28">
+ <sentence id="28" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-28" Sentence_Projectivity="Projective">
   <word id="1" form="ἢ" lemma="ἤ1" postag="d--------" relation="AuxY" head="2" cite="Demosthenes Philippic 1: s-28 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="βούλεσθʼ" lemma="βούλομαι" postag="v2ppie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-28 w-2" Subtree="2 1 4 7 9 5 8 11 12 13" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-28 w-3" Subtree="3" Projectivity="Projective"/>
@@ -878,7 +878,7 @@
   <word id="13" form="καινόν" lemma="καινός" postag="a-s---nn-" relation="ATR" head="12" cite="Demosthenes Philippic 1: s-28 w-13" Subtree="13" Projectivity="Projective"/>
   <word id="14" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-28 w-14" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="29" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-29">
+ <sentence id="29" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-29" Sentence_Projectivity="Projective">
   <word id="1" form="γένοιτο" lemma="γίγνομαι" postag="v3saom---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-29 w-1" Subtree="1 2 3 4 5 6 17 8 11 7 10 15 9 12 14 13" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-29 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἄν" lemma="ἄν1" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-29 w-3" Subtree="3" Projectivity="Projective"/>
@@ -897,12 +897,12 @@
   <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-29 w-16" Subtree="16" Projectivity="Projective"/>
   <word id="17" form="[0]" lemma="NA" postag="NA" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-29 w-17" insertion_id="0016e" artificial="elliptic" Subtree="17 8 11 7 10 15 9 12 14 13" Projectivity="Projective"/>
  </sentence>
- <sentence id="30" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-30">
+ <sentence id="30" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-30" Sentence_Projectivity="Projective">
   <word id="1" form="τέθνηκε" lemma="θνήσκω" postag="v3sria---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-30 w-1" Subtree="1 2" Projectivity="Projective"/>
   <word id="2" form="Φίλιππος" lemma="Φίλιππος" postag="n-s---mn-" relation="SBJ" head="1" cite="Demosthenes Philippic 1: s-30 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-30 w-3" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="31" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-31">
+ <sentence id="31" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="10" span="Demosthenes Philippic 1: s-31" Sentence_Projectivity="Projective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="8" cite="Demosthenes Philippic 1: s-31 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὰ" lemma="μὰ" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-31 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="Δίʼ" lemma="Ζεύς" postag="n-s---ma-" relation="ExD" head="2" cite="Demosthenes Philippic 1: s-31 w-3" Subtree="3" Projectivity="Projective"/>
@@ -912,14 +912,14 @@
   <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-31 w-7" Subtree="7" Projectivity="Projective"/>
   <word id="8" form="τέθνηκε" lemma="θνήσκω" postag="v2srma---" relation="PRED_CO" head="5" cite="Demosthenes Philippic 1: s-31 w-8" insertion_id="0007e" artificial="elliptic" Subtree="8 1" Projectivity="Projective"/>
  </sentence>
- <sentence id="32" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-32">
+ <sentence id="32" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-32" Sentence_Projectivity="Projective">
   <word id="1" form="τί" lemma="τις" postag="p-s---nn-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-32 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-32 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-32 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="διαφέρει" lemma="διαφέρω" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-32 w-4" Subtree="4 1 2 3" Projectivity="Projective"/>
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-32 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="33" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-33">
+ <sentence id="33" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-33" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="6" cite="Demosthenes Philippic 1: s-33 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" cite="Demosthenes Philippic 1: s-33 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="12" cite="Demosthenes Philippic 1: s-33 w-3" Subtree="3 6 1 4 5" Projectivity="NonProjective"/>
@@ -942,7 +942,7 @@
   <word id="20" form="νοῦν" lemma="νόος" postag="n-s---ma-" relation="OBJ" head="16" cite="Demosthenes Philippic 1: s-33 w-20" Subtree="20 19" Projectivity="Projective"/>
   <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-33 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="34" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-34">
+ <sentence id="34" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="11" span="Demosthenes Philippic 1: s-34" Sentence_Projectivity="NonProjective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="10" cite="Demosthenes Philippic 1: s-34 w-1" Subtree="1 2" Projectivity="Projective"/>
   <word id="2" form="-δὲ" lemma="δέ" postag="d--------" relation="AuxZ" head="1" cite="Demosthenes Philippic 1: s-34 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-34 w-3" Subtree="3" Projectivity="Projective"/>
@@ -961,14 +961,14 @@
   <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-34 w-16" Subtree="16" Projectivity="Projective"/>
   <word id="17" form="ἐπηύξηται" lemma="ἐπαυξάνω" postag="v3srie---" relation="ATR" head="9" cite="Demosthenes Philippic 1: s-34 w-17" insertion_id="0016e" artificial="elliptic" Subtree="17 11 12 15 13 14" Projectivity="Projective"/>
  </sentence>
- <sentence id="35" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="12" span="Demosthenes Philippic 1: s-35">
+ <sentence id="35" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="12" span="Demosthenes Philippic 1: s-35" Sentence_Projectivity="Projective">
   <word id="1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-35 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-35 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="5" cite="Demosthenes Philippic 1: s-35 w-3" Subtree="3 2" Projectivity="Projective"/>
   <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-35 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-35 w-5" insertion_id="0004e" artificial="elliptic" Subtree="5 1 3 2" Projectivity="Projective"/>
  </sentence>
- <sentence id="36" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="12" span="Demosthenes Philippic 1: s-36">
+ <sentence id="36" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="12" span="Demosthenes Philippic 1: s-36" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἴ" lemma="εἰ" postag="c--------" relation="AuxC" head="23" cite="Demosthenes Philippic 1: s-36 w-1" Subtree="1 4 3 21 2 5 8 20 7 19 6 62 10 11 12 13 17 14 15 16" Projectivity="NonProjective"/>
   <word id="2" form="τι" lemma="τις" postag="p-s---na-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-36 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="πάθοι" lemma="πάσχω" postag="v3saoa---" relation="ADV_CO" head="4" cite="Demosthenes Philippic 1: s-36 w-3" Subtree="3 2" Projectivity="Projective"/>
@@ -1032,7 +1032,7 @@
   <word id="61" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-36 w-61" Subtree="61" Projectivity="Projective"/>
   <word id="62" form="[0]" lemma="NA" postag="NA" relation="ATR" head="7" cite="Demosthenes Philippic 1: s-36 w-62" insertion_id="0061e" artificial="elliptic" Subtree="62 10 11 12 13 17 14 15 16" Projectivity="Projective"/>
  </sentence>
- <sentence id="37" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="13" span="Demosthenes Philippic 1: s-37">
+ <sentence id="37" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="13" span="Demosthenes Philippic 1: s-37" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="16" cite="Demosthenes Philippic 1: s-37 w-1" Subtree="1 4 9 8 10 7 6 11 5" Projectivity="NonProjective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="19" cite="Demosthenes Philippic 1: s-37 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="19" cite="Demosthenes Philippic 1: s-37 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1055,7 +1055,7 @@
   <word id="20" form="λέγων" lemma="λέγω3" postag="v-sppamn-" relation="PNOM" head="19" cite="Demosthenes Philippic 1: s-37 w-20" Subtree="20" Projectivity="Projective"/>
   <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-37 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="38" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="13" span="Demosthenes Philippic 1: s-38">
+ <sentence id="38" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="13" span="Demosthenes Philippic 1: s-38" Sentence_Projectivity="NonProjective">
   <word id="1" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-38 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="38" cite="Demosthenes Philippic 1: s-38 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τρόπον" lemma="τρόπος" postag="n-s---ma-" relation="OBJ_CO" head="25" cite="Demosthenes Philippic 1: s-38 w-3" Subtree="3 1 5 4 13 7 6 8 11 12 9 10" Projectivity="NonProjective"/>
@@ -1106,7 +1106,7 @@
   <word id="48" form="τοσοῦτον" lemma="τοσοῦτος" postag="p-s---ma-" relation="OBJ" head="41" cite="Demosthenes Philippic 1: s-38 w-48" Subtree="48" Projectivity="Projective"/>
   <word id="49" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-38 w-49" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="39" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-39">
+ <sentence id="39" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-39" Sentence_Projectivity="Projective">
   <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="4" cite="Demosthenes Philippic 1: s-39 w-1" Subtree="1 3 2" Projectivity="Projective"/>
   <word id="2" form="ἅπαντʼ" lemma="ἅπας" postag="a-p---na_" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-39 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἀκούσητε" lemma="ἀκούω" postag="v2pasa---" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-39 w-3" Subtree="3 2" Projectivity="Projective"/>
@@ -1117,7 +1117,7 @@
   <word id="8" form="προλαμβάνετε" lemma="προλαμβάνω" postag="v2ppma---" relation="PRED_CO" head="5" cite="Demosthenes Philippic 1: s-39 w-8" Subtree="8 6 7" Projectivity="Projective"/>
   <word id="9" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-39 w-9" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="40" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-40">
+ <sentence id="40" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-40" Sentence_Projectivity="NonProjective">
   <word id="1" form="μηδʼ" lemma="μηδέ" postag="d-------_" relation="AuxZ" head="5" cite="Demosthenes Philippic 1: s-40 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="15" cite="Demosthenes Philippic 1: s-40 w-2" Subtree="2 5 1 3 9 4 6 8 7" Projectivity="Projective"/>
   <word id="3" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-40 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -1135,7 +1135,7 @@
   <word id="15" form="ἡγείσθω" lemma="ἡγέομαι" postag="v3spmm---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-40 w-15" Subtree="15 2 11 5 12 14 1 3 9 13 4 6 8 7" Projectivity="Projective"/>
   <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-40 w-16" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="41" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-41">
+ <sentence id="41" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="14" span="Demosthenes Philippic 1: s-41" Sentence_Projectivity="NonProjective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="7" cite="Demosthenes Philippic 1: s-41 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-41 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="7" cite="Demosthenes Philippic 1: s-41 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1189,7 +1189,7 @@
   <word id="51" form="ἐχθρῶν" lemma="ἐχθρός" postag="n-p---mg-" relation="OBJ" head="49" cite="Demosthenes Philippic 1: s-41 w-51" Subtree="51 50" Projectivity="Projective"/>
   <word id="52" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-41 w-52" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="42" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-42">
+ <sentence id="42" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-42" Sentence_Projectivity="Projective">
   <word id="1" form="οὕτω" lemma="οὕτως" postag="d--------" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-42 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-42 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὐκέτι" lemma="οὐκέτι" postag="d--------" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-42 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1200,7 +1200,7 @@
   <word id="8" form="κακῶς" lemma="κακός" postag="d-------p" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-42 w-8" Subtree="8" Projectivity="Projective"/>
   <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-42 w-9" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="43" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-43">
+ <sentence id="43" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-43" Sentence_Projectivity="Projective">
   <word id="1" form="οἶμαι" lemma="οἴομαι" postag="v1spie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-43 w-1" Subtree="1 2 3 6 5 9 4 8 10 13 11 14 12" Projectivity="Projective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-43 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="1" cite="Demosthenes Philippic 1: s-43 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1217,7 +1217,7 @@
   <word id="14" form="τι" lemma="τις" postag="p-s---na-" relation="OBJ" head="13" cite="Demosthenes Philippic 1: s-43 w-14" Subtree="14" Projectivity="Projective"/>
   <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-43 w-15" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="44" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-44">
+ <sentence id="44" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-44" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-44 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-44 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-44 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1235,14 +1235,14 @@
   <word id="15" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-44 w-15" Subtree="15" Projectivity="Projective"/>
   <word id="16" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="9" cite="Demosthenes Philippic 1: s-44 w-16" insertion_id="0015e" artificial="elliptic" Subtree="16 4 5 6 1" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="45" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-45">
+ <sentence id="45" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="15" span="Demosthenes Philippic 1: s-45" Sentence_Projectivity="Projective">
   <word id="1" form="κριταὶ" lemma="κριτής" postag="n-p---mn-" relation="PNOM" head="4" cite="Demosthenes Philippic 1: s-45 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-45 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑμεῖς" lemma="σύ" postag="p-p---mn-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-45 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="ἔσεσθε" lemma="εἰμί" postag="v2pfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-45 w-4" Subtree="4 1 2 3" Projectivity="Projective"/>
   <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-45 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="46" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="16" span="Demosthenes Philippic 1: s-46">
+ <sentence id="46" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="16" span="Demosthenes Philippic 1: s-46" Sentence_Projectivity="NonProjective">
   <word id="1" form="πρῶτον" lemma="πρῶτος" postag="a-s---na-" relation="ADV" head="11" cite="Demosthenes Philippic 1: s-46 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="13" cite="Demosthenes Philippic 1: s-46 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="12" cite="Demosthenes Philippic 1: s-46 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1276,7 +1276,7 @@
   <word id="31" form="ἐμβᾶσιν" lemma="ἐμβαίνω" postag="v-papamd-" relation="ATR" head="30" cite="Demosthenes Philippic 1: s-46 w-31" Subtree="31" Projectivity="Projective"/>
   <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-46 w-32" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="47" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="16" span="Demosthenes Philippic 1: s-47">
+ <sentence id="47" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="16" span="Demosthenes Philippic 1: s-47" Sentence_Projectivity="NonProjective">
   <word id="1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="12" cite="Demosthenes Philippic 1: s-47 w-1" Subtree="1 5 3 4 7 6" Projectivity="NonProjective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="14" cite="Demosthenes Philippic 1: s-47 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τούτοις" lemma="οὗτος" postag="a-p---nd_" relation="ATR_CO" head="5" cite="Demosthenes Philippic 1: s-47 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1293,7 +1293,7 @@
   <word id="14" form="κελεύω" lemma="κελεύω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-47 w-14" Subtree="14 2 13 10 9 11 8 12 1 5 3 4 7 6" Projectivity="Projective"/>
   <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-47 w-15" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="48" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="17" span="Demosthenes Philippic 1: s-48">
+ <sentence id="48" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="17" span="Demosthenes Philippic 1: s-48" Sentence_Projectivity="NonProjective">
   <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="SBJ" head="5" cite="Demosthenes Philippic 1: s-48 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-48 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἶμαι" lemma="οἴομαι" postag="v1spie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-48 w-3" Subtree="3 2 4 5 1 6 15 7 8 9 10 14 16 13 22 11 12 17 18 19 20 21 24 23" Projectivity="Projective"/>
@@ -1320,7 +1320,7 @@
   <word id="24" form="βούλεται" lemma="βούλομαι" postag="v3spie---" relation="ATR_CO" head="22" cite="Demosthenes Philippic 1: s-48 w-24" Subtree="24 23" Projectivity="Projective"/>
   <word id="25" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-48 w-25" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="49" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="17" span="Demosthenes Philippic 1: s-49">
+ <sentence id="49" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="17" span="Demosthenes Philippic 1: s-49" Sentence_Projectivity="NonProjective">
   <word id="1" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED_CO" head="43" cite="Demosthenes Philippic 1: s-49 w-1" Subtree="1 2 8 3 5 9 58 7 4 10 89 6 37 59 87 93 11 12 35 36 39 41 60 63 86 90 92 96 14 19 62 65 91 95 97 13 15 16 17 25 61 64 98 103 28 99 105 22 109 110 111 102 106 20 23 24 26 30 31 32 100 101 107 21 27 29 33" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-49 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐκείνῳ" lemma="ἐκεῖνος" postag="p-s---md-" relation="OBJ" head="8" cite="Demosthenes Philippic 1: s-49 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1433,7 +1433,7 @@
   <word id="110" form="παραστῆσαι" lemma="παρίστημι" postag="v--ana---" relation="OBJ_CO" head="28" cite="Demosthenes Philippic 1: s-49 w-110" insertion_id="0108f" artificial="elliptic" Subtree="110 23 24 26 27" Projectivity="NonProjective"/>
   <word id="111" form="παραστῆσαι" lemma="παρίστημι" postag="v--ana---" relation="OBJ_CO" head="28" cite="Demosthenes Philippic 1: s-49 w-111" insertion_id="0108g" artificial="elliptic" Subtree="111 30 31 32 29 33" Projectivity="Projective"/>
  </sentence>
- <sentence id="50" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-50">
+ <sentence id="50" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-50" Sentence_Projectivity="NonProjective">
   <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-50 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-50 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-50 w-3" Subtree="3 1 2 9 7 12 6 11 4 5 8 10" Projectivity="Projective"/>
@@ -1448,7 +1448,7 @@
   <word id="12" form="οἴομαι" lemma="οἴομαι" postag="v1spie---" relation="PNOM_CO" head="9" cite="Demosthenes Philippic 1: s-50 w-12" Subtree="12 11 10" Projectivity="Projective"/>
   <word id="13" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-50 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="51" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-51">
+ <sentence id="51" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-51" Sentence_Projectivity="NonProjective">
   <word id="1" form="πρὸ" lemma="πρό" postag="r--------" relation="AuxP" head="12" cite="Demosthenes Philippic 1: s-51 w-1" Subtree="1 3" Projectivity="NonProjective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-51 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τούτων" lemma="οὗτος" postag="p-p---ng-" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-51 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1473,7 +1473,7 @@
   <word id="22" form="ποιήσει" lemma="ποιέω" postag="v3sfia---" relation="ATR_CO" head="19" cite="Demosthenes Philippic 1: s-51 w-22" Subtree="22 20 21" Projectivity="Projective"/>
   <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-51 w-23" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="52" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-52">
+ <sentence id="52" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="19" span="Demosthenes Philippic 1: s-52" Sentence_Projectivity="NonProjective">
   <word id="1" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-52 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="46" cite="Demosthenes Philippic 1: s-52 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="μυρίους" lemma="μυρίος" postag="a-p---ma-" relation="ATR_CO" head="4" cite="Demosthenes Philippic 1: s-52 w-3" Subtree="3 1" Projectivity="NonProjective"/>
@@ -1521,7 +1521,7 @@
   <word id="45" form="[3]" lemma="NA" postag="NA" relation="ADV_CO" head="32" cite="Demosthenes Philippic 1: s-52 w-45" insertion_id="0041l" artificial="elliptic" Subtree="45 34 33 35" Projectivity="Projective"/>
   <word id="46" form="[4]" lemma="NA" postag="NA" relation="PRED_CO" head="14" cite="Demosthenes Philippic 1: s-52 w-46" insertion_id="0041e" artificial="elliptic" Subtree="46 2 8 6 12 4 9 10 11 3 5 1" Projectivity="Projective"/>
  </sentence>
- <sentence id="53" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-53">
+ <sentence id="53" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-53" Sentence_Projectivity="Projective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-53 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τροφὴν" lemma="τροφή" postag="n-s---fa-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-53 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ταύτῃ" lemma="οὗτος" postag="p-s---fd-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-53 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1529,7 +1529,7 @@
   <word id="5" form="κελεύω" lemma="κελεύω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-53 w-5" Subtree="5 1 4 2 3" Projectivity="Projective"/>
   <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-53 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="54" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-54">
+ <sentence id="54" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-54" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἔσται" lemma="εἰμί" postag="v3sfim---" relation="PRED_CO" head="16" cite="Demosthenes Philippic 1: s-54 w-1" Subtree="1 7 4 8" Projectivity="NonProjective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="" head="16" cite="Demosthenes Philippic 1: s-54 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="αὕτη" lemma="οὗτος" postag="a-s---fn_" relation="ATR" head="6" cite="Demosthenes Philippic 1: s-54 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1552,7 +1552,7 @@
   <word id="20" form="ποιεῖν" lemma="ποιέω" postag="v--pna---" relation="OBJ" head="19" cite="Demosthenes Philippic 1: s-54 w-20" Subtree="20 18" Projectivity="NonProjective"/>
   <word id="21" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-54 w-21" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="55" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-55">
+ <sentence id="55" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-55" Sentence_Projectivity="Projective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="2" cite="Demosthenes Philippic 1: s-55 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="φράσω" lemma="φράζω" postag="v1sfia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-55 w-2" Subtree="2 1 7 4 8 5 6" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-55 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1563,7 +1563,7 @@
   <word id="8" form="χωρίς" lemma="χωρίς" postag="d--------" relation="ADV" head="7" cite="Demosthenes Philippic 1: s-55 w-8" Subtree="8" Projectivity="Projective"/>
   <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-55 w-9" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="56" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-56">
+ <sentence id="56" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-56" Sentence_Projectivity="Projective">
   <word id="1" form="ξένους" lemma="ξένος1" postag="n-p---ma-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-56 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-56 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="λέγω" lemma="λέγω3" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-56 w-3" Subtree="3 1 2" Projectivity="Projective"/>
@@ -1578,7 +1578,7 @@
   <word id="12" form="ἔβλαψεν" lemma="βλάπτω" postag="v3saia---" relation="OBJ" head="8" cite="Demosthenes Philippic 1: s-56 w-12" Subtree="12 9 10 11" Projectivity="Projective"/>
   <word id="13" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-56 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="57" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-57">
+ <sentence id="57" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-57" Sentence_Projectivity="NonProjective">
   <word id="1" form="πάντʼ" lemma="πᾶς" postag="a-p---na_" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-57 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐλάττω" lemma="ἐλάσσων" postag="a-p---nac" relation="PNOM" head="4" cite="Demosthenes Philippic 1: s-57 w-2" Subtree="2 6 5" Projectivity="NonProjective"/>
   <word id="3" form="νομίζοντες" lemma="νομίζω" postag="v-pppamn-" relation="ADV_CO" head="8" cite="Demosthenes Philippic 1: s-57 w-3" Subtree="3 4 1 2 6 5" Projectivity="Projective"/>
@@ -1604,7 +1604,7 @@
   <word id="23" form="ποιεῖτε" lemma="ποιέω" postag="v2ppia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-57 w-23" Subtree="23 8 16 19 22 3 14 18 20 21 4 10 11 17 1 2 9 13 6 12 5" Projectivity="Projective"/>
   <word id="24" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-57 w-24" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="58" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-58">
+ <sentence id="58" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="20" span="Demosthenes Philippic 1: s-58" Sentence_Projectivity="Projective">
   <word id="1" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="8" cite="Demosthenes Philippic 1: s-58 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-58 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="μικρὰ" lemma="μικρός" postag="a-p---na-" relation="OBJ" head="5" cite="Demosthenes Philippic 1: s-58 w-3" Subtree="3 2" Projectivity="Projective"/>
@@ -1619,7 +1619,7 @@
   <word id="12" form="φαίνηται" lemma="φαίνω" postag="v3spse---" relation="ADV" head="10" cite="Demosthenes Philippic 1: s-58 w-12" Subtree="12 11" Projectivity="Projective"/>
   <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-58 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="59" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-59">
+ <sentence id="59" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-59" Sentence_Projectivity="NonProjective">
   <word id="1" form="λέγω" lemma="λέγω3" postag="v1spsa---" relation="PRED_CO" head="9" cite="Demosthenes Philippic 1: s-59 w-1" Subtree="1 5 3 4 6" Projectivity="NonProjective"/>
   <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-59 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="5" cite="Demosthenes Philippic 1: s-59 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1665,7 +1665,7 @@
   <word id="43" form="ἀλλήλοις" lemma="ἀλλήλων" postag="p-p---md-" relation="OBJ" head="28" cite="Demosthenes Philippic 1: s-59 w-43" Subtree="43" Projectivity="Projective"/>
   <word id="44" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-59 w-44" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="60" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-60">
+ <sentence id="60" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-60" Sentence_Projectivity="NonProjective">
   <word id="1" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-60 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-60 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἄλλους" lemma="ἄλλος" postag="p-p---ma-" relation="SBJ" head="5" cite="Demosthenes Philippic 1: s-60 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1674,7 +1674,7 @@
   <word id="6" form="κελεύω" lemma="κελεύω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-60 w-6" Subtree="6 2 5 3 4 1" Projectivity="Projective"/>
   <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-60 w-7" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="61" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-61">
+ <sentence id="61" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-61" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7" cite="Demosthenes Philippic 1: s-61 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="7" cite="Demosthenes Philippic 1: s-61 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="ADV" head="2" cite="Demosthenes Philippic 1: s-61 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1701,18 +1701,18 @@
   <word id="24" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ_CO" head="7" cite="Demosthenes Philippic 1: s-61 w-24" insertion_id="0022f" artificial="elliptic" Subtree="24 9 10 14 21 8 12 25 20 11 16 18 19 15" Projectivity="Projective"/>
   <word id="25" form="[1]" lemma="NA" postag="NA" relation="ADV" head="14" cite="Demosthenes Philippic 1: s-61 w-25" insertion_id="0022g" artificial="elliptic" Subtree="25 16 15" Projectivity="Projective"/>
  </sentence>
- <sentence id="62" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-62">
+ <sentence id="62" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="21" span="Demosthenes Philippic 1: s-62" Sentence_Projectivity="Projective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-62 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἱππαγωγοὺς" lemma="ἱππαγωγός" postag="a-p---ma-" relation="OBJ" head="5" cite="Demosthenes Philippic 1: s-62 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τούτοις" lemma="οὗτος" postag="p-p---md-" relation="OBJ" head="5" cite="Demosthenes Philippic 1: s-62 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-62 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-62 w-5" insertion_id="0004e" artificial="elliptic" Subtree="5 1 2 3" Projectivity="Projective"/>
  </sentence>
- <sentence id="63" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-63">
+ <sentence id="63" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-63" Sentence_Projectivity="Projective">
   <word id="1" form="εἶεν" lemma="εἰμί" postag="v3ppoa---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-63 w-1" Subtree="" Projectivity="Projective"/>
   <word id="2" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-63 w-2" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="64" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-64">
+ <sentence id="64" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-64" Sentence_Projectivity="Projective">
   <word id="1" form="τί" lemma="τις" postag="p-s---nn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-64 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6" cite="Demosthenes Philippic 1: s-64 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="τούτοις" lemma="οὗτος" postag="p-p---md-" relation="ADV" head="2" cite="Demosthenes Philippic 1: s-64 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1720,14 +1720,14 @@
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-64 w-5" Subtree="5" Projectivity="Projective"/>
   <word id="6" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-64 w-6" insertion_id="0005e" artificial="elliptic" Subtree="6 1 2 4 3" Projectivity="Projective"/>
  </sentence>
- <sentence id="65" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-65">
+ <sentence id="65" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-65" Sentence_Projectivity="Projective">
   <word id="1" form="ταχείας" lemma="ταχύς" postag="a-p---fa-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-65 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τριήρεις" lemma="τριήρης" postag="n-p---fa-" relation="OBJ" head="5" cite="Demosthenes Philippic 1: s-65 w-2" Subtree="2 1 3" Projectivity="Projective"/>
   <word id="3" form="δέκα" lemma="δέκα" postag="a-_---___" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-65 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-65 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-65 w-5" insertion_id="0004e" artificial="elliptic" Subtree="5 2 1 3" Projectivity="Projective"/>
  </sentence>
- <sentence id="66" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-66">
+ <sentence id="66" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-66" Sentence_Projectivity="Projective">
   <word id="1" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-66 w-1" Subtree="1 2 4 10 11 13 5 6 8 9 17 14 16 15" Projectivity="Projective"/>
   <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-66 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-66 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1747,7 +1747,7 @@
   <word id="17" form="πλέῃ" lemma="πλέω" postag="v3spsa---" relation="ADV" head="13" cite="Demosthenes Philippic 1: s-66 w-17" Subtree="17 14 16 15" Projectivity="Projective"/>
   <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-66 w-18" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="67" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-67">
+ <sentence id="67" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-67" Sentence_Projectivity="Projective">
   <word id="1" form="πόθεν" lemma="ποθεν" postag="d--------" relation="PNOM" head="6" cite="Demosthenes Philippic 1: s-67 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-67 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τούτοις" lemma="οὗτος" postag="p-p---md-" relation="ATR" head="5" cite="Demosthenes Philippic 1: s-67 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1756,7 +1756,7 @@
   <word id="6" form="γενήσεται" lemma="γίγνομαι" postag="v3sfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-67 w-6" Subtree="6 1 2 5 3 4" Projectivity="Projective"/>
   <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-67 w-7" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="68" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-68">
+ <sentence id="68" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="22" span="Demosthenes Philippic 1: s-68" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="5" cite="Demosthenes Philippic 1: s-68 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-68 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="5" cite="Demosthenes Philippic 1: s-68 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1782,7 +1782,7 @@
   <word id="23" form="διδάξω" lemma="διδάσκω" postag="v1sfia---" relation="ADV" head="8" cite="Demosthenes Philippic 1: s-68 w-23" Subtree="23 10 16 13 21 12 20 15 17 19 11 14 18" Projectivity="Projective"/>
   <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-68 w-24" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="69" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="23" span="Demosthenes Philippic 1: s-69">
+ <sentence id="69" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="23" span="Demosthenes Philippic 1: s-69" Sentence_Projectivity="NonProjective">
   <word id="1" form="τοσαύτην" lemma="τοσοῦτος" postag="p-s---fa-" relation="OBJ" head="35" cite="Demosthenes Philippic 1: s-69 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="35" cite="Demosthenes Philippic 1: s-69 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-69 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1821,7 +1821,7 @@
   <word id="36" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="ADV_AP_CO" head="22" cite="Demosthenes Philippic 1: s-69 w-36" insertion_id="0034f" artificial="elliptic" Subtree="36 12 13 14 16 15 17 20 18 19" Projectivity="Projective"/>
   <word id="37" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="ADV_AP_CO" head="22" cite="Demosthenes Philippic 1: s-69 w-37" insertion_id="0034g" artificial="elliptic" Subtree="37 24 25 23 31 28 30 33 26 27 29 32" Projectivity="Projective"/>
  </sentence>
- <sentence id="70" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="23" span="Demosthenes Philippic 1: s-70">
+ <sentence id="70" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="23" span="Demosthenes Philippic 1: s-70" Sentence_Projectivity="NonProjective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-70 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="20" cite="Demosthenes Philippic 1: s-70 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑπέρογκον" lemma="ὑπέρογκος" postag="a-s---fa-" relation="PNOM_CO" head="16" cite="Demosthenes Philippic 1: s-70 w-3" Subtree="3 1" Projectivity="NonProjective"/>
@@ -1844,7 +1844,7 @@
   <word id="20" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-70 w-20" Subtree="20 2 19 4 16 17 3 18 1 15" Projectivity="NonProjective"/>
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-70 w-21" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="71" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-71">
+ <sentence id="71" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-71" Sentence_Projectivity="NonProjective">
   <word id="1" form="πολίτας" lemma="πολίτης" postag="n-p---ma-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-71 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8" cite="Demosthenes Philippic 1: s-71 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="παρεῖναι" lemma="πάρειμι1" postag="v--pna---" relation="OBJ_CO" head="4" cite="Demosthenes Philippic 1: s-71 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1883,7 +1883,7 @@
   <word id="36" form="συστρατεύεσθαι" lemma="συστρατεύομαι" postag="v--pne---" relation="OBJ_CO" head="33" cite="Demosthenes Philippic 1: s-71 w-36" Subtree="36 35 34" Projectivity="Projective"/>
   <word id="37" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-71 w-37" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="72" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-72">
+ <sentence id="72" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-72" Sentence_Projectivity="Projective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2" cite="Demosthenes Philippic 1: s-72 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οἶδʼ" lemma="οἶδα" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-72 w-2" Subtree="2 1 3 4 13 9 12 18 6 10 11 14 15 5 7 16 8" Projectivity="Projective"/>
   <word id="3" form="ἀκούων" lemma="ἀκούω" postag="v-sppamn-" relation="ADV" head="2" cite="Demosthenes Philippic 1: s-72 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1903,7 +1903,7 @@
   <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-72 w-17" Subtree="17" Projectivity="Projective"/>
   <word id="18" form="[0]" lemma="NA" postag="NA" relation="OBJ_CO" head="13" cite="Demosthenes Philippic 1: s-72 w-18" insertion_id="0017e" artificial="elliptic" Subtree="18 14 15 16" Projectivity="Projective"/>
  </sentence>
- <sentence id="73" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-73">
+ <sentence id="73" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-73" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐξ" lemma="ἐκ" postag="r--------" relation="" head="10" cite="Demosthenes Philippic 1: s-73 w-1" Subtree="1 2" Projectivity="Projective"/>
   <word id="2" form="οὗ" lemma="ὅς" postag="p-s---ng-" relation="" head="1" cite="Demosthenes Philippic 1: s-73 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="δʼ" lemma="δέ" postag="d--------" relation="" head="20" cite="Demosthenes Philippic 1: s-73 w-3" Subtree="3" Projectivity="Projective"/>
@@ -1931,7 +1931,7 @@
   <word id="25" form="γεγόνασιν" lemma="γίγνομαι" postag="v3pria---" relation="" head="20" cite="Demosthenes Philippic 1: s-73 w-25" Subtree="25 21 22 19 24 23" Projectivity="NonProjective"/>
   <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-73 w-26" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="74" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-74">
+ <sentence id="74" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-74" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-74 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="παρακύψαντʼ" lemma="παρακύπτω" postag="v-papann_" relation="ADV" head="14" cite="Demosthenes Philippic 1: s-74 w-2" Subtree="2 3 7 4 6 5" Projectivity="Projective"/>
   <word id="3" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="2" cite="Demosthenes Philippic 1: s-74 w-3" Subtree="3 7 4 6 5" Projectivity="Projective"/>
@@ -1956,7 +1956,7 @@
   <word id="22" form="εἰκότως" lemma="εἰκότως" postag="d--------" relation="ADV" head="20" cite="Demosthenes Philippic 1: s-74 w-22" Subtree="22" Projectivity="Projective"/>
   <word id="23" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-74 w-23" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="75" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-75">
+ <sentence id="75" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="24" span="Demosthenes Philippic 1: s-75" Sentence_Projectivity="Projective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-75 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-75 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἔστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-75 w-3" Subtree="3 1 2 4 6 5 7" Projectivity="Projective"/>
@@ -1966,13 +1966,13 @@
   <word id="7" form="μισθόν" lemma="μισθός" postag="n-s---ma-" relation="OBJ" head="6" cite="Demosthenes Philippic 1: s-75 w-7" Subtree="7" Projectivity="Projective"/>
   <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-75 w-8" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="76" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-76">
+ <sentence id="76" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-76" Sentence_Projectivity="Projective">
   <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-76 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-76 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="κελεύω" lemma="κελεύω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-76 w-3" Subtree="3 1 2" Projectivity="Projective"/>
   <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-76 w-4" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="77" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-77">
+ <sentence id="77" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-77" Sentence_Projectivity="Projective">
   <word id="1" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-77 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="προφάσεις" lemma="πρόφασις" postag="n-p---fa-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-77 w-2" Subtree="2 1" Projectivity="Projective"/>
   <word id="3" form="ἀφελεῖν" lemma="ἀφαιρέω" postag="v--ana---" relation="OBJ" head="22" cite="Demosthenes Philippic 1: s-77 w-3" Subtree="3 2 7 13 1 4 6 9 12 20 5 8 11 14 17 15 16 19 18" Projectivity="Projective"/>
@@ -1996,7 +1996,7 @@
   <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-77 w-21" Subtree="21" Projectivity="Projective"/>
   <word id="22" form="κελεύω" lemma="κελεύω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-77 w-22" insertion_id="0021e" artificial="elliptic" Subtree="22 3 2 7 13 1 4 6 9 12 20 5 8 11 14 17 15 16 19 18" Projectivity="Projective"/>
  </sentence>
- <sentence id="78" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-78">
+ <sentence id="78" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-78" Sentence_Projectivity="Projective">
   <word id="1" form="ἐπεὶ" lemma="ἐπεί" postag="d-------_" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-78 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="5" cite="Demosthenes Philippic 1: s-78 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γε" lemma="γε" postag="d--------" relation="AuxZ" head="4" cite="Demosthenes Philippic 1: s-78 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2008,7 +2008,7 @@
   <word id="9" form="πράγμασιν" lemma="πρᾶγμα" postag="n-p---nd-" relation="OBJ" head="7" cite="Demosthenes Philippic 1: s-78 w-9" Subtree="9 8" Projectivity="Projective"/>
   <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-78 w-10" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="79" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-79">
+ <sentence id="79" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="25" span="Demosthenes Philippic 1: s-79" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="20" cite="Demosthenes Philippic 1: s-79 w-1" Subtree="1 3 4 5 8 7 11 10 12" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="20" cite="Demosthenes Philippic 1: s-79 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἔροιτό" lemma="ἔρομαι" postag="v3saom---" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-79 w-3" Subtree="3 4 5 8 7 11 10 12" Projectivity="Projective"/>
@@ -2037,7 +2037,7 @@
   <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-79 w-26" Subtree="26" Projectivity="Projective"/>
   <word id="27" form="[0]" lemma="NA" postag="NA" relation="OBJ_CO" head="23" cite="Demosthenes Philippic 1: s-79 w-27" insertion_id="0026e" artificial="elliptic" Subtree="27 14 16 18 15" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="80" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-80">
+ <sentence id="80" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-80" Sentence_Projectivity="Projective">
   <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2" cite="Demosthenes Philippic 1: s-80 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐχειροτονεῖτε" lemma="χειροτονέω" postag="v2piia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-80 w-2" Subtree="2 1 3 4 13 5 8 9 10 11 12 14 6 7 15" Projectivity="Projective"/>
   <word id="3" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="2" cite="Demosthenes Philippic 1: s-80 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2055,14 +2055,14 @@
   <word id="15" form="δύο" lemma="δύο" postag="a-_---___" relation="ATR" head="14" cite="Demosthenes Philippic 1: s-80 w-15" Subtree="15" Projectivity="Projective"/>
   <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-80 w-16" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="81" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-81">
+ <sentence id="81" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-81" Sentence_Projectivity="Projective">
   <word id="1" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-81 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-81 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-81 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="ποιοῦσιν" lemma="ποιέω" postag="v3ppia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-81 w-4" Subtree="4 1 2 3" Projectivity="Projective"/>
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-81 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="82" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-82">
+ <sentence id="82" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-82" Sentence_Projectivity="Projective">
   <word id="1" form="πλὴν" lemma="πλήν" postag="r--------" relation="AuxP" head="13" cite="Demosthenes Philippic 1: s-82 w-1" Subtree="1 3 2 7 5 6 8 10 9" Projectivity="Projective"/>
   <word id="2" form="ἑνὸς" lemma="εἷς" postag="a-s---ng_" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-82 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἀνδρός" lemma="ἀνήρ" postag="n-s---mg-" relation="ATR" head="1" cite="Demosthenes Philippic 1: s-82 w-3" Subtree="3 2 7 5 6 8 10 9" Projectivity="Projective"/>
@@ -2085,7 +2085,7 @@
   <word id="20" form="ἱεροποιῶν" lemma="ἱεροποιός" postag="a-p---mg-" relation="ADV" head="18" cite="Demosthenes Philippic 1: s-82 w-20" Subtree="20 19" Projectivity="Projective"/>
   <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-82 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="83" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-83">
+ <sentence id="83" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="26" span="Demosthenes Philippic 1: s-83" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὥσπερ" lemma="ὥσπερ" postag="c--------" relation="AuxC" head="11" cite="Demosthenes Philippic 1: s-83 w-1" Subtree="1 23 4 3 6 5" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-83 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-83 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2110,7 +2110,7 @@
   <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-83 w-22" Subtree="22" Projectivity="Projective"/>
   <word id="23" form="[0]" lemma="NA" postag="NA" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-83 w-23" insertion_id="0022e" artificial="elliptic" Subtree="23 4 3 6 5" Projectivity="Projective"/>
  </sentence>
- <sentence id="84" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-84">
+ <sentence id="84" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-84" Sentence_Projectivity="Projective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-84 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-84 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐχρῆν" lemma="χρή" postag="v3siia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-84 w-3" Subtree="3 1 2 6 16 5 7 19 30 31 17 18 21 9 10 13 14 22 11 15 24 26 28 23 25 27" Projectivity="Projective"/>
@@ -2143,7 +2143,7 @@
   <word id="30" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="SBJ_CO" head="16" cite="Demosthenes Philippic 1: s-84 w-30" insertion_id="0029e" artificial="elliptic" Subtree="30 9 10 11" Projectivity="Projective"/>
   <word id="31" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="SBJ_CO" head="16" cite="Demosthenes Philippic 1: s-84 w-31" insertion_id="0029f" artificial="elliptic" Subtree="31 13 14 15" Projectivity="Projective"/>
  </sentence>
- <sentence id="85" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-85">
+ <sentence id="85" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-85" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀλλʼ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-85 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="10" cite="Demosthenes Philippic 1: s-85 w-2" Subtree="2 4" Projectivity="NonProjective"/>
   <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="13" cite="Demosthenes Philippic 1: s-85 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2167,7 +2167,7 @@
   <word id="21" form="ἱππαρχεῖν" lemma="ἱππαρχέω" postag="v--pna---" relation="SBJ_CO" head="13" cite="Demosthenes Philippic 1: s-85 w-21" Subtree="21 19 20 12 14 18 15 17 16" Projectivity="NonProjective"/>
   <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-85 w-22" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="86" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-86">
+ <sentence id="86" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="27" span="Demosthenes Philippic 1: s-86" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-86 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5" cite="Demosthenes Philippic 1: s-86 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-86 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2189,7 +2189,7 @@
   <word id="19" form="ᾖ" lemma="εἰμί" postag="v3spsa---" relation="ATR" head="15" cite="Demosthenes Philippic 1: s-86 w-19" Subtree="19 17 18" Projectivity="Projective"/>
   <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-86 w-20" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="87" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-87">
+ <sentence id="87" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-87" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἴσως" lemma="ἴσως" postag="d--------" relation="ADV" head="10" cite="Demosthenes Philippic 1: s-87 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-87 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="SBJ" head="7" cite="Demosthenes Philippic 1: s-87 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2213,20 +2213,20 @@
   <word id="21" form="ἀκοῦσαι" lemma="ἀκούω" postag="v--ana---" relation="OBJ" head="20" cite="Demosthenes Philippic 1: s-87 w-21" Subtree="21 9 12 11 17 15 14 16" Projectivity="NonProjective"/>
   <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-87 w-22" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="88" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-88">
+ <sentence id="88" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-88" Sentence_Projectivity="Projective">
   <word id="1" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-88 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-88 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-88 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="περαίνω" lemma="περαίνω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-88 w-4" Subtree="4 1 2 3" Projectivity="Projective"/>
   <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-88 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="89" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-89">
+ <sentence id="89" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-89" Sentence_Projectivity="Projective">
   <word id="1" form="χρήματα" lemma="χρῆμα" postag="n-p---na-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-89 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-89 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-89 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-89 w-4" insertion_id="0003e" artificial="elliptic" Subtree="4 1 2" Projectivity="Projective"/>
  </sentence>
- <sentence id="90" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-90">
+ <sentence id="90" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="28" span="Demosthenes Philippic 1: s-90" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="52" cite="Demosthenes Philippic 1: s-90 w-1" Subtree="1 5 12 4 6 10 14 3 7 9 11 13 16 15 17" Projectivity="NonProjective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="52" cite="Demosthenes Philippic 1: s-90 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-90 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2299,7 +2299,7 @@
   <word id="70" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="52" cite="Demosthenes Philippic 1: s-90 w-70" insertion_id="0067g" artificial="elliptic" Subtree="70 35 39 41 37 38 49 44 46 47 48 43 45 42" Projectivity="NonProjective"/>
   <word id="71" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="52" cite="Demosthenes Philippic 1: s-90 w-71" insertion_id="0067h" artificial="elliptic" Subtree="71 53 57 66 51 55 61 65 54 59 60 63 58 62" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="91" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-91">
+ <sentence id="91" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-91" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="16" cite="Demosthenes Philippic 1: s-91 w-1" Subtree="1 4 3 8 5 7 12 6 9 11 10" Projectivity="NonProjective"/>
   <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="16" cite="Demosthenes Philippic 1: s-91 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-91 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2318,7 +2318,7 @@
   <word id="16" form="ἔγνωκεν" lemma="γιγνώσκω" postag="v3sria---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-91 w-16" Subtree="16 1 2 14 15 4 3 8 5 7 12 6 9 11 10" Projectivity="Projective"/>
   <word id="17" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-91 w-17" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="92" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-92">
+ <sentence id="92" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-92" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-92 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-92 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἶδα" lemma="οἶδα" postag="v1sria---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-92 w-3" Subtree="3 1 2 4 5 11 8 13 16 17 24 30 9 12 14 15 19 21 31 7 18 26 32 23 28 33 22 25 27" Projectivity="Projective"/>
@@ -2354,7 +2354,7 @@
   <word id="33" form="ἐντελῆ" lemma="ἐντελής" postag="a-s---ma-" relation="ATR" head="32" cite="Demosthenes Philippic 1: s-92 w-33" Subtree="33" Projectivity="Projective"/>
   <word id="34" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-92 w-34" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="93" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-93">
+ <sentence id="93" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-93" Sentence_Projectivity="Projective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="14" cite="Demosthenes Philippic 1: s-93 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="συμπλέων" lemma="συμπλέω" postag="v-sppamn-" relation="ADV" head="14" cite="Demosthenes Philippic 1: s-93 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="ἐθελοντὴς" lemma="ἐθελοντής" postag="n-s---mn-" relation="AtvV" head="2" cite="Demosthenes Philippic 1: s-93 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2370,7 +2370,7 @@
   <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-93 w-13" Subtree="13" Projectivity="Projective"/>
   <word id="14" form="εἰμί" lemma="εἰμί" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-93 w-14" insertion_id="0013e" artificial="elliptic" Subtree="14 1 2 6 8 3 4 12 5 9 10 11" Projectivity="Projective"/>
  </sentence>
- <sentence id="94" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-94">
+ <sentence id="94" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-94" Sentence_Projectivity="NonProjective">
   <word id="1" form="πόθεν" lemma="πόθεν" postag="d--------" relation="PNOM" head="14" cite="Demosthenes Philippic 1: s-94 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="14" cite="Demosthenes Philippic 1: s-94 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-94 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2386,17 +2386,17 @@
   <word id="13" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-94 w-13" Subtree="13" Projectivity="Projective"/>
   <word id="14" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-94 w-14" insertion_id="0013e" artificial="elliptic" Subtree="14 1 2 4 3 6 5 11 12 8 9 10" Projectivity="Projective"/>
  </sentence>
- <sentence id="95" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-95">
+ <sentence id="95" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-95" Sentence_Projectivity="Projective">
   <word id="1" form="τοῦτʼ" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-95 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἤδη" lemma="ἤδη" postag="d--------" relation="ADV" head="3" cite="Demosthenes Philippic 1: s-95 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="λέξω" lemma="λέγω3" postag="v1sfia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-95 w-3" Subtree="3 1 2" Projectivity="Projective"/>
   <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-95 w-4" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="96" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-96">
+ <sentence id="96" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="29" span="Demosthenes Philippic 1: s-96" Sentence_Projectivity="Projective">
   <word id="1" form="πόρου" lemma="πόρος" postag="n-s---mg-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-96 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="Ἀπόδειξις" lemma="ἀπόδειξις" postag="n-s---fn-" relation="ExD" head="0" cite="Demosthenes Philippic 1: s-96 w-2" Subtree="2 1" Projectivity="Projective"/>
  </sentence>
- <sentence id="97" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="30" span="Demosthenes Philippic 1: s-97">
+ <sentence id="97" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="30" span="Demosthenes Philippic 1: s-97" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἃ" lemma="ὅς" postag="p-p---na-" relation="OBJ" head="10" cite="Demosthenes Philippic 1: s-97 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12" cite="Demosthenes Philippic 1: s-97 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἡμεῖς" lemma="ἐγώ" postag="p1p---mn-" relation="SBJ" head="9" cite="Demosthenes Philippic 1: s-97 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2411,7 +2411,7 @@
   <word id="12" form="ἐστίν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-97 w-12" Subtree="12 2 6 9 11 5 7 3 10 1" Projectivity="Projective"/>
   <word id="13" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-97 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="98" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="30" span="Demosthenes Philippic 1: s-98">
+ <sentence id="98" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="30" span="Demosthenes Philippic 1: s-98" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="11" cite="Demosthenes Philippic 1: s-98 w-1" Subtree="1 3 5 4" Projectivity="NonProjective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-98 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐπιχειροτονῆτε" lemma="ἐπιχειροτονέω" postag="v2ppia---" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-98 w-3" Subtree="3 5 4" Projectivity="Projective"/>
@@ -2442,7 +2442,7 @@
   <word id="28" form="ἔργοις" lemma="ἔργον" postag="n-p---nd-" relation="ADV_CO" head="25" cite="Demosthenes Philippic 1: s-98 w-28" Subtree="28 26 27" Projectivity="Projective"/>
   <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-98 w-29" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="99" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="31" span="Demosthenes Philippic 1: s-99">
+ <sentence id="99" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="31" span="Demosthenes Philippic 1: s-99" Sentence_Projectivity="NonProjective">
   <word id="1" form="δοκεῖτε" lemma="δοκέω" postag="v2ppia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-99 w-1" Subtree="1 2 3 14 21 5 6 7 16 20 22 4 10 33 9 13 31 34 8 11 12 18 35 17 25 49 24 29 46 47 56 27 44 45 50 58 28 43 38 53 62 37 40 52 55 59 60 61 64 36 39 42 51 54 63 41" Projectivity="Projective"/>
   <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-99 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1" cite="Demosthenes Philippic 1: s-99 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2509,7 +2509,7 @@
   <word id="64" form="ἀφικέσθαι" lemma="ἀφικνέομαι" postag="v--anm---" relation="OBJ" head="62" cite="Demosthenes Philippic 1: s-99 w-64" Subtree="64 63" Projectivity="Projective"/>
   <word id="65" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-99 w-65" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="100" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-100">
+ <sentence id="100" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-100" Sentence_Projectivity="NonProjective">
   <word id="1" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-100 w-1" Subtree="1 2 7 4 5 14 3 6 17 15 18 16" Projectivity="NonProjective"/>
   <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-100 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ταῦτʼ" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-100 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2530,7 +2530,7 @@
   <word id="18" form="δυνάμει" lemma="δύναμις" postag="n-s---fd-" relation="ADV_CO" head="17" cite="Demosthenes Philippic 1: s-100 w-18" Subtree="18" Projectivity="Projective"/>
   <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-100 w-19" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="101" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-101">
+ <sentence id="101" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-101" Sentence_Projectivity="Projective">
   <word id="1" form="ὑπάρχει" lemma="ὑπάρχω" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-101 w-1" Subtree="1 2 3 6 4 5 8 14 7 9 10 11 12 13 20 15 16 33 19 22 28 17 18 23 24 25 26 27 32 30 29 31" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-101 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑμῖν" lemma="σύ" postag="p-p---md-" relation="OBJ" head="1" cite="Demosthenes Philippic 1: s-101 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2566,7 +2566,7 @@
   <word id="33" form="ὑπάρχει" lemma="ὑπάρχω" postag="v3spia---" relation="ATR" head="20" cite="Demosthenes Philippic 1: s-101 w-33" Subtree="33 22 28 23 24 25 26 27 32 30 29 31" Projectivity="Projective"/>
   <word id="34" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-101 w-34" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="102" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-102">
+ <sentence id="102" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="32" span="Demosthenes Philippic 1: s-102" Sentence_Projectivity="NonProjective">
   <word id="1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-102 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="32" cite="Demosthenes Philippic 1: s-102 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὥραν" lemma="ὥρα" postag="n-s---fa-" relation="ADV" head="32" cite="Demosthenes Philippic 1: s-102 w-3" Subtree="3 1 5 7 4 14 8 35 36 12 13 15 18 9 17 11 16 10" Projectivity="NonProjective"/>
@@ -2605,7 +2605,7 @@
   <word id="36" form="[1]" lemma="NA" postag="NA" relation="ADV_CO" head="14" cite="Demosthenes Philippic 1: s-102 w-36" insertion_id="0034g" artificial="elliptic" Subtree="36 15 18 17 16" Projectivity="Projective"/>
   <word id="37" form="[2]" lemma="NA" postag="NA" relation="SBJ" head="32" cite="Demosthenes Philippic 1: s-102 w-37" insertion_id="0034e" artificial="elliptic" Subtree="37 24 20 25 23 29 21 22 26 28 27" Projectivity="Projective"/>
  </sentence>
- <sentence id="103" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-103">
+ <sentence id="103" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-103" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἃ" lemma="ὅς" postag="p-p---na-" relation="OBJ" head="21" cite="Demosthenes Philippic 1: s-103 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="19" cite="Demosthenes Philippic 1: s-103 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="19" cite="Demosthenes Philippic 1: s-103 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2628,7 +2628,7 @@
   <word id="20" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-103 w-20" Subtree="20" Projectivity="Projective"/>
   <word id="21" form="[0]" lemma="NA" postag="NA" relation="OBJ_CO" head="5" cite="Demosthenes Philippic 1: s-103 w-21" insertion_id="0020f" artificial="elliptic" Subtree="21 1" Projectivity="Projective"/>
  </sentence>
- <sentence id="104" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-104">
+ <sentence id="104" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-104" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἃ" lemma="ὅς" postag="p-p---na-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-104 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-104 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑπάρξαι" lemma="ὑπάρχω" postag="v--ana---" relation="SBJ" head="4" cite="Demosthenes Philippic 1: s-104 w-3" Subtree="3 1 5 6" Projectivity="NonProjective"/>
@@ -2643,7 +2643,7 @@
   <word id="12" form="γέγραφα" lemma="γράφω" postag="v1sria---" relation="PNOM" head="9" cite="Demosthenes Philippic 1: s-104 w-12" Subtree="12 10 11" Projectivity="Projective"/>
   <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-104 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="105" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-105">
+ <sentence id="105" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="33" span="Demosthenes Philippic 1: s-105" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="72" cite="Demosthenes Philippic 1: s-105 w-1" Subtree="1 17 8 36 11 12 16 20 34 35 40 52 2 10 14 21 31 32 33 37 43 49 59 13 19 27 39 45 47 54 58 18 23 26 29 38 46 48 56 53 57 22 25 28 44 55 51 42" Projectivity="NonProjective"/>
   <word id="2" form="ταῦτʼ" lemma="οὗτος" postag="a-p---na_" relation="ATR" head="11" cite="Demosthenes Philippic 1: s-105 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-105 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2734,14 +2734,14 @@
   <word id="88" form="ἀφαιρήσεσθε" lemma="ἀφαιρέω" postag="v2pfim---" relation="PRED_CO" head="72" cite="Demosthenes Philippic 1: s-105 w-88" Subtree="88 73 74 76 77 80 84 75 79 81 83 87 85 86" Projectivity="Projective"/>
   <word id="89" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-105 w-89" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="106" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-106">
+ <sentence id="106" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-106" Sentence_Projectivity="Projective">
   <word id="1" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-106 w-1" Subtree="1 2 3 4" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-106 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="PNOM" head="1" cite="Demosthenes Philippic 1: s-106 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="τίς" lemma="τις" postag="p-s---mn-" relation="SBJ" head="1" cite="Demosthenes Philippic 1: s-106 w-4" Subtree="4" Projectivity="Projective"/>
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-106 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="107" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-107">
+ <sentence id="107" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-107" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-107 w-1" Subtree="1 6 2 3" Projectivity="NonProjective"/>
   <word id="2" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="6" cite="Demosthenes Philippic 1: s-107 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὑμετέρων" lemma="ὑμέτερος" postag="a-p---mg-" relation="ATR" head="6" cite="Demosthenes Philippic 1: s-107 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2758,7 +2758,7 @@
   <word id="14" form="θάλατταν" lemma="θάλασσα" postag="n-s---fa-" relation="OBJ" head="12" cite="Demosthenes Philippic 1: s-107 w-14" Subtree="14 13" Projectivity="Projective"/>
   <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-107 w-15" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="108" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-108">
+ <sentence id="108" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-108" Sentence_Projectivity="Projective">
   <word id="1" form="ἔπειτα" lemma="ἔπειτα" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-108 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τί" lemma="τις" postag="p-s---nn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-108 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6" cite="Demosthenes Philippic 1: s-108 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -2766,7 +2766,7 @@
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-108 w-5" Subtree="5" Projectivity="Projective"/>
   <word id="6" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-108 w-6" insertion_id="0005e" artificial="elliptic" Subtree="6 1 2 3 4" Projectivity="Projective"/>
  </sentence>
- <sentence id="109" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-109">
+ <sentence id="109" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="34" span="Demosthenes Philippic 1: s-109" Sentence_Projectivity="NonProjective">
   <word id="1" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-109 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="πάσχειν" lemma="πάσχω" postag="v--pna---" relation="PNOM" head="5" cite="Demosthenes Philippic 1: s-109 w-2" Subtree="2 1 4" Projectivity="NonProjective"/>
   <word id="3" form="αὐτοὶ" lemma="αὐτός" postag="p-p---mn-" relation="AtvV" head="6" cite="Demosthenes Philippic 1: s-109 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2836,7 +2836,7 @@
   <word id="67" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-109 w-67" Subtree="67" Projectivity="Projective"/>
   <word id="68" form="γενήσεσθε" lemma="γίγνομαι" postag="v2pfim---" relation="PRED_CO" head="7" cite="Demosthenes Philippic 1: s-109 w-68" insertion_id="0067f" artificial="elliptic" Subtree="68 8 9 33 21 32 39 17 22 29 31 38 45 12 13 18 19 24 28 30 35 36 42 46 10 11 15 20 26 27 34 37 44 47 14 16 25 43 40 41" Projectivity="Projective"/>
  </sentence>
- <sentence id="110" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="35" span="Demosthenes Philippic 1: s-110">
+ <sentence id="110" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="35" span="Demosthenes Philippic 1: s-110" Sentence_Projectivity="NonProjective">
   <word id="1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="50" cite="Demosthenes Philippic 1: s-110 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τί" lemma="τις" postag="p-s---na-" relation="ADV" head="9" cite="Demosthenes Philippic 1: s-110 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="δήποτʼ" lemma="δήποτε" postag="d-------_" relation="ADV" head="9" cite="Demosthenes Philippic 1: s-110 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2925,7 +2925,7 @@
   <word id="86" form="[1]" lemma="NA" postag="NA" relation="ATR" head="39" cite="Demosthenes Philippic 1: s-110 w-86" insertion_id="0084f" artificial="elliptic" Subtree="86 43 44 45 46 48 47" Projectivity="Projective"/>
   <word id="87" form="οἶδα" lemma="οἶδα" postag="v1sria---" relation="PRED_CO" head="65" cite="Demosthenes Philippic 1: s-110 w-87" insertion_id="0084g" artificial="elliptic" Subtree="87 69 66 68 71 64 67 80 70 73 77 81 74 78 82 75 79 83" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="111" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-111">
+ <sentence id="111" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-111" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅτι" lemma="ὅτι1" postag="d--------" relation="AuxY" head="31" cite="Demosthenes Philippic 1: s-111 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐκεῖνα" lemma="ἐκεῖνος" postag="p-p---nn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-111 w-2" Subtree="2 4" Projectivity="NonProjective"/>
   <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="31" cite="Demosthenes Philippic 1: s-111 w-3" Subtree="3" Projectivity="Projective"/>
@@ -2967,7 +2967,7 @@
   <word id="39" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-111 w-39" Subtree="39" Projectivity="Projective"/>
   <word id="40" form="[0]" lemma="NA" postag="NA" relation="OBJ_CO" head="20" cite="Demosthenes Philippic 1: s-111 w-40" insertion_id="0039e" artificial="elliptic" Subtree="40 14 16 15 17 19 18" Projectivity="Projective"/>
  </sentence>
- <sentence id="112" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-112">
+ <sentence id="112" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-112" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="18" cite="Demosthenes Philippic 1: s-112 w-1" Subtree="1 7 3 10 4 8 9 6 5" Projectivity="NonProjective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-112 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ADV_CO" head="7" cite="Demosthenes Philippic 1: s-112 w-3" Subtree="3 4 6 5" Projectivity="Projective"/>
@@ -2987,7 +2987,7 @@
   <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-112 w-17" Subtree="17" Projectivity="Projective"/>
   <word id="18" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-112 w-18" insertion_id="0017e" artificial="elliptic" Subtree="18 1 2 14 16 7 11 13 15 3 10 4 8 9 6 5" Projectivity="Projective"/>
  </sentence>
- <sentence id="113" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-113">
+ <sentence id="113" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="36" span="Demosthenes Philippic 1: s-113" Sentence_Projectivity="NonProjective">
   <word id="1" form="τοιγαροῦν" lemma="τοιγάρ" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-113 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἅμʼ" lemma="ἅμα" postag="d-------_" relation="ADV" head="12" cite="Demosthenes Philippic 1: s-113 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἀκηκόαμέν" lemma="ἀκούω" postag="v1pria---" relation="PRED_CO" head="12" cite="Demosthenes Philippic 1: s-113 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -3039,7 +3039,7 @@
   <word id="49" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-113 w-49" Subtree="49" Projectivity="Projective"/>
   <word id="50" form="ἐμβαίνειν" lemma="ἐμβαίνω" postag="v--pna---" relation="SBJ_CO" head="34" cite="Demosthenes Philippic 1: s-113 w-50" insertion_id="0049e" artificial="elliptic" Subtree="50 31 32" Projectivity="Projective"/>
  </sentence>
- <sentence id="114" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-114">
+ <sentence id="114" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-114" Sentence_Projectivity="NonProjective">
   <word id="1" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="5" cite="Demosthenes Philippic 1: s-114 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" cite="Demosthenes Philippic 1: s-114 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="4" cite="Demosthenes Philippic 1: s-114 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3064,7 +3064,7 @@
   <word id="22" form="εἰρωνείαν" lemma="εἰρωνεία" postag="n-s---fa-" relation="OBJ_CO" head="21" cite="Demosthenes Philippic 1: s-114 w-22" Subtree="22" Projectivity="Projective"/>
   <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-114 w-23" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="115" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-115">
+ <sentence id="115" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-115" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἃς" lemma="ὅς" postag="a-p---fa_" relation="ATR" head="6" cite="Demosthenes Philippic 1: s-115 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="20" cite="Demosthenes Philippic 1: s-115 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="5" cite="Demosthenes Philippic 1: s-115 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3087,7 +3087,7 @@
   <word id="20" form="ἐξελέγχονται" lemma="ἐξελέγχω" postag="v3ppie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-115 w-20" Subtree="20 2 7 14 9 12 5 6 8 13 15 3 4 1 11 16 19 17 18" Projectivity="Projective"/>
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-115 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="116" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-116">
+ <sentence id="116" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-116" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-116 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-116 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6" cite="Demosthenes Philippic 1: s-116 w-3" Subtree="3 4 5 7 8 9 10 12 11" Projectivity="NonProjective"/>
@@ -3102,11 +3102,11 @@
   <word id="12" form="ἐπιστολάς" lemma="ἐπιστολή" postag="n-p---fa-" relation="OBJ" head="8" cite="Demosthenes Philippic 1: s-116 w-12" Subtree="12 11" Projectivity="Projective"/>
   <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-116 w-13" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="117" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-117">
+ <sentence id="117" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="37" span="Demosthenes Philippic 1: s-117" Sentence_Projectivity="Projective">
   <word id="1" form="ἐπιστολῆς" lemma="ἐπιστολή" postag="n-s---fg-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-117 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="Ἀνάγνωσις" lemma="ἀνάγνωσις" postag="n-s---fn-" relation="ExD" head="0" cite="Demosthenes Philippic 1: s-117 w-2" Subtree="2 1" Projectivity="Projective"/>
  </sentence>
- <sentence id="118" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-118">
+ <sentence id="118" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-118" Sentence_Projectivity="NonProjective">
   <word id="1" form="τούτων" lemma="οὗτος" postag="p-p---ng-" relation="ATR" head="13" cite="Demosthenes Philippic 1: s-118 w-1" Subtree="1 7 8" Projectivity="NonProjective"/>
   <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-118 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="4" cite="Demosthenes Philippic 1: s-118 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3134,7 +3134,7 @@
   <word id="25" form="ἀκούειν" lemma="ἀκούω" postag="v--pna---" relation="ADV" head="24" cite="Demosthenes Philippic 1: s-118 w-25" Subtree="25" Projectivity="Projective"/>
   <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-118 w-26" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="119" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-119">
+ <sentence id="119" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-119" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀλλʼ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="21" cite="Demosthenes Philippic 1: s-119 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="21" cite="Demosthenes Philippic 1: s-119 w-2" Subtree="2 19 18 8 16 17 5 6 7 10 12 9 14 13" Projectivity="NonProjective"/>
   <word id="3" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="21" cite="Demosthenes Philippic 1: s-119 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3161,7 +3161,7 @@
   <word id="24" form="δημηγορεῖν" lemma="δημηγορέω" postag="v--pna---" relation="SBJ" head="21" cite="Demosthenes Philippic 1: s-119 w-24" Subtree="24 22 23" Projectivity="Projective"/>
   <word id="25" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-119 w-25" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="120" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-120">
+ <sentence id="120" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="38" span="Demosthenes Philippic 1: s-120" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="18" cite="Demosthenes Philippic 1: s-120 w-1" Subtree="1 15 6 8 13 14 3 5 9 4 11 10" Projectivity="NonProjective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-120 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="6" cite="Demosthenes Philippic 1: s-120 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3256,7 +3256,7 @@
   <word id="92" form="διώκειν" lemma="διώκω" postag="v--pna---" relation="OBJ" head="91" cite="Demosthenes Philippic 1: s-120 w-92" Subtree="92 90 89" Projectivity="NonProjective"/>
   <word id="93" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-120 w-93" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="121" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-121">
+ <sentence id="121" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-121" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὑμεῖς" lemma="σύ" postag="p-p---mn-" relation="SBJ" head="36" cite="Demosthenes Philippic 1: s-121 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="36" cite="Demosthenes Philippic 1: s-121 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-121 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3305,7 +3305,7 @@
   <word id="46" form="Φιλίππῳ" lemma="Φίλιππος" postag="n-s---md-" relation="OBJ" head="45" cite="Demosthenes Philippic 1: s-121 w-46" Subtree="46" Projectivity="Projective"/>
   <word id="47" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-121 w-47" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="122" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-122">
+ <sentence id="122" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-122" Sentence_Projectivity="Projective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-122 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="11" cite="Demosthenes Philippic 1: s-122 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐκείνων" lemma="ἐκεῖνος" postag="p-p---mg-" relation="ATR" head="5" cite="Demosthenes Philippic 1: s-122 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3328,7 +3328,7 @@
   <word id="20" form="χεῖρες" lemma="χείρ" postag="n-p---fn-" relation="SBJ" head="18" cite="Demosthenes Philippic 1: s-122 w-20" Subtree="20 19" Projectivity="Projective"/>
   <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-122 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="123" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-123">
+ <sentence id="123" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="40" span="Demosthenes Philippic 1: s-123" Sentence_Projectivity="NonProjective">
   <word id="1" form="προβάλλεσθαι" lemma="προβάλλω" postag="v--pne---" relation="OBJ_CO" head="3" cite="Demosthenes Philippic 1: s-123 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="10" cite="Demosthenes Philippic 1: s-123 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" head="10" cite="Demosthenes Philippic 1: s-123 w-3" Subtree="3 1 4 5" Projectivity="NonProjective"/>
@@ -3342,7 +3342,7 @@
   <word id="11" form="ἐθέλει" lemma="ἐθέλω" postag="v3spia---" relation="PRED_CO" head="10" cite="Demosthenes Philippic 1: s-123 w-11" Subtree="11 9" Projectivity="NonProjective"/>
   <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-123 w-12" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="124" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-124">
+ <sentence id="124" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-124" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="43" cite="Demosthenes Philippic 1: s-124 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ὑμεῖς" lemma="σύ" postag="p-p---mn-" relation="SBJ" head="43" cite="Demosthenes Philippic 1: s-124 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-124 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3408,7 +3408,7 @@
   <word id="63" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="7" cite="Demosthenes Philippic 1: s-124 w-63" insertion_id="0058i" artificial="elliptic" Subtree="63 5 8 6" Projectivity="NonProjective"/>
   <word id="64" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="59" cite="Demosthenes Philippic 1: s-124 w-64" insertion_id="0058j" artificial="elliptic" Subtree="64 15 16" Projectivity="Projective"/>
  </sentence>
- <sentence id="125" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-125">
+ <sentence id="125" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-125" Sentence_Projectivity="Projective">
   <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-125 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-125 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἴσως" lemma="ἴσως" postag="d--------" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-125 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3417,7 +3417,7 @@
   <word id="6" form="ἐνῆν" lemma="ἐν-εἰμί" postag="v3siia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-125 w-6" Subtree="6 1 2 3 4 5" Projectivity="Projective"/>
   <word id="7" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-125 w-7" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="126" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-126">
+ <sentence id="126" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="41" span="Demosthenes Philippic 1: s-126" Sentence_Projectivity="NonProjective">
   <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="5" cite="Demosthenes Philippic 1: s-126 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-126 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐπʼ" lemma="ἐπί" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-126 w-3" Subtree="3 7 4 6" Projectivity="NonProjective"/>
@@ -3431,7 +3431,7 @@
   <word id="11" form="ἐγχωρεῖ" lemma="ἐγχωρέω" postag="v3spia---" relation="ADV" head="9" cite="Demosthenes Philippic 1: s-126 w-11" Subtree="11 10" Projectivity="Projective"/>
   <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-126 w-12" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="127" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-127">
+ <sentence id="127" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-127" Sentence_Projectivity="Projective">
   <word id="1" form="δοκεῖ" lemma="δοκέω" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-127 w-1" Subtree="1 2 3 5 8 16 20 4 7 9 12 18 21 11 13 17 19 15 14" Projectivity="Projective"/>
   <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-127 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="1" cite="Demosthenes Philippic 1: s-127 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3455,7 +3455,7 @@
   <word id="21" form="Φιλίππῳ" lemma="Φίλιππος" postag="n-s---md-" relation="OBJ" head="20" cite="Demosthenes Philippic 1: s-127 w-21" Subtree="21" Projectivity="Projective"/>
   <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-127 w-22" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="128" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-128">
+ <sentence id="128" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-128" Sentence_Projectivity="NonProjective">
   <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="21" cite="Demosthenes Philippic 1: s-128 w-1" Subtree="1 11 3 10 13 6 9 12 14 4 5 7 8" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="21" cite="Demosthenes Philippic 1: s-128 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἔχων" lemma="ἔχω" postag="v-sppamn-" relation="ADV" head="11" cite="Demosthenes Philippic 1: s-128 w-3" Subtree="3 6 4 5 7" Projectivity="Projective"/>
@@ -3493,7 +3493,7 @@
   <word id="35" form="δημοσίᾳ" lemma="δημοσίᾳ" postag="d--------" relation="ADV" head="34" cite="Demosthenes Philippic 1: s-128 w-35" Subtree="35" Projectivity="Projective"/>
   <word id="36" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-128 w-36" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="129" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-129">
+ <sentence id="129" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="42" span="Demosthenes Philippic 1: s-129" Sentence_Projectivity="NonProjective">
   <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="3" cite="Demosthenes Philippic 1: s-129 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="12" cite="Demosthenes Philippic 1: s-129 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐπιχειρῶν" lemma="ἐπιχειρέω" postag="v-sppamn-" relation="ADV_CO" head="6" cite="Demosthenes Philippic 1: s-129 w-3" Subtree="3 1 4 5" Projectivity="NonProjective"/>
@@ -3514,7 +3514,7 @@
   <word id="18" form="ἀπεγνώκατε" lemma="ἀπογιγνώσκω" postag="v2pria---" relation="ADV" head="15" cite="Demosthenes Philippic 1: s-129 w-18" Subtree="18 16 17" Projectivity="Projective"/>
   <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-129 w-19" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="130" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-130">
+ <sentence id="130" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-130" Sentence_Projectivity="NonProjective">
   <word id="1" form="θαυμάζω" lemma="θαυμάζω" postag="v1spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-130 w-1" Subtree="1 2 3 5 18 12 17 19 6 9 10 13 15 7 8 11 33 22 26 35 23 27 34 36 37 21 25 29 32 40 24 28 30 38 39 41 42 43" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-130 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἔγωγε" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="1" cite="Demosthenes Philippic 1: s-130 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3560,7 +3560,7 @@
   <word id="43" form="Φιλίππου" lemma="Φίλιππος" postag="n-s---mg-" relation="OBJ" head="42" cite="Demosthenes Philippic 1: s-130 w-43" Subtree="43" Projectivity="Projective"/>
   <word id="44" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-130 w-44" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="131" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-131">
+ <sentence id="131" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-131" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀλλὰ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="15" cite="Demosthenes Philippic 1: s-131 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὴν" lemma="μήν" postag="d--------" relation="AuxZ" head="15" cite="Demosthenes Philippic 1: s-131 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="15" cite="Demosthenes Philippic 1: s-131 w-3" Subtree="3 6 4 5 10 13 11 12" Projectivity="NonProjective"/>
@@ -3577,13 +3577,13 @@
   <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-131 w-14" Subtree="14" Projectivity="Projective"/>
   <word id="15" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-131 w-15" insertion_id="0014e" artificial="elliptic" Subtree="15 1 2 3 8 6 4 5 10 13 11 12" Projectivity="Projective"/>
  </sentence>
- <sentence id="132" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-132">
+ <sentence id="132" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-132" Sentence_Projectivity="Projective">
   <word id="1" form="εἶτα" lemma="εἶτα" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-132 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τοῦτʼ" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="3" cite="Demosthenes Philippic 1: s-132 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἀναμενοῦμεν" lemma="ἀναμένω" postag="v1pfia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-132 w-3" Subtree="3 1 2" Projectivity="Projective"/>
   <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-132 w-4" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="133" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-133">
+ <sentence id="133" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="43" span="Demosthenes Philippic 1: s-133" Sentence_Projectivity="NonProjective">
   <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-133 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="τριήρεις" lemma="τριήρης" postag="n-p---fa-" relation="OBJ_CO" head="4" cite="Demosthenes Philippic 1: s-133 w-2" Subtree="2 3" Projectivity="Projective"/>
   <word id="3" form="κενὰς" lemma="κενός" postag="a-p---fa-" relation="ATR" head="2" cite="Demosthenes Philippic 1: s-133 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3602,12 +3602,12 @@
   <word id="16" form="καλῶς" lemma="καλός" postag="d-------p" relation="ADV" head="14" cite="Demosthenes Philippic 1: s-133 w-16" Subtree="16" Projectivity="Projective"/>
   <word id="17" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-133 w-17" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="134" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-134">
+ <sentence id="134" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-134" Sentence_Projectivity="Projective">
   <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2" cite="Demosthenes Philippic 1: s-134 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐμβησόμεθα" lemma="ἐμβαίνω" postag="v1pfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-134 w-2" Subtree="2 1" Projectivity="Projective"/>
   <word id="3" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-134 w-3" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="135" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-135">
+ <sentence id="135" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-135" Sentence_Projectivity="Projective">
   <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2" cite="Demosthenes Philippic 1: s-135 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἔξιμεν" lemma="ἔξειμι2" postag="v1ppia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-135 w-2" Subtree="2 1 3 4 9 11 6 7 16 5 8 12 13 14" Projectivity="Projective"/>
   <word id="3" form="αὐτοὶ" lemma="αὐτός" postag="p-p---mn-" relation="AtvV" head="2" cite="Demosthenes Philippic 1: s-135 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3625,7 +3625,7 @@
   <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-135 w-15" Subtree="15" Projectivity="Projective"/>
   <word id="16" form="[0]" lemma="NA" postag="NA" relation="ADV" head="11" cite="Demosthenes Philippic 1: s-135 w-16" insertion_id="0015e" artificial="elliptic" Subtree="16 12 13 14" Projectivity="Projective"/>
  </sentence>
- <sentence id="136" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-136">
+ <sentence id="136" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-136" Sentence_Projectivity="Projective">
   <word id="1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="5" cite="Demosthenes Philippic 1: s-136 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-136 w-2" Subtree="2 3 4" Projectivity="Projective"/>
   <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ADV" head="2" cite="Demosthenes Philippic 1: s-136 w-3" Subtree="3 4" Projectivity="Projective"/>
@@ -3633,18 +3633,18 @@
   <word id="5" form="πλευσόμεθα" lemma="πλέω" postag="v1pfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-136 w-5" Subtree="5 1 2 3 4" Projectivity="Projective"/>
   <word id="6" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-136 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="137" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-137">
+ <sentence id="137" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-137" Sentence_Projectivity="Projective">
   <word id="1" form="ποῖ" lemma="ποι" postag="d--------" relation="ADV" head="3" cite="Demosthenes Philippic 1: s-137 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-137 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="προσορμιούμεθʼ" lemma="προσορμίζομαι" postag="v1pfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-137 w-3" Subtree="3 1 2" Projectivity="Projective"/>
   <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-137 w-4" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="138" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-138">
+ <sentence id="138" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-138" Sentence_Projectivity="Projective">
   <word id="1" form="ἤρετό" lemma="ἔρομαι" postag="v3saim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-138 w-1" Subtree="1 2" Projectivity="Projective"/>
   <word id="2" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" head="1" cite="Demosthenes Philippic 1: s-138 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-138 w-3" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="139" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-139">
+ <sentence id="139" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-139" Sentence_Projectivity="NonProjective">
   <word id="1" form="εὑρήσει" lemma="εὑρίσκω" postag="v3sfia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-139 w-1" Subtree="1 3 6 14 16 2 11 5 7 12 13 17 9 10" Projectivity="Projective"/>
   <word id="2" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-139 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="σαθρά" lemma="σαθρός" postag="a-p---na-" relation="OBJ" head="1" cite="Demosthenes Philippic 1: s-139 w-3" Subtree="3 2 11 9 10" Projectivity="NonProjective"/>
@@ -3664,7 +3664,7 @@
   <word id="17" form="ἐπιχειρῶμεν" lemma="ἐπιχειρέω" postag="v1ppsa---" relation="ADV" head="16" cite="Demosthenes Philippic 1: s-139 w-17" Subtree="17" Projectivity="Projective"/>
   <word id="18" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-139 w-18" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="140" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-140">
+ <sentence id="140" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="44" span="Demosthenes Philippic 1: s-140" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="18" cite="Demosthenes Philippic 1: s-140 w-1" Subtree="1 3 4 7 12 8 11 6 9 10" Projectivity="NonProjective"/>
   <word id="2" form="μέντοι" lemma="μέντοι" postag="d--------" relation="AuxY" head="18" cite="Demosthenes Philippic 1: s-140 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="καθώμεθʼ" lemma="κάθημαι" postag="v1ppsm---" relation="ADV" head="1" cite="Demosthenes Philippic 1: s-140 w-3" Subtree="3 4 7 12 8 11 6 9 10" Projectivity="Projective"/>
@@ -3687,7 +3687,7 @@
   <word id="20" form="δεόντων" lemma="δεῖ" postag="v-pppang-" relation="ATR" head="15" cite="Demosthenes Philippic 1: s-140 w-20" Subtree="20 19" Projectivity="Projective"/>
   <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-140 w-21" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="141" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="45" span="Demosthenes Philippic 1: s-141">
+ <sentence id="141" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="45" span="Demosthenes Philippic 1: s-141" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅποι" lemma="ὅποι" postag="d--------" relation="ADV" head="12" cite="Demosthenes Philippic 1: s-141 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="28" cite="Demosthenes Philippic 1: s-141 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="28" cite="Demosthenes Philippic 1: s-141 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3719,7 +3719,7 @@
   <word id="29" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-141 w-29" Subtree="29" Projectivity="Projective"/>
   <word id="30" form="[0]" lemma="NA" postag="NA" relation="ADV" head="15" cite="Demosthenes Philippic 1: s-141 w-30" insertion_id="0029e" artificial="elliptic" Subtree="30 14 16 17" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="142" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="45" span="Demosthenes Philippic 1: s-142">
+ <sentence id="142" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="45" span="Demosthenes Philippic 1: s-142" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅποι" lemma="ὅποι" postag="d--------" relation="AuxC" head="14" cite="Demosthenes Philippic 1: s-142 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="22" cite="Demosthenes Philippic 1: s-142 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="14" cite="Demosthenes Philippic 1: s-142 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3758,7 +3758,7 @@
   <word id="36" form="ἀποστόλους" lemma="ἀπόστολος" postag="n-p---ma-" relation="OBJ" head="31" cite="Demosthenes Philippic 1: s-142 w-36" Subtree="36 34 35" Projectivity="Projective"/>
   <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-142 w-37" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="143" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-143">
+ <sentence id="143" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-143" Sentence_Projectivity="NonProjective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3" cite="Demosthenes Philippic 1: s-143 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-143 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἔστιν" lemma="εἰμί" postag="v3spia---" relation="PRED_AP" head="4" cite="Demosthenes Philippic 1: s-143 w-3" Subtree="3 1" Projectivity="NonProjective"/>
@@ -3777,7 +3777,7 @@
   <word id="16" form="βούλεσθε" lemma="βούλομαι" postag="v2ppie---" relation="ATR" head="11" cite="Demosthenes Philippic 1: s-143 w-16" Subtree="16 15" Projectivity="Projective"/>
   <word id="17" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-143 w-17" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="144" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-144">
+ <sentence id="144" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-144" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὑποσχέσθαι" lemma="ὑπισχνέομαι" postag="v--anm---" relation="SBJ_CO" head="5" cite="Demosthenes Philippic 1: s-144 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μέντοι" lemma="μέντοι" postag="d--------" relation="AuxY" head="15" cite="Demosthenes Philippic 1: s-144 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-144 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3799,7 +3799,7 @@
   <word id="19" form="ἀπόλωλεν" lemma="ἀπόλλυμι" postag="v3sria---" relation="PRED_CO" head="15" cite="Demosthenes Philippic 1: s-144 w-19" Subtree="19 16 17 14 18" Projectivity="NonProjective"/>
   <word id="20" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-144 w-20" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="145" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-145">
+ <sentence id="145" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="46" span="Demosthenes Philippic 1: s-145" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅταν" lemma="ὅταν" postag="c--------" relation="AuxC" head="39" cite="Demosthenes Philippic 1: s-145 w-1" Subtree="1 26 3 4 12 23 35 6 9 20 22 25 30 34 5 7 8 11 17 18 21 27 29 31 33 13 15 16 19 28 32 14" Projectivity="NonProjective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="39" cite="Demosthenes Philippic 1: s-145 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἡγῆται" lemma="ἡγέομαι" postag="v3spim---" relation="ADV_CO" head="26" cite="Demosthenes Philippic 1: s-145 w-3" Subtree="3 6 9 5 7 8" Projectivity="NonProjective"/>
@@ -3842,14 +3842,14 @@
   <word id="40" form="προσδοκᾶν" lemma="προσδοκάω" postag="v--pna---" relation="SBJ" head="39" cite="Demosthenes Philippic 1: s-145 w-40" Subtree="40 37 38" Projectivity="NonProjective"/>
   <word id="41" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-145 w-41" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="146" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-146">
+ <sentence id="146" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-146" Sentence_Projectivity="Projective">
   <word id="1" form="πῶς" lemma="πως" postag="d--------" relation="ADV" head="4" cite="Demosthenes Philippic 1: s-146 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="4" cite="Demosthenes Philippic 1: s-146 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="4" cite="Demosthenes Philippic 1: s-146 w-3" Subtree="3" Projectivity="Projective"/>
   <word id="4" form="παύσεται" lemma="παύω" postag="v3sfim---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-146 w-4" Subtree="4 1 2 3" Projectivity="Projective"/>
   <word id="5" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-146 w-5" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="147" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-147">
+ <sentence id="147" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-147" Sentence_Projectivity="NonProjective">
   <word id="1" form="ὅταν" lemma="ὅταν" postag="c--------" relation="AuxC" head="37" cite="Demosthenes Philippic 1: s-147 w-1" Subtree="1 10 2 9 16 23 8 19 11 12 13 17 32 18 15 21 25 27 35 14 20 26 29 33 34 24 28 30" Projectivity="NonProjective"/>
   <word id="2" form="ὑμεῖς" lemma="σύ" postag="p-p---mn-" relation="SBJ" head="10" cite="Demosthenes Philippic 1: s-147 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0" cite="Demosthenes Philippic 1: s-147 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3888,7 +3888,7 @@
   <word id="36" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-147 w-36" Subtree="36" Projectivity="Projective"/>
   <word id="37" form="[0]" lemma="NA" postag="NA" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-147 w-37" insertion_id="0036e" artificial="elliptic" Subtree="37 1 5 10 4 6 2 9 16 23 8 19 11 12 13 17 32 18 15 21 25 27 35 14 20 26 29 33 34 24 28 30" Projectivity="Projective"/>
  </sentence>
- <sentence id="148" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-148">
+ <sentence id="148" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-148" Sentence_Projectivity="NonProjective">
   <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="5" cite="Demosthenes Philippic 1: s-148 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-148 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="5" cite="Demosthenes Philippic 1: s-148 w-3" Subtree="3 4 8 9 23 12 16 35 11 14 17 19 33 43 10 13 15 18 20 26 28 30 41 29 27 22 31 36 39 25 32 38 40 42 24 37 45 44" Projectivity="NonProjective"/>
@@ -3936,7 +3936,7 @@
   <word id="45" form="προσήκοντος" lemma="προσήκω" postag="v-sppamg-" relation="ADV" head="42" cite="Demosthenes Philippic 1: s-148 w-45" Subtree="45 44" Projectivity="Projective"/>
   <word id="46" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-148 w-46" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="149" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-149">
+ <sentence id="149" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="47" span="Demosthenes Philippic 1: s-149" Sentence_Projectivity="NonProjective">
   <word id="1" form="κακούργου" lemma="κακοῦργος" postag="a-s---mg-" relation="PNOM" head="4" cite="Demosthenes Philippic 1: s-149 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-149 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" cite="Demosthenes Philippic 1: s-149 w-3" Subtree="3" Projectivity="Projective"/>
@@ -3953,7 +3953,7 @@
   <word id="14" form="ἀποθανεῖν" lemma="ἀποθνήσκω" postag="v--ana---" relation="SBJ" head="15" cite="Demosthenes Philippic 1: s-149 w-14" insertion_id="0013e" artificial="elliptic" Subtree="14 10 12 11" Projectivity="Projective"/>
   <word id="15" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="9" cite="Demosthenes Philippic 1: s-149 w-15" insertion_id="0013f" artificial="elliptic" Subtree="15 8 14 10 12 11" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="150" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="48" span="Demosthenes Philippic 1: s-150">
+ <sentence id="150" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="48" span="Demosthenes Philippic 1: s-150" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἡμῶν" lemma="ἐγώ" postag="p1p---mg-" relation="ATR" head="3" cite="Demosthenes Philippic 1: s-150 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="35" cite="Demosthenes Philippic 1: s-150 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="8" cite="Demosthenes Philippic 1: s-150 w-3" Subtree="3 1" Projectivity="NonProjective"/>
@@ -3997,7 +3997,7 @@
   <word id="41" form="φασὶ" lemma="φημί" postag="v3ppia---" relation="PRED_CO" head="35" cite="Demosthenes Philippic 1: s-150 w-41" insertion_id="0040e" artificial="elliptic" Subtree="41 19 21 23 22 24 25" Projectivity="NonProjective"/>
   <word id="42" form="φασὶ" lemma="φημί" postag="v3ppia---" relation="PRED_CO" head="35" cite="Demosthenes Philippic 1: s-150 w-42" insertion_id="0040f" artificial="elliptic" Subtree="42 27 32 29 31 30" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="151" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="49" span="Demosthenes Philippic 1: s-151">
+ <sentence id="151" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="49" span="Demosthenes Philippic 1: s-151" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-151 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-151 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οἶμαι" lemma="οἴομαι" postag="v1spie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-151 w-3" Subtree="3 1 2 7 39 6 8 4 19 44 10 13 14 22 33 38 40 45 12 16 21 23 28 32 36 41 42 43 11 15 18 20 25 29 35 46 17 24 27 31 34 52 30 48 54 47 49 55 56 50 53 51" Projectivity="Projective"/>
@@ -4056,7 +4056,7 @@
   <word id="56" form="ἐκεῖνος" lemma="ἐκεῖνος" postag="p-s---mn-" relation="SBJ" head="54" cite="Demosthenes Philippic 1: s-151 w-56" Subtree="56" Projectivity="Projective"/>
   <word id="57" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-151 w-57" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="152" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="49" span="Demosthenes Philippic 1: s-152">
+ <sentence id="152" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="49" span="Demosthenes Philippic 1: s-152" Sentence_Projectivity="Projective">
   <word id="1" form="ἀνοητότατοι" lemma="ἀνόητος" postag="a-p---mns" relation="PNOM" head="3" cite="Demosthenes Philippic 1: s-152 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" cite="Demosthenes Philippic 1: s-152 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="εἰσιν" lemma="εἰμί" postag="v3ppia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-152 w-3" Subtree="3 1 2 5 4" Projectivity="Projective"/>
@@ -4064,7 +4064,7 @@
   <word id="5" form="λογοποιοῦντες" lemma="λογοποιέω" postag="v-pppamn-" relation="SBJ" head="3" cite="Demosthenes Philippic 1: s-152 w-5" Subtree="5 4" Projectivity="Projective"/>
   <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-152 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="153" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="50" span="Demosthenes Philippic 1: s-153">
+ <sentence id="153" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="50" span="Demosthenes Philippic 1: s-153" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἀλλʼ" lemma="ἀλλά" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-153 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-153 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἀφέντες" lemma="ἀφίημι" postag="v-papamn-" relation="ADV" head="6" cite="Demosthenes Philippic 1: s-153 w-3" Subtree="3 4 5" Projectivity="Projective"/>
@@ -4137,7 +4137,7 @@
   <word id="70" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-153 w-70" Subtree="70" Projectivity="Projective"/>
   <word id="71" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ_CO" head="61" cite="Demosthenes Philippic 1: s-153 w-71" insertion_id="0070e" artificial="elliptic" Subtree="71 10 9" Projectivity="Projective"/>
  </sentence>
- <sentence id="154" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="50" span="Demosthenes Philippic 1: s-154">
+ <sentence id="154" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="50" span="Demosthenes Philippic 1: s-154" Sentence_Projectivity="NonProjective">
   <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="7" cite="Demosthenes Philippic 1: s-154 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="6" cite="Demosthenes Philippic 1: s-154 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἅττα" lemma="ὅστις" postag="p-p---nn-" relation="SBJ" head="5" cite="Demosthenes Philippic 1: s-154 w-3" Subtree="3" Projectivity="Projective"/>
@@ -4166,7 +4166,7 @@
   <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-154 w-26" Subtree="26" Projectivity="Projective"/>
   <word id="27" form="[0]" lemma="NA" postag="NA" relation="OBJ" head="10" cite="Demosthenes Philippic 1: s-154 w-27" insertion_id="0026e" artificial="elliptic" Subtree="27 11 13 18 14 15 22 17 21 16 20 19" Projectivity="Projective"/>
  </sentence>
- <sentence id="155" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-155">
+ <sentence id="155" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-155" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" head="21" cite="Demosthenes Philippic 1: s-155 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="21" cite="Demosthenes Philippic 1: s-155 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="21" cite="Demosthenes Philippic 1: s-155 w-3" Subtree="3" Projectivity="Projective"/>
@@ -4199,7 +4199,7 @@
   <word id="30" form="πεπαρρησίασμαι" lemma="παρρησιάζομαι" postag="v1srie---" relation="PRED_CO" head="21" cite="Demosthenes Philippic 1: s-155 w-30" Subtree="30 23 28 20 22 25 27 24" Projectivity="NonProjective"/>
   <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-155 w-31" Subtree="" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="156" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-156">
+ <sentence id="156" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-156" Sentence_Projectivity="NonProjective">
   <word id="1" form="ἐβουλόμην" lemma="βούλομαι" postag="v1siie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-156 w-1" Subtree="1 2 3 15 14 23 5 16 12 21 6 17 18 20 8 19 7 11 10 9" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-156 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἄν" lemma="ἄν1" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-156 w-3" Subtree="3" Projectivity="Projective"/>
@@ -4224,7 +4224,7 @@
   <word id="22" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-156 w-22" Subtree="22" Projectivity="Projective"/>
   <word id="23" form="[0]" lemma="NA" postag="NA" relation="OBJ" head="15" cite="Demosthenes Philippic 1: s-156 w-23" insertion_id="0022e" artificial="elliptic" Subtree="23 5 16 12 21 6 17 18 20 8 19 7 11 10 9" Projectivity="NonProjective"/>
  </sentence>
- <sentence id="157" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-157">
+ <sentence id="157" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-157" Sentence_Projectivity="NonProjective">
   <word id="1" form="πολλῷ" lemma="πολύς" postag="a-s---nd-" relation="ADV" head="4" cite="Demosthenes Philippic 1: s-157 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-157 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="5" cite="Demosthenes Philippic 1: s-157 w-3" Subtree="3" Projectivity="Projective"/>
@@ -4232,7 +4232,7 @@
   <word id="5" form="εἶχον" lemma="ἔχω" postag="v1siia---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-157 w-5" Subtree="5 2 3 4 1" Projectivity="Projective"/>
   <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-157 w-6" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="158" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-158">
+ <sentence id="158" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-158" Sentence_Projectivity="NonProjective">
   <word id="1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="24" cite="Demosthenes Philippic 1: s-158 w-1" Subtree="1" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="24" cite="Demosthenes Philippic 1: s-158 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ἐπʼ" lemma="ἐπί" postag="r--------" relation="AuxP" head="12" cite="Demosthenes Philippic 1: s-158 w-3" Subtree="3 5 4 10 6 7 9 8" Projectivity="Projective"/>
@@ -4259,7 +4259,7 @@
   <word id="24" form="αἱροῦμαι" lemma="αἱρέω" postag="v1spie---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-158 w-24" Subtree="24 1 2 12 22 3 13 23 5 15 21 4 10 14 16 18 6 7 9 19 8" Projectivity="Projective"/>
   <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0" cite="Demosthenes Philippic 1: s-158 w-25" Subtree="" Projectivity="Projective"/>
  </sentence>
- <sentence id="159" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-159">
+ <sentence id="159" document_id="urn:cts:greekLit:tlg0014.tlg004.perseus-grc1" subdoc="51" span="Demosthenes Philippic 1: s-159" Sentence_Projectivity="NonProjective">
   <word id="1" form="νικῴη" lemma="νικάω" postag="v3spoa---" relation="PRED" head="0" cite="Demosthenes Philippic 1: s-159 w-1" Subtree="1 2 6 3 7 4 5" Projectivity="Projective"/>
   <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="1" cite="Demosthenes Philippic 1: s-159 w-2" Subtree="2" Projectivity="Projective"/>
   <word id="3" form="ὅ" lemma="ὅς" postag="p-s---nn-" relation="SBJ" head="6" cite="Demosthenes Philippic 1: s-159 w-3" Subtree="3 4" Projectivity="Projective"/>
