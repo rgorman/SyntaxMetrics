@@ -1,6 +1,5 @@
 ####### 
-# This script calculates Dependency distance for each relevant word node and also mean dependency distance 
-# for each sentence. 
+# This script calulates subtrees for each node. Only node and its children are extracted.
 
 # if necessary, empty memory.
 rm(list = ls())
@@ -60,8 +59,14 @@ for (i in 1: length(files.v))  {
     
     # The following loop extracts @id and @head attributes from each word in a gaiven setence (= sentence.list[[j]]) 
     heads.v <- NULL # vector to store @head attributes
+    
     ids.v <- NULL # vector to store @id attributes
+    
     raw.subtree.l <- list() # list to store subtree generated from edge matrix made from heads.v and ids.v.
+    
+    neighborhood.l <- list() # list to store for each node in a sentence j the closed neighborhood.  This means
+                                 # the @id of the vertex itself and all its immediate dependents.
+    
     relations.v <- NULL # Vector to store @relatin attributes
     
     
@@ -97,11 +102,18 @@ for (i in 1: length(files.v))  {
     short.edge.matrix <- matrix(edge.matrix[index, ], ncol = 2) # Use index to make new matrix without any cases of head = 0.
     graph.object <- graph_from_edgelist(short.edge.matrix) # create graph using igraph function.
     
-    raw.subtree.l[[j]] <- ego(graph.object, 50, mode = "out") # populate raw.subtree[[j]] (j = sentence number)
+    raw.subtree.l <- ego(graph.object, 50, mode = "out") # populate raw.subtree.l
     # with subtrees for each vertex in input vector.
     # first parameter = input graph, second parameter = number of "steps"
     # to take to find elements of subtree (50 is chosen as greater than any in corpus)
     # mode parameter = "out" finds descendents, mode = "in" finds ancestors.
+    
+    neighborhood.l <- ego(graph.object, 1, mode = "out") # populate neighborhood.l with subtrees of distance = 1.
+    
+    
+    
+    
+    
     
     ######################################## START OF DEPENDENCY DISTANCE #######################################
                                                               # This code calculates dependency distance for each node.
@@ -253,6 +265,101 @@ for (i in 1: length(files.v))  {
     ###########################################################################################################
     
     
+    ############################################ Code block to extract neighborhood for each node and to 
+    # populate them with @relation, part of speech and a combination
+    # of the two. 
+    
+    
+    for (k in 1:(length(sentence.list[[j]])-1)) {
+      
+      if (k <= length(neighborhood.l)) {
+        
+        neighborhood.v <- neighborhood.l[[k]] # extract neighborhood for given word element.
+        neighbor.subtree.v <- neighborhood.l[[k]]
+        sorted.neighbor.subtree.v <- sort( neighbor.subtree.v)
+        neighborhood.attr.v   <-  paste0(neighborhood.v, sep="", collapse = " ") #convert to a character vector of one element for insertion
+        # as attribute into new word element.
+        
+        
+        
+        
+      } else {
+        
+        neighborhood.attr.v <- "NA"
+        
+      }
+      
+      rel.v <- NULL
+      pos.v <- NULL
+      rel.pos.v <- NULL
+      rel.pos.self.v <- NULL
+      
+      
+      for (t in 1:length(neighbor.subtree.v)) {
+        
+        n.holder.v <- unlist(sentence.list[[j]][neighbor.subtree.v[t]])
+        
+        
+        if (length(neighbor.subtree.v) == 1) {
+          
+          rel.v <-  paste("Leaf", n.holder.v["word.relation"],  sep = ".")
+          pos.v <-  pos.self.v <- paste("Leaf", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+          rel.pos.leaf.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+          rel.pos.leaf.v <- paste(rel.pos.leaf.v, collapse = "-")
+          rel.pos.v <- paste("Leaf", rel.pos.leaf.v, sep = ".")
+          
+        } else {
+          
+          if (neighbor.subtree.v[1]==sorted.neighbor.subtree.v[t]) {
+            rel.self.v <- paste("Self", n.holder.v["word.relation"],  sep = ".")
+            rel.v <- append(rel.v, rel.self.v)
+            
+            pos.self.v <- paste("Self", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+            pos.v <- append(pos.v, pos.self.v)
+            
+            rel.pos.self.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+            rel.pos.self.v <- paste(rel.pos.self.v, collapse = "-")
+            rel.pos.self.v <- paste("Self", rel.pos.self.v, sep = ".")
+            rel.pos.v <- append(rel.pos.v, rel.pos.self.v)
+            
+          } else {
+            
+            rel.v <- append(rel.v, n.holder.v["word.relation"])
+            pos.v <- append(pos.v, substr(n.holder.v["word.postag"], 1, 1))
+            rel.pos.v <- append(rel.pos.v, c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1)))
+            
+          }
+          
+          
+        }
+        
+        
+      }
+      
+      t <- 1
+      
+      rel.attr.v <-  paste(rel.v, collapse = "-")
+      pos.attr.v <-  paste(pos.v, collapse = "-")
+      rel.pos.attr.v <- paste(rel.pos.v, collapse = "-")
+      
+      
+      
+    }
+    
+    k <- 1
+    
+    
+    ###################################################
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     #############################################
     # The following code block identifies the projectivity of each vertex in a given sentence
@@ -264,19 +371,17 @@ for (i in 1: length(files.v))  {
     
     
     
-    
-    ####################################
+   
     
     # The following code block creates for each sentence the proper number of word nodes and populates
     # each node with the attributes drawn from the input xml, It also adds a new attribute called Subtree.
-    # The value of @Subtree is taken from raw.subtree.l[[j]], where j is the number of a given setence in
-    # sentence.lsit.
+    # The value of @Subtree is taken from raw.subtree.l
     
     k <- 1
     
     for (k in 1:(length(sentence.list[[j]])-1)) {
       
-      raw.subtree.v <- raw.subtree.l[[j]][k] # extract subtree for given word node
+      raw.subtree.v <- raw.subtree.l[k] # extract subtree for given word node
       
       raw.subtree.v <- unlist(raw.subtree.v) # change to vector from list
       
@@ -286,6 +391,38 @@ for (i in 1: length(files.v))  {
       # Sequence of values for subtree is made into single character vector
       # with each element. This step is necessary to produce a correctly formatted
       # #Subtree attribute.
+      
+      #################################### Code block to extract neighborhood vertices for each vertex
+      
+      # an if/else switch to avoid problems caused because the length of neighborhood.l is less than
+      # the number of word nodes in a sentence         
+     
+      
+      if (k <= length(neighborhood.l)) {
+        
+        neighborhood.v <- neighborhood.l[[k]] # extract neighborhood for given word element.
+        neighborhood.v   <-  paste0(neighborhood.v, sep="", collapse = " ") #convert to a character vector of one element for insertion
+        # as attribute into new word element.
+        
+      } else {
+        
+        neighborhood.v <- "NA"
+        
+      }
+      
+      
+     
+      
+     
+      
+      
+      
+      
+      
+      
+      ######################################
+      
+      
       
       ##################
       # The following code block checks each vertex in a given sentence for projectivity. A projection of a vertex
@@ -313,7 +450,9 @@ for (i in 1: length(files.v))  {
                                    lemma = b["lemma"], postag = b["postag"],
                                    relation = b["relation"], head = b["head"],
                                    cite = b["cite"], Subtree = "NA",
-                                   Projectivity = "NA", DepDist = "NA") # populate node from input xml. Add new @Subtree attribute.
+                                   Projectivity = "NA", DepDist = "NA",
+                                   Neighborhood = "NA", Relation_Subtree = "NA",
+                                   POS_Subtree = "NA", Rel_Pos_Subtree = "NA") # populate node from input xml. Add new @Subtree attribute.
         
          sent.xml <- append.xmlNode(sent.xml, word.xml) # insert word.xml as child of given sentence node
                                            # check here if all goes wrong!
@@ -446,7 +585,11 @@ for (i in 1: length(files.v))  {
                                      cite = b["cite"], insertion_id = b["insertion_id"],
                                      artificial = b["artificial"],  Subtree = raw.subtree.v,
                                      Projectivity = projectivity.attr,
-                                     DepDist = node.DepDist.v[k]) # populate node from input xml. Add new @Subtree attribute.
+                                     DepDist = node.DepDist.v[k],
+                                     Neighborhood = neighborhood.v,
+                                     Relation_Subtree = rel.attr.v,
+                                     POS_Subtree = pos.attr.v, 
+                                     Rel_Pos_Subtree = rel.pos.attr.v) # populate node from input xml. Add new @Subtree attribute.
           
           
           
@@ -457,7 +600,11 @@ for (i in 1: length(files.v))  {
                                      relation = b["relation"], head = b["head"],
                                      cite = b["cite"], Subtree = raw.subtree.v,
                                      Projectivity = projectivity.attr,
-                                     DepDist = node.DepDist.v[k]) # populate node from input xml. Add new @Subtree attribute.
+                                     DepDist = node.DepDist.v[k],
+                                     Neighborhood = neighborhood.v,
+                                     Relation_Subtree = rel.attr.v,
+                                     POS_Subtree = pos.attr.v, 
+                                     Rel_Pos_Subtree = rel.pos.attr.v) # populate node from input xml. Add new @Subtree attribute.
           
           
         } # end of if/else switch
