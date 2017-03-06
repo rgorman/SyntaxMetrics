@@ -110,6 +110,115 @@ for (i in 1: length(files.v))  {
     
     neighborhood.l <- ego(graph.object, 1, mode = "out") # populate neighborhood.l with subtrees of distance = 1.
     
+    #######################################
+    
+    
+    rel.holder.v <- NULL
+    pos.holder.v <- NULL
+    rel.pos.holder.v <- NULL
+    
+    
+    
+      
+      for (k in 1:(length(sentence.list[[j]])-1)) {
+        
+        if (k <= length(neighborhood.l)) {
+          
+          neighborhood.v <- neighborhood.l[[k]] # extract neighborhood for given word element.
+          neighbor.subtree.v <- neighborhood.l[[k]]
+          sorted.neighbor.subtree.v <- sort( neighbor.subtree.v)
+          neighborhood.attr.v   <-  paste0(neighborhood.v, sep="", collapse = " ") #convert to a character vector of one element for insertion
+          # as attribute into new word element.
+          
+          
+          
+          
+        } else {
+          
+          neighborhood.attr.v <- "NA"
+          
+        }
+        
+        rel.v <- NULL
+        pos.v <- NULL
+        rel.pos.v <- NULL
+        rel.pos.self.v <- NULL
+        t <- 1
+        
+        for (t in 1:length(neighbor.subtree.v)) {
+          
+          n.holder.v <- unlist(sentence.list[[j]][sorted.neighbor.subtree.v[t]])
+          
+          
+          if (length(neighbor.subtree.v) == 1) {
+            
+            rel.v <-  paste("Leaf", n.holder.v["word.relation"],  sep = ".")
+            pos.v <-  pos.self.v <- paste("Leaf", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+            rel.pos.leaf.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+            rel.pos.leaf.v <- paste(rel.pos.leaf.v, collapse = "-")
+            rel.pos.v <- paste("Leaf", rel.pos.leaf.v, sep = ".")
+            
+          } else {
+            
+            if (neighbor.subtree.v[1]==sorted.neighbor.subtree.v[t]) {
+              rel.self.v <- paste("Self", n.holder.v["word.relation"],  sep = ".")
+              rel.v <- append(rel.v, rel.self.v)
+              
+              pos.self.v <- paste("Self", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+              pos.v <- append(pos.v, pos.self.v)
+              
+              rel.pos.self.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+              rel.pos.self.v <- paste(rel.pos.self.v, collapse = "-")
+              rel.pos.self.v <- paste("Self", rel.pos.self.v, sep = ".")
+              rel.pos.v <- append(rel.pos.v, rel.pos.self.v)
+              
+            } else {
+              
+              rel.v <- append(rel.v, n.holder.v["word.relation"])
+              pos.v <- append(pos.v, substr(n.holder.v["word.postag"], 1, 1))
+              rel.pos.v <- append(rel.pos.v, c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1)))
+              
+            }
+            
+            
+          }
+          
+          
+        }
+        
+        
+        
+        rel.v <-  paste(rel.v, collapse = "-")
+        pos.v <-  paste(pos.v, collapse = "-")
+        rel.pos.v <- paste(rel.pos.v, collapse = "-")
+        
+        rel.holder.v <- append(rel.holder.v, rel.v)
+        pos.holder.v <- append(pos.holder.v, pos.v)
+        rel.pos.holder.v <- append(rel.pos.holder.v, rel.pos.v)
+        
+        
+        
+        
+        # append all subtree data into one vector per sentence
+        
+        
+      }
+      
+    k <- 1
+    
+      # rel.list[[j]] <- rel.holder.v
+      # pos.list[[j]] <- pos.holder.v
+      # rel.pos.list[[j]] <- rel.pos.holder.v 
+      
+      
+      
+
+    
+    
+    
+    
+    
+    
     
     
     
@@ -263,99 +372,6 @@ for (i in 1: length(files.v))  {
     
     ################################ END OF DEPENDENCY DISTANCE ################################################
     ###########################################################################################################
-    
-    
-    ############################################ Code block to extract neighborhood for each node and to 
-    # populate them with @relation, part of speech and a combination
-    # of the two. 
-    
-    
-    for (k in 1:(length(sentence.list[[j]])-1)) {
-      
-      if (k <= length(neighborhood.l)) {
-        
-        neighborhood.v <- neighborhood.l[[k]] # extract neighborhood for given word element.
-        neighbor.subtree.v <- neighborhood.l[[k]]
-        sorted.neighbor.subtree.v <- sort( neighbor.subtree.v)
-        neighborhood.attr.v   <-  paste0(neighborhood.v, sep="", collapse = " ") #convert to a character vector of one element for insertion
-        # as attribute into new word element.
-        
-        
-        
-        
-      } else {
-        
-        neighborhood.attr.v <- "NA"
-        
-      }
-      
-      rel.v <- NULL
-      pos.v <- NULL
-      rel.pos.v <- NULL
-      rel.pos.self.v <- NULL
-      
-      
-      for (t in 1:length(neighbor.subtree.v)) {
-        
-        n.holder.v <- unlist(sentence.list[[j]][neighbor.subtree.v[t]])
-        
-        
-        if (length(neighbor.subtree.v) == 1) {
-          
-          rel.v <-  paste("Leaf", n.holder.v["word.relation"],  sep = ".")
-          pos.v <-  pos.self.v <- paste("Leaf", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
-          rel.pos.leaf.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
-          rel.pos.leaf.v <- paste(rel.pos.leaf.v, collapse = "-")
-          rel.pos.v <- paste("Leaf", rel.pos.leaf.v, sep = ".")
-          
-        } else {
-          
-          if (neighbor.subtree.v[1]==sorted.neighbor.subtree.v[t]) {
-            rel.self.v <- paste("Self", n.holder.v["word.relation"],  sep = ".")
-            rel.v <- append(rel.v, rel.self.v)
-            
-            pos.self.v <- paste("Self", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
-            pos.v <- append(pos.v, pos.self.v)
-            
-            rel.pos.self.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
-            rel.pos.self.v <- paste(rel.pos.self.v, collapse = "-")
-            rel.pos.self.v <- paste("Self", rel.pos.self.v, sep = ".")
-            rel.pos.v <- append(rel.pos.v, rel.pos.self.v)
-            
-          } else {
-            
-            rel.v <- append(rel.v, n.holder.v["word.relation"])
-            pos.v <- append(pos.v, substr(n.holder.v["word.postag"], 1, 1))
-            rel.pos.v <- append(rel.pos.v, c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1)))
-            
-          }
-          
-          
-        }
-        
-        
-      }
-      
-      t <- 1
-      
-      rel.attr.v <-  paste(rel.v, collapse = "-")
-      pos.attr.v <-  paste(pos.v, collapse = "-")
-      rel.pos.attr.v <- paste(rel.pos.v, collapse = "-")
-      
-      
-      
-    }
-    
-    k <- 1
-    
-    
-    ###################################################
-    
-    
-    
-    
-    
-    
     
     
     
@@ -568,6 +584,90 @@ for (i in 1: length(files.v))  {
           
         }
         
+        ########################
+        #####################  Code to extract data for each node in neighborhood of given vertex.
+        
+        if (k <= length(neighborhood.l)) {
+          
+          neighborhood.v <- neighborhood.l[[k]] # extract neighborhood for given word element.
+          neighbor.subtree.v <- neighborhood.l[[k]]
+          sorted.neighbor.subtree.v <- sort( neighbor.subtree.v)
+          neighborhood.attr.v   <-  paste0(neighborhood.v, sep="", collapse = " ") #convert to a character vector of one element for insertion
+          # as attribute into new word element.
+          
+          
+          
+          
+        } else {
+          
+          neighborhood.attr.v <- "NA"
+          
+        }
+        
+        rel.v <- NULL
+        pos.v <- NULL
+        rel.pos.v <- NULL
+        rel.pos.self.v <- NULL
+        t <- 1
+        
+        for (t in 1:length(neighbor.subtree.v)) {
+          
+          n.holder.v <- unlist(sentence.list[[j]][sorted.neighbor.subtree.v[t]])
+          
+          
+          if (length(neighbor.subtree.v) == 1) {
+            
+            rel.v <-  paste("Leaf", n.holder.v["word.relation"],  sep = ".")
+            pos.v <-  pos.self.v <- paste("Leaf", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+            rel.pos.leaf.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+            rel.pos.leaf.v <- paste(rel.pos.leaf.v, collapse = "-")
+            rel.pos.v <- paste("Leaf", rel.pos.leaf.v, sep = ".")
+            
+          } else {
+            
+            if (neighbor.subtree.v[1]==sorted.neighbor.subtree.v[t]) {
+              rel.self.v <- paste("Self", n.holder.v["word.relation"],  sep = ".")
+              rel.v <- append(rel.v, rel.self.v)
+              
+              pos.self.v <- paste("Self", substr(n.holder.v["word.postag"], 1, 1),  sep = ".")
+              pos.v <- append(pos.v, pos.self.v)
+              
+              rel.pos.self.v <- c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1))
+              rel.pos.self.v <- paste(rel.pos.self.v, collapse = "-")
+              rel.pos.self.v <- paste("Self", rel.pos.self.v, sep = ".")
+              rel.pos.v <- append(rel.pos.v, rel.pos.self.v)
+              
+            } else {
+              
+              rel.v <- append(rel.v, n.holder.v["word.relation"])
+              pos.v <- append(pos.v, substr(n.holder.v["word.postag"], 1, 1))
+              rel.pos.v <- append(rel.pos.v, c(n.holder.v["word.relation"], substr(n.holder.v["word.postag"], 1, 1)))
+              
+            }
+            
+            
+          }
+          
+          
+        }
+        
+        
+        
+        rel.v <-  paste(rel.v, collapse = "-")
+        pos.v <-  paste(pos.v, collapse = "-")
+        rel.pos.v <- paste(rel.pos.v, collapse = "-")
+        
+        rel.holder.v <- append(rel.holder.v, rel.v)
+        pos.holder.v <- append(pos.holder.v, pos.v)
+        rel.pos.holder.v <- append(rel.pos.holder.v, rel.pos.v)
+        
+        
+        
+        #################### End of code to extract syntactic data from neighborhood vertices.
+        
+        
+        
+        
         
         
         ###################
@@ -586,10 +686,10 @@ for (i in 1: length(files.v))  {
                                      artificial = b["artificial"],  Subtree = raw.subtree.v,
                                      Projectivity = projectivity.attr,
                                      DepDist = node.DepDist.v[k],
-                                     Neighborhood = neighborhood.v,
-                                     Relation_Subtree = rel.attr.v,
-                                     POS_Subtree = pos.attr.v, 
-                                     Rel_Pos_Subtree = rel.pos.attr.v) # populate node from input xml. Add new @Subtree attribute.
+                                     Neighborhood = neighborhood.attr.v,
+                                     Relation_Subtree = rel.holder.v[k],
+                                     POS_Subtree = pos.holder.v[k], 
+                                     Rel_Pos_Subtree = rel.pos.holder.v[k]) # populate node from input xml. Add new @Subtree attribute.
           
           
           
@@ -601,10 +701,10 @@ for (i in 1: length(files.v))  {
                                      cite = b["cite"], Subtree = raw.subtree.v,
                                      Projectivity = projectivity.attr,
                                      DepDist = node.DepDist.v[k],
-                                     Neighborhood = neighborhood.v,
-                                     Relation_Subtree = rel.attr.v,
-                                     POS_Subtree = pos.attr.v, 
-                                     Rel_Pos_Subtree = rel.pos.attr.v) # populate node from input xml. Add new @Subtree attribute.
+                                     Neighborhood = neighborhood.attr.v,
+                                     Relation_Subtree = rel.holder.v[k],
+                                     POS_Subtree = pos.holder.v[k], 
+                                     Rel_Pos_Subtree = rel.pos.holder.v[k]) # populate node from input xml. Add new @Subtree attribute.
           
           
         } # end of if/else switch
@@ -653,7 +753,7 @@ for (i in 1: length(files.v))  {
   } # end of loop j
   
   
-  j <- 1 
+   j <- 1 
   
   # saveXML(subtree.xml, file =  file.path(output.dir, files.v[i], fsep = "/"))  
 
