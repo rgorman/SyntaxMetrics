@@ -81,7 +81,7 @@
                                     
                                     
                                     
-                                    <!-- The following code extracts Dependency distance and adds it to each level of teh sWords -->
+                                    <!-- The following code extracts Dependency distance and adds it to each level of the rel-pos sWords -->
                                     
                                     <DD-rel-pos-sWord-0>
                                         <xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
@@ -127,7 +127,255 @@
                                             
                                         </xsl:choose>
                                     </DD-rel-pos-sWord-1>
-                                    
+                                    <xsl:choose>
+                                        <xsl:when test="$head_2 = 0">
+                                            <DD-rel-pos-sWord-2><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                ./@DepDist,
+                                                ./@relation,
+                                                substring(./@postag, 1, 1)
+                                                ), '-'))"
+                                            />
+                                            </DD-rel-pos-sWord-2>
+                                        </xsl:when>
+                                        <xsl:when test="$head_2 > 0">
+                                            <DD-rel-pos-sWord-2><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    normalize-space(string-join((
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                    ./@relation,
+                                                    substring(./@postag, 1, 1)
+                                                    ), '-'))"
+                                                />
+                                            </DD-rel-pos-sWord-2>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:choose>
+                                        <xsl:when test="$head_3 = 0">
+                                            <DD-rel-pos-sWord-3><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                ./@DepDist,
+                                                ./@relation,
+                                                substring(./@postag, 1, 1)
+                                                ), '-'))"
+                                            />
+                                            </DD-rel-pos-sWord-3>
+                                        </xsl:when>
+                                        <xsl:when test="$head_3 > 0">
+                                            <DD-rel-pos-sWord-3><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    normalize-space(string-join((
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                    ./@DepDist,
+                                                    ./@relation,
+                                                    substring(./@postag, 1, 1)
+                                                    ), '-'))"
+                                                />
+                                            </DD-rel-pos-sWord-3>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:choose>
+                                        <xsl:when test="$head_4 = 0">
+                                            <DD-rel-pos-sWord-4><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_3]/@DepDist,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                ./@DepDist,
+                                                ./@relation,
+                                                substring(./@postag, 1, 1)
+                                                ), '-'))"
+                                            />
+                                            </DD-rel-pos-sWord-4>
+                                        </xsl:when>
+                                        <xsl:when test="$head_4 > 0">
+                                            <DD-rel-pos-sWord-4><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    normalize-space(string-join((
+                                                    parent::sentence/word[@id = $head_4]/@DepDist,
+                                                    parent::sentence/word[@id = $head_4]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_4]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                    ./@DepDist,
+                                                    ./@relation,
+                                                    substring(./@postag, 1, 1)
+                                                    ), '-'))"
+                                                />
+                                            </DD-rel-pos-sWord-4>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:choose>
+                                        <xsl:when test="$head_5 = 0">
+                                            <DD-rel-pos-sWord-5><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_4]/@SepDist,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_3]/@DepDist,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                ./@DepDist,
+                                                ./@relation,
+                                                substring(./@postag, 1, 1)
+                                                ), '-'))"
+                                            />
+                                            </DD-rel-pos-sWord-5>
+                                        </xsl:when>
+                                        <xsl:when test="$head_5 > 0">
+                                            <DD-rel-pos-sWord-5><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    normalize-space(string-join((
+                                                    parent::sentence/word[@id = $head_5]/@DepDist,
+                                                    parent::sentence/word[@id = $head_5]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_5]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_4]/@DepDist,
+                                                    parent::sentence/word[@id = $head_4]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_4]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                    ./@DepDist,
+                                                    ./@relation,
+                                                    substring(./@postag, 1, 1)
+                                                    ), '-'))"
+                                                />
+                                            </DD-rel-pos-sWord-5>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:choose>
+                                        <xsl:when test="$head_6 = 0">
+                                            <DD-rel-pos-sWord-6><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_5]/@DepDist,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_4]/@DepDist,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_3]/@DepDist,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                ./@DepDist,
+                                                ./@relation,
+                                                substring(./@postag, 1, 1)
+                                                ), '-'))"
+                                            />
+                                            </DD-rel-pos-sWord-6>
+                                        </xsl:when>
+                                        <xsl:when test="$head_6 > 0">
+                                            <DD-rel-pos-sWord-6><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    normalize-space(string-join((
+                                                    parent::sentence/word[@id = $head_6]/@DepDist,
+                                                    parent::sentence/word[@id = $head_6]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_6]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_5]/@DepDist,
+                                                    parent::sentence/word[@id = $head_5]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_5]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_4]/@DepDist,
+                                                    parent::sentence/word[@id = $head_4]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_4]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_3]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_2]/@postag, 1, 1),
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
+                                                    ./@DepDist,
+                                                    ./@relation,
+                                                    substring(./@postag, 1, 1)
+                                                    ), '-'))"
+                                                />
+                                            </DD-rel-pos-sWord-6>
+                                        </xsl:when>
+                                    </xsl:choose>
+
+<!-- End of code block adding Dep Dtst to rel-pos sWords.  Only sWord levels 0-6 are included. Higher sWords are probably too rare to be
+     worth condiering.  --> 
+
+
+                                    <DD-rel-sWord-0><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                        <!-- Each <word> element returns its own @relation. These data are output as contents of 
+                                        a <rel-sWord-0> element. -->
+                                        <xsl:value-of select="string-join((
+                                        ./@relation,
+                                        ./@DepDist), '-')"/>
+                                    </DD-rel-sWord-0>
+
+
+
+
+
+
+
+
 
                                     <!-- The following block of code extracts the @relation and part of the @postag attributes from each imput 
                                     <word> element and creates child elements of teh <word> output. This child elements are <rel-pos-Sword-x> 
