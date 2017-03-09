@@ -365,13 +365,132 @@
                                         <!-- Each <word> element returns its own @relation. These data are output as contents of 
                                         a <rel-sWord-0> element. -->
                                         <xsl:value-of select="string-join((
-                                        ./@relation,
-                                        ./@DepDist), '-')"/>
+                                        ./@DepDist,
+                                        ./@relation), '-')"/>
                                     </DD-rel-sWord-0>
 
+                                    <DD-rel-sWord-1><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                        <xsl:choose>
+                                            <xsl:when test="$head_1 = 0">#-<xsl:value-of
+                                                select="string-join((
+                                                ./@DepDist,
+                                                ./@relation), '-')"/> 
+                                            </xsl:when>
+                                            <xsl:when test="$head_1 > 0">
+                                                <xsl:value-of
+                                                    select="
+                                                    string-join((
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,                                                        
+                                                    ./@DepDist,
+                                                    ./@relation                                                        
+                                                    ), '-')"
+                                                />
+                                            </xsl:when>
+                                            
+                                        </xsl:choose>
+                                    </DD-rel-sWord-1>
+                                    
+                                    <xsl:choose>
+                                        <xsl:when test="$head_2 = 0">
+                                            <DD-rel-sWord-2><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                string-join((
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@DepDist,
+                                                ./@relation
+                                                ), '-')"
+                                            />
+                                            </DD-rel-sWord-2>
+                                        </xsl:when>
+                                        <xsl:when test="$head_2 > 0">
+                                            <DD-rel-sWord-2><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    string-join((
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    ./@DepDist,
+                                                    ./@relation
+                                                    ), '-')"
+                                                />
+                                            </DD-rel-sWord-2>
+                                        </xsl:when>
+                                    </xsl:choose>
 
-
-
+                                    <xsl:choose>
+                                        <xsl:when test="$head_3 = 0">
+                                            <DD-rel-sWord-3><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                string-join((
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@DepDist,
+                                                ./@relation
+                                                ), '-')"
+                                            />
+                                            </DD-rel-sWord-3>
+                                        </xsl:when>
+                                        <xsl:when test="$head_3 > 0">
+                                            <DD-rel-sWord-3><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    string-join((
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    ./@DepDist,
+                                                    ./@relation
+                                                    ), '-')"
+                                                />
+                                            </DD-rel-sWord-3>
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:choose>
+                                        <xsl:when test="$head_4 = 0">
+                                            <DD-rel-sWord-4><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>#-<xsl:value-of
+                                                select="
+                                                string-join((
+                                                parent::sentence/word[@id = $head_3]/@DepDist,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@DepDist,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@DepDist,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@DepDist,
+                                                ./@relation
+                                                ), '-')"
+                                            />
+                                            </DD-rel-sWord-4>
+                                        </xsl:when>
+                                        <xsl:when test="$head_4 > 0">
+                                            <DD-rel-sWord-4><xsl:attribute name="ref"><xsl:value-of select="./@cite"/></xsl:attribute>
+                                                <xsl:value-of
+                                                    select="
+                                                    string-join((
+                                                    parent::sentence/word[@id = $head_4]/@DepDist,
+                                                    parent::sentence/word[@id = $head_4]/@relation,
+                                                    parent::sentence/word[@id = $head_3]/@DepDist,
+                                                    parent::sentence/word[@id = $head_3]/@relation,
+                                                    parent::sentence/word[@id = $head_2]/@DepDist,
+                                                    parent::sentence/word[@id = $head_2]/@relation,
+                                                    parent::sentence/word[@id = $head_1]/@DepDist,
+                                                    parent::sentence/word[@id = $head_1]/@relation,
+                                                    ./@DepDist,
+                                                    ./@relation
+                                                    ), '-')"
+                                                />
+                                            </DD-rel-sWord-4>
+                                        </xsl:when>
+                                    </xsl:choose>
 
 
 
