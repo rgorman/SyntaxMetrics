@@ -10,7 +10,7 @@ source("code/corpusFunctions.R")
 # location of files: C:\Users\rgorm\Documents\syntacto_stylistics\R_files\working_input
 
 
-input.dir <- "./working_input1"
+input.dir <- "./xslt_output"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -23,6 +23,7 @@ i <- 1
 
 # create list object with no content. Vectors extracted from XML files will be stored here.
 sWord.freq.table.list <- list()
+data.points.counter.l <- list()
 
 for (i in 1:length(files.v))  {
   
@@ -52,6 +53,7 @@ for (i in 1:length(files.v))  {
   }
   
   # change sWord.contents vector to lower case
+  data.points.counter.l[[i]] <- sWord.contents
   sWord.contents <- tolower(sWord.contents)
   
   # create a contingency table of sWord.contents. The table lists nuber of occurences for all sWords.
@@ -65,9 +67,23 @@ for (i in 1:length(files.v))  {
   
 }
 
+# create list of actual freqency counts from relative frequencies
+raw.table <- sWord.freq.table.list[[1]]*sum(length(data.points.counter.l[[1]]))
 
+raw.table.list <- list()
+i <- 1
 # End of extraction loop!
+ for (i in 1:length(files.v)) {
+   raw.table.list[[i]] <- sWord.freq.table.list[[i]]*sum(length(data.points.counter.l[[i]]))
+   
+   
+ }
 
+
+save(raw.table.list, file = "xml_metadata/raw_table_lisr-3-15-17.R")
+
+save(sWord.freq.table.list, file = "xml_metadata/sWord_frequency_table_list-3-15-17.R")
+save(data.points.counter.l, file = "xml_metadata/all_data_points_list-3-15-17.R")
 
 
 # save sWord.freq.table.list to disk
@@ -123,3 +139,6 @@ write.csv(smaller.m, file = "working_output1/rel_pos_Levels_Oct-23-2016_1001AM.c
 
 
 
+
+
+  

@@ -19,7 +19,7 @@ files.v <- dir(path=input.dir, pattern=".*xml") # A vector with each file name f
 DD.l <- list()
 node.DD.l <- list()
 
-
+i <- 8
 timestamp()
 
 for (i in 1: length(files.v))  {
@@ -33,6 +33,7 @@ for (i in 1: length(files.v))  {
   # convert nodes to list object
   
   sentence.list <- xmlApply(sentence.nodes, xmlToList)
+
   
   
   subtree.xml <- xmlNode("subTree_document")
@@ -394,8 +395,13 @@ for (i in 1: length(files.v))  {
       
     }
     
-    mean.DepDist.v <- round(mean(abs(holder.node.DepDist.v), na.rm = TRUE), 4)
-                                          # Vector whose value will populate atrribute in each sentence node [j].
+    if (length(holder.node.DepDist.v) >0)  {
+      
+      mean.DepDist.v <- round(mean(abs(holder.node.DepDist.v), na.rm = TRUE), 4)
+      # Vector whose value will populate atrribute in each sentence node [j].
+      
+    }
+    
     
     
     ################################ END OF DEPENDENCY DISTANCE ################################################
@@ -783,7 +789,7 @@ for (i in 1: length(files.v))  {
   
    j <- 1 
   
-  # saveXML(subtree.xml, file =  file.path(output.dir, files.v[i], fsep = "/"))  
+   saveXML(subtree.xml, file =  file.path(output.dir, files.v[i], fsep = "/"))  
 
   DD.l[[i]] <- file.DepDist.v
   node.DD.l[[i]] <- total.node.DD.v
